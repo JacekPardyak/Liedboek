@@ -1,0 +1,54 @@
+## Leef (Żyj)
+
+### Tekst
+
+Piosenka  [@mozart:KV183] ,, fff 
+
+```{r, echo=FALSE}
+nl <- readLines(con = "./data/Leef.NL.txt", encoding = "UTF-8")
+pl <- readLines(con = "./data/Leef.PL.txt", encoding = "UTF-8")
+help <- read.csv("./data/Leef.help.txt", header = F, stringsAsFactors = F, encoding = "UTF-8")
+```
+
+
+
+:::::: {.columns}
+
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
+
+```{r, echo=FALSE, results = "asis"}
+ for(i in c(1:length(nl))){
+   line <- paste0(nl[i], "  \n") 
+   cat(line)
+    }
+```
+
+:::
+
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
+
+```{r, echo=FALSE, results = "asis"}
+ for(i in c(1:length(pl))){
+   line <- paste0(pl[i], "  \n") 
+   cat(line)
+ }
+```
+ 
+:::
+::::::
+
+### Pomoc językowa
+
+
+```{r, echo=FALSE, results = "asis"}
+ for(i in c(1:nrow(help))){
+   cat(paste(help[i,1], help[i,2], sep = " "))
+   cat("  \n")
+ }
+```
