@@ -13,8 +13,8 @@
 }
 % ------------
 % new for columns
-\makeatother
 \newenvironment{columns}[1][]{}{}
+
 \newenvironment{column}[1]{\begin{minipage}{#1}\ignorespaces}{%
 \end{minipage}
 \ifhmode\unskip\fi
@@ -30,5 +30,3 @@
     {}%
 }
 \makeatother
-
-\setlength{\textwidth}{5.5in}
