@@ -15,7 +15,7 @@ knitr::kable(df)
 
 :::::: {.columns}
 
-::: {.column width="48%" data-latex="{2.64in}"}
+::: {.column width="48%" data-latex="{6.64in}"}
 
 ```{r, echo=FALSE, results = "asis"}
  for(i in c(1:length(nl))){
@@ -28,12 +28,11 @@ knitr::kable(df)
 
 ::: {.column width="4%" data-latex="{0.22in}"}
 \ 
-<!-- an empty Div (with a white space),
-serving as a column separator -->
-
+<!-- an empty Div (with a white space), serving as
+a column separator -->
 :::
 
-::: {.column width="48%" data-latex="{2.64in}"}
+::: {.column width="48%" data-latex="{6.64in}"}
 
 ```{r, echo=FALSE, results = "asis"}
  for(i in c(1:length(pl))){
