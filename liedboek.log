@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7350 64-bit) (preloaded format=xelatex 2020.4.9)  22 APR 2020 02:06
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7350 64-bit) (preloaded format=xelatex 2020.4.9)  22 APR 2020 02:14
 entering extended mode
 **./liedboek.tex
 (liedboek.tex
@@ -892,25 +892,22 @@ Underfull \hbox (badness 1546) in paragraph at lines 315--321
 \TU/lmr/m/n/10 qua. Ut enim ad minim ve-
  []
 
+(liedboek.bbl [17] [18
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[17] (liedboek.bbl [18])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
-[19
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
+[19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
 (liedboek.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 408.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 408.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 326.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 326.
  ) 
 Here is how much of TeX's memory you used:
- 19799 strings out of 414221
- 339592 string characters out of 2902596
- 802889 words of memory out of 3000000
- 37027 multiletter control sequences out of 15000+200000
- 538813 words of font info for 80 fonts, out of 3000000 for 9000
+ 19789 strings out of 414221
+ 339414 string characters out of 2902596
+ 801737 words of memory out of 3000000
+ 37018 multiletter control sequences out of 15000+200000
+ 538805 words of font info for 79 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,8n,118p,809b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
 
