@@ -1,5 +1,5 @@
 --- 
-title: "Niderlandzki śpiewającoLiedboek"
+title: "Niderlandzki śpiewająco"
 author: "Jacek Pardyak"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,8 +8,8 @@ documentclass: book
 bibliography: [book.bib, packages.bib, songs.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+github-repo: JacekPardyak/Liedboek
+description: "100 piosenek w moim tłumaczeniu"
 ---
 
 # Prerequisites

@@ -1,0 +1,41 @@
+# Lata 1990 - 1999
+
+## Lief (Żyj) 
+```{r, echo=FALSE}
+nl <- readLines("./data/Leef.NL.txt", encoding = "UTF-8")
+pl <- readLines("./data/Leef.PL.txt", encoding = "UTF-8")
+df <- data.frame(nl,pl)
+knitr::kable(df)
+```
+
+
+:::::: {.columns}
+
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
+
+```{r, echo=FALSE, results = "asis"}
+ for(i in c(1:length(nl))){
+   line <- paste0(nl[i], "  \n") 
+   cat(line)
+    }
+```
+
+:::
+
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
+
+```{r, echo=FALSE, results = "asis"}
+ for(i in c(1:length(pl))){
+   line <- paste0(pl[i], "  \n") 
+   cat(line)
+ }
+```
+ 
+:::
+::::::
