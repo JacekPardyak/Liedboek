@@ -10,45 +10,73 @@ intro <- readLines("./data/Leef.intro.txt", encoding = "UTF-8")
 help <- read.csv("./data/Leef.help.txt", encoding = "UTF-8", header = F)
 ```
 
+### Wprowadzenie
+
 ```{r, echo=FALSE, results = "asis"}
 cat(intro)
 ```
 
-
-### Wprowadzenie
-
 ### Słowa
+
+<!-- :::::: {.columns} -->
+
+<!-- ::: {.column width="48%" data-latex="{2.64in}"} -->
+
+<!-- ```{r, echo=FALSE, results = "asis"} -->
+<!--  for(i in c(1:length(nl))){ -->
+<!--    line <- paste0(nl[i], "  \n")  -->
+<!--    cat(line) -->
+<!--     } -->
+<!-- ``` -->
+<!-- ::: -->
+
+<!-- ::: {.column width="4%" data-latex="{0.22in}"} -->
+<!-- \  -->
+<!-- <!-- an empty Div (with a white space), serving as -->
+<!-- a column separator -->
+
+<!-- ::: -->
+
+<!-- ::: {.column width="48%" data-latex="{2.64in}"} -->
+
+<!-- ```{r, echo=FALSE, results = "asis"} -->
+<!--  for(i in c(1:length(pl))){ -->
+<!--    line <- paste0(pl[i], "  \n")  -->
+<!--    cat(line) -->
+<!--  } -->
+<!-- ``` -->
+
+<!-- ::: -->
+
+<!-- :::::: -->
+
+
 
 :::::: {.columns}
 
-::: {.column width="48%" data-latex="{2.64in}"}
-  
-```{r, echo=FALSE, results = "asis"}
- for(i in c(1:length(nl))){
-   line <- paste0(nl[i], "  \n") 
-   cat(line)
-    }
+::: {.column width="55%" data-latex="{0.55\textwidth}"}
+```{r, echo=FALSE, fig.width=5, fig.height=4}
+par(mar = c(4, 4, .2, .1))
+plot(cars, pch = 19)
 ```
 :::
 
-::: {.column width="4%" data-latex="{0.22in}"}
+::: {.column width="5%" data-latex="{0.05\textwidth}"}
 \ 
 <!-- an empty Div (with a white space), serving as
 a column separator -->
+:::
 
+::: {.column width="40%" data-latex="{0.4\textwidth}"}
+The figure on the left-hand side shows the `cars` data.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur.
 :::
-  
-::: {.column width="48%" data-latex="{2.64in}"}
-  
-```{r, echo=FALSE, results = "asis"}
- for(i in c(1:length(pl))){
-   line <- paste0(pl[i], "  \n") 
-   cat(line)
- }
-```
-  
-:::
-  
 ::::::
 
 
