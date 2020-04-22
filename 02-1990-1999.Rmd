@@ -1,6 +1,7 @@
 # Lata 1990 - 1999
 
 ## Lief (Żyj) 
+
 ```{r, echo=FALSE}
 nl <- readLines("./data/Leef.NL.txt", encoding = "UTF-8")
 pl <- readLines("./data/Leef.PL.txt", encoding = "UTF-8")
@@ -8,6 +9,9 @@ df <- data.frame(nl,pl)
 knitr::kable(df)
 ```
 
+### Wprowadzenie
+
+### Słowa
 
 :::::: {.columns}
 
@@ -37,4 +41,9 @@ knitr::kable(df)
 ```
  
 :::
+
 ::::::
+
+### Pomoc językowa
+
+
