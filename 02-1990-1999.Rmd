@@ -54,20 +54,20 @@ cat(intro)
 
 :::::: {.columns}
 
-::: {.column width="55%" data-latex="{0.55\textwidth}"}
+::: {.column width="55%" data-latex="{2.64in}"}
 ```{r, echo=FALSE, fig.width=5, fig.height=4}
 par(mar = c(4, 4, .2, .1))
 plot(cars, pch = 19)
 ```
 :::
 
-::: {.column width="5%" data-latex="{0.05\textwidth}"}
+::: {.column width="5%" data-latex="{0.22in}"}
 \ 
 <!-- an empty Div (with a white space), serving as
 a column separator -->
 :::
 
-::: {.column width="40%" data-latex="{0.4\textwidth}"}
+::: {.column width="40%" data-latex="{2.64in}"}
 The figure on the left-hand side shows the `cars` data.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
