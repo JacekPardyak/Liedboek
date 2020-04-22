@@ -30,6 +30,7 @@ knitr::kable(df)
 \ 
 <!-- an empty Div (with a white space),
 serving as a column separator -->
+
 :::
 
 ::: {.column width="48%" data-latex="{2.64in}"}
