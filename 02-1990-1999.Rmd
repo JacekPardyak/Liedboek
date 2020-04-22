@@ -85,6 +85,7 @@ cat(intro)
 ```{r, echo=FALSE}
 knitr::kable(help)
 ```
+
 # Two columns
 
 Below is a Div containing three child Divs side by side. The Div
