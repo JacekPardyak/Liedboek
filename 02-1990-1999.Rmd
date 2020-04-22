@@ -16,6 +16,7 @@ knitr::kable(df)
 :::::: {.columns}
 
 ::: {.column width="48%" data-latex="{2.64in}"}
+  
 ```{r, echo=FALSE, results = "asis"}
  for(i in c(1:length(nl))){
    line <- paste0(nl[i], "  \n") 
@@ -28,17 +29,22 @@ knitr::kable(df)
 \ 
 <!-- an empty Div (with a white space), serving as
 a column separator -->
-:::
 
+:::
+  
 ::: {.column width="48%" data-latex="{2.64in}"}
+  
 ```{r, echo=FALSE, results = "asis"}
  for(i in c(1:length(pl))){
    line <- paste0(pl[i], "  \n") 
    cat(line)
  }
 ```
+  
 :::
+  
 ::::::
+
 
 ### Pomoc językowa
 
