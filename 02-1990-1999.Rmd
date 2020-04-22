@@ -1,13 +1,19 @@
 # Lata 1990 - 1999
 
+
 ## Lief (Żyj) 
 
 ```{r, echo=FALSE}
 nl <- readLines("./data/Leef.NL.txt", encoding = "UTF-8")
 pl <- readLines("./data/Leef.PL.txt", encoding = "UTF-8")
-df <- data.frame(nl,pl)
-knitr::kable(df)
+intro <- readLines("./data/Leef.intro.txt", encoding = "UTF-8")
+help <- read.csv("./data/Leef.help.txt", encoding = "UTF-8", header = F)
 ```
+
+```{r, echo=FALSE, results = "asis"}
+cat(intro)
+```
+
 
 ### Wprowadzenie
 
@@ -48,4 +54,7 @@ a column separator -->
 
 ### Pomoc językowa
 
+```{r, echo=FALSE}
+knitr::kable(help)
+```
 
