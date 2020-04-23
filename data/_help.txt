@@ -1,0 +1,16 @@
+BIBTEXKEY; NL; PL
+Leef;Je hoeft niet bang te zijn om fouten te maken.; Nie musisz bać się popełniać błędów.
+Leef;Ik zeg het alleen maar!; Po prostu to mówię!
+Leef;Gele gans zelf.; Zażółć gęślą jaźń.
+Verliefd;Weet je wat, ik ben er zat van.; Wiesz co, mam tego dosyć.
+Verliefd;Ik verlang ernaar met je alleen te zijn.; Pragnę być z tobą sam.
+Verliefd;Ik heb de wet aan m'n zij(-de).; Prawo mam po swojej stronie.
+Verliefd;Dat vind ik erg leuk.; To mi się bardzo podoba.
+Verliefd;We zitten te praten.; Gadamy sobie.
+Verliefd;Ik krijg dit in de gaten.; Zdaję sobie sprawę z tego
+Nacht;Châteauneuf-du-Pape; fr. cenione wino
+Nacht;Suus en Freek; duet wykonujący "Blauwe Dag"
+Nacht;Leo en Kate; para z filmu "Titanic"
+Nacht;Kylie; amerykańska celebrytka
+Nacht;Bel de Bel; właść. fr. La Belle des belles
+Nacht;Crane; od Kraantje, wykonawcy piosenki 

@@ -1,0 +1,69 @@
+Title, Artist, Url
+"La vie est belle", "Diggy Dex", "https://youtu.be/DLTq19bhO28"
+"Dromen zijn bedrog", "Marco Borsato", "https://youtu.be/CuA2U9iU6lQ"
+"Ik kan het niet alleen", "De Dijk", "https://youtu.be/ltSsojzp90M"
+"Het is een nacht", "Guus Meeuwis", "https://youtu.be/BMqZIFVYUXw"
+"O o Den Haag", "Harry Klorkestein", "https://youtu.be/ptGJ8wzeGDE"
+"Nacht", "Guus Meeuwis i Kraantje Pappie", "https://youtu.be/MxkdVogPeF0"
+"Vandaag ben ik gaan lopen", "Acda en De Munnik", "https://youtu.be/MO3AA9pEN9o"
+"Hij is van mij", "Bizzey, Maan, Tabitha Foen", "https://youtu.be/EYhLEHE1vfQ"
+"Grajmy panu", "Anna Szałapak, Agnieszka Osiecka", "https://youtu.be/L4IiXtMPEY0"
+"Ik voel me zo verdomd alleen", "Danny De Munk", "https://youtu.be/G-JcK8MbWFw"
+"Per spoor", "Guus Meeuwis", "https://youtu.be/lSxh-UK7Ays"
+"Liefs uit Londen", "Bløf", "https://youtu.be/aM5JU0juOSs"
+"Een beetje verliefd", "André Hazes", "https://youtu.be/3kufNNxyACg"
+"Leef", "Han van Eijk", "https://youtu.be/AFBGC0fPjLc"
+
+
+#"AVOND", "Boudewijn De Groot", ""
+
+
+#- Een eigen huis - René Froger
+#- Jij bent zo - Jeroen Van Der Boom
+#- Anne - Herman van Veen
+
+#- Het dorp - Wim Sonneveld
+#- Over de muur - Klein Orkest
+#- Zij gelooft in mij - André Hazes
+#- Orenmens - De Kift
+#- Een nieuwe dag - Nick & Simon (tekstowo) 
+#- Blouwe dag - Suzan & Freek
+#- "Blijf bij mij (Dit zijn voor mij de allermooiste uren)" (2007) - André Hazes and Gerard Joling 
+#— Davina Michelle — "Duurt te lang" (2018-19)
+#- BLØF featuring Geike Arnaert — "Zoutelande" (2018)
+
+# Nooit meer een morgen van Marco Borsato
+# "Niet of nooit geweest", "Acda & De Munnik", " -" 
+# Als het avond is
+# PA OLVIDARTE Emma Heesters & Rolf Sanchez
+# Ze Huilt Maar Ze Lacht "Maan" -  
+
+
+# -------------------------------------------
+# NA ZAKRECIE (KRYSTYNA JANDA)1
+#no cover NIE ZALUJE (EDYTA GEPERT)2
+#no cover OKULARNICY (ANNA MARIA JOPEK)3
+#no cover GRAJMY PANU (ANNA SZALAPAK)4
+#no cover NIM WSTANIE DZIEN (EDMUND FETTING)5
+#no cover KIEDY MNIE JUZ NIE BEDZIE (SEWERYN KRAJEWSKI)6
+#no cover OCZY TEJ MALEJ (MAGDA UMER)7
+#no cover UCIEKAJ MOJE SERCE (SEWERYN KRAJEWSKI)8
+#no cover KOLYSANKA DLA OKRUSZKA (SEWERYN KRAJEWSKI)9
+#no cover BYLE NIE O MILOSCI (ANN MARIA JOPEK)
+
+#"Terug Naar De Kust", "Maggie MacNeal", ""
+#"Laat me alleen", "Rita Hovink", ""
+#"Zomer", "Rob de Nijs", ""
+# "De mallemolen van het leven", "Heddy Lester", ""
+#"Mijn hoofd weer op je schouder", "Willeke Alberti", "https://youtu.be/eYk4bR1KWlY"
+#"Ademnood", "Linda, Roos & Jessica", ""
+#"Jij loog tegen mij", "André Hazes", ""
+
+#"Ik Verscheurde Je Foto", "Koos Alberts", ""
+
+
+#"Ik doe wat ik doe", "Astrid Nijgh", "" 
+#"Vluchten kan niet meer", "Frans Halsema en Jenny Arean", ""
+
+#Hoe het danst
+
