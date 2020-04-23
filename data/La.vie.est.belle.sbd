@@ -1,0 +1,197 @@
+\beginsong{La vie est belle \phantom{Życie}}[
+  by={Diggy Dex ft. DJ Vali},
+  sr={Karavaan, 2018},
+  cr={Diggy Dex}]
+\capo{1}
+\beginverse
+Geld laat de wereld draaien
+Liefde laat de wereld zien
+'t Was het eerste wat ik opschreef vanochtend toen ik opstond
+'t Was blijkbaar wat er opkomt
+\vfill
+'k Kleed me aan en m'n zoon ook
+Rij naar school, rij terug, pak de krant, sla hem open
+En m'n ogen dwalen door een tekst
+Zoveel drama op een afstand het blijft toch iets geks
+\vfill
+Pak m'n tas, loop naar buiten,
+Krijg plots een berichtje van een vriend met luister deze moet je even horen
+'t Is vreemd hoe het werkt
+Hoe iemand z'n verdriet ertoe kan leiden dat een prachtig lied wordt geboren
+\vfill
+Loop verder naar de trein, m'n ogen vallen op een vrouw
+Niet helemaal honderd, althans volgens onze regels
+Iedereen die blijft naar haar kijken, terwijl ik zie dat ze danst in de regen
+We doen het allemaal met wat je krijgt hier vooral het leven
+\endverse
+\beginchorus
+La vie est belle \echo{Het leven is prachtig} \rep{3}
+Je n’y comprends rien \echo{Ik begrijp er niets van}
+Je vais rire jusqu'à la fin \echo{Ik zal lachen tot het einde}
+La vie est belle \echo{Het leven is prachtig} \rep{2}
+\endchorus
+\beginverse
+Stap uit in de stad en begin te lopen
+Langs nieuwe straten waar ik vroeger van gedroomd heb
+Uit verlangens van een nooit geleefd leven
+Koptelefoon op en de radio op play
+\vfill
+'k Hoor een man terug van weggeweest zeggen
+'t Ging even niet zo best, laat me rustig uitleggen
+\phantom{spokojnie}
+'k Heb net m'n vrouw verloren
+Terwijl hij haar beschrijft voel ik de glimlach verborgen in zijn stem
+\vfill
+En ik denk nog eens terug aan al die eindeloze nachten
+Aan m'n vrienden, m'n geliefden en ook soms de donkerste gedachten
+Waar ik was al die tijd weet ik niet
+Misschien ergens op een plek waar ik veel te veel verwachtte
+\vfill
+Bestel wat te drinken en schrijf wat op, betaal de ober, loop weg
+En vervolg m'n tocht richting een brug waar een man staat te gebaren
+'k Denk, ach 't zal wel, ik laat 'm
+Kijk nog een keer om, het is een vriend, hij zwaait
+\endverse
+\endsong
+
+\beginsong{Życie jest piękne}[
+  by={Jacek Pardyak},
+  sr={Tłumaczenie},
+  cr={CC BY-SA 3.0}]
+\capo{1}
+\beginverse
+Pieniądz pozwala światu się kręcić
+Miłość pozwala światu widzieć
+To była pierwsza rzecz, którą zapisałem dziś rano, kiedy wstałem
+To było jasne, co się okazało
+\vfill
+Ubieram siebie i swojego syna też
+Jadę do szkoły, jadę z powrotem, biorę gazetę, otwieram ją
+I moje oczy wędrują po tekście
+Tyle dramatu na odległość pozostaje jednak czymś szalonym
+\vfill
+Chwytam moją torbę, wychodzę na zewnątrz,
+Nagle dostaję wiadomość od znajomego ze słyszysz musisz tego posłuchać
+To dziwne, jak to działa
+Jak czyjaś żałoba może doprowadzić do tego, że przychodzi na świat piękna piosenka
+\vfill
+Idę dalej na pociąg, moje oczy padają na kobietę
+\phantom{vrouw}
+Niecałe sto, przynajmniej według naszych zasad
+\phantom{regels}
+Każdy, kto został na nią patrzy, podczas gdy ja widzę, że ona tańczy w deszczu 
+Wszyscy to robimy z tym co tu dostajemy, zwłaszcza życiem
+\endverse
+\beginchorus
+Życie jest piękne \rep{3}
+Nic z tego nie rozumiem
+Będę śmiać się do końca
+\phantom{einde}
+Życie jest piękne \rep{2}
+\endchorus
+\beginverse
+Wysiadam na mieście i zaczynam iść
+Wzdłuż nowych ulic, o których kiedyś marzyłem
+\phantom{heb}
+Z pragnień nigdy nie przeżywanego życia
+Słuchawki na uszach i radio na play
+\vfill
+Słyszę mężczyznę z powrotem w grze mówiącego
+Przez jakiś czas nie szło tak dobrze, pozwól na spokojnie wyjaśnię
+Właśnie straciłem żonę
+Kiedy ją opisuje, czuję uśmiech ukryty w jego głosie
+\vfill
+I myślę z powrotem o tych wszystkich niekończących się nocach
+O moich przyjaciołach, moich ukochanych i czasami najciemniejszych myślach
+Gdzie ja byłem przez cały ten czas nie wiem
+Może w miejscu, gdzie dużo za dużo oczekiwałem
+\phantom{wiele}
+\vfill
+Zamawiam coś do picia i coś notuję, płacę kelnerowi, uciekam
+I kontynuuję moją podróż w kierunku mostu, na którym gestykuluje mężczyzna
+Myślę, a co tam, zostawiam go
+Spoglądam jeszcze raz, to przyjaciel, on macha
+\endverse
+\endsong
+%\begin{intersong}
+%\vfill
+%\end{intersong}
+
+\begin{intersong}
+\begin{tabular}{ p{.07\textwidth} p{.4\textwidth} }
+     \begin{minipage}{.18\textwidth}
+      \includegraphics[scale=0.18]{./qr-codes/_talk}
+    \end{minipage}&
+    \begin{minipage}{.3\textwidth}
+\textbf{...} ...
+     \end{minipage} 
+\end{tabular}
+
+\textbf{De kinderen horen alles, maar luisteren zelden.} Dzieci słyszą wszystko, ale rzadko słuchają.
+
+\textbf{Daar kun je geen nee tegen zeggen.} Nie możesz odmówić.
+
+\textbf{Je kijkt wel, maar je ziet niks.} Patrzysz, ale nic nie widzisz. 
+
+\textbf{Wil je weglopen van huis?} Chcesz uciec z domu?
+
+\textbf{Terug van weggeweest} Terug van weggeweest
+Terug van weggeweest - uitdrukking om aan te geven dat men weer van de partij is, dat men terug is (na een periode van afwezigheid). Dikwijls spottend gebruikt. Jestem dalej w grze. 
+
+\textbf{Kom nog eens terug!} ... 
+
+\textbf{We zijn ergens op een godverlaten plek.} Jesteśmy w miejscu zapomnianym przez boga
+
+\textbf{Het zal wel.} 
+
+\textbf{Laat het hier!} Zostaw to tutaj!
+
+\end{intersong}
+
+\begin{intersong}
+\vfill
+\end{intersong}
+\begin{intersong}
+\vfill
+\end{intersong}
+\begin{intersong}
+\vfill
+\end{intersong}
+\begin{intersong}
+\vfill
+\end{intersong}
+\begin{intersong}
+\vfill
+\end{intersong}
+\begin{intersong}
+\vfill
+\end{intersong}
+
+\begin{intersong}
+
+\textbf{Ga terug.} Zawróć.
+\textbf{Wanneer moet ik terugkomen?} Kiedy muszę wrócić?
+\textbf{Zullen wij naar de duinen gaan?} Może pójdziemy na wydmy?
+
+De lijn is bezet. Linia jest zajęta
+
+Als ik meer tijd had, zou ik op je wachten. Gdybym miał/a więcej czasu, poczekałbym na ciebie. 
+
+Je moeder kan echt lekker koken / Twoja mama naprawdę potrafi dobrze gotować
+
+ \vfill
+
+\begin{tabular}{ p{.25\textwidth} c }
+     \begin{minipage}{.25\textwidth}
+ \textit{Nie taka wesoła piosenka. Posłuchajcie sami.} 
+     \end{minipage}& 
+     \begin{minipage}{.25\textwidth}
+      \includegraphics[scale=0.18]{./qr-codes/La.vie.est.belle.pdf}
+    \end{minipage}\\
+\end{tabular}
+
+\end{intersong}
+
+
+%Ach, het zal wel, oké?
+%Well, whatever, right?

@@ -1,0 +1,9 @@
+# Lata 1970-1979
+
+```{r, echo=FALSE, results = "asis"}
+song <- c("Nacht")
+
+make.all(song)
+
+```
+

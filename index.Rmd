@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib, packages.bib, songs.bib]
+bibliography: [songs.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: JacekPardyak/Liedboek
@@ -14,16 +14,9 @@ description: "100 piosenek w moim tłumaczeniu"
 
 # Wstęp
 
-```{r}
-Sys.setlocale("LC_ALL","Polish")
-Sys.getlocale()
+```{r include=FALSE}
+invisible(Sys.setlocale("LC_ALL","Polish"))
 ```
-
-
-
-
-
-
 
 
 Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
@@ -31,10 +24,89 @@ Remember each Rmd file contains one and only one chapter, and a chapter is defin
 To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
 
 ```{r include=FALSE}
-# automatically create a bib database for songs
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
+songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
+help  <- read.csv("./data/_help.txt" , sep = ";", encoding = "UTF-8", stringsAsFactors = F)
 
+bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "CATEGORY",  "AUTHOR", "TITLE", "YEAR", "URL" )])
+bib2df::df2bib(bib.tbl, "./songs.bib")
+```
+
+
+
+```{r include=FALSE}
+# make title
+make.title <- function(x){
+  cat(paste0("## ", songs[songs$BIBTEXKEY == x, "TITLE"], ", _", 
+          songs[songs$BIBTEXKEY == x, "ARTIST"], "_", "\n", sep = "" ))
+}
+
+make.intro <- function(x){
+  cat(paste0("Piosenka **", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
+          "[@", x, "]", 
+          " _", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_ ", 
+          songs[songs$BIBTEXKEY == x, "NOTE"], ".", "  \n", sep = "" ))
+}
+
+make.help <- function(x){
+  tmp <- help[help$BIBTEXKEY == x, ]
+  for (i in c(1:nrow(tmp))) {
+    cat(paste0("**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
+   }
+}
+
+make.lyrics <- function(x){
+  path <- paste0("./data/", x, ".txt", sep = "")
+  lyrics <- read.csv(path, encoding = "UTF-8", header = F, sep = ";")
+  nverses <- max(lyrics$V1)
+  
+  template <- c("
+:::::: {.columns}
+
+::: {.column width='48%%' data-latex='{0.48\\textwidth}'}
+
+%s
+:::
+
+::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
+\\ 
+:::
+
+::: {.column width='48%%' data-latex='{0.48\\textwidth}'}
+%s
+:::
+::::::
+
+\n
+")  
+    
+
+
+ for(i in c(1:nverses)){
+   temp <- lyrics[lyrics$V1 == i,]
+    
+   chunkNL <- c()
+   for (j in c(1:nrow(temp))) {
+   chunkNL <- paste(chunkNL, temp[j,2], sep = "  \n")  
+   }
+   chunkPL <- c()
+   for (j in c(1:nrow(temp))) {
+   chunkPL <- paste(chunkPL, temp[j,3], sep = "  \n")  
+   }
+   cat(sprintf(template, chunkNL, chunkPL))
+   if (!knitr:::is_html_output()) cat("\\vfill")
+   
+ }
+
+cat("  \n")
+
+}
+
+make.all <- function(x){
+  make.title(x)
+  make.intro(x)
+  make.lyrics(x)
+  make.help(x)
+}
 
 ```
+

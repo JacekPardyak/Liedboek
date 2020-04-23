@@ -1,0 +1,105 @@
+\beginsong{Ik kan het niet alleen}[
+  by={De Dijk},
+  sr={Niemand in de Stad, 1989},
+  cr={De Dijk}]
+\capo{1}
+\beginverse
+Elke morgen, elke middag
+Elke avond, iedere nacht
+Stel dat ik er wel maar jij er niet was 
+Dan was morgen morgen waarschijnlijk weer zo’n dag
+\endverse
+\beginchorus
+En ik kan ’t niet 
+ik kan ’t niet 
+ik kan er niet omheen 
+k-k-kan ’t niet 
+ik kan ’t niet alleen
+\endchorus
+\beginverse
+Natte ramen, kale muren 
+Lege flessen op de gang 
+Lange tanden, late uren 
+Weinig zon en veel behang
+\endverse
+\beginverse
+Ik heb het geprobeerd gedaan wat ik kan
+maar alles gaat verkeerd 
+Ik ben ook maar een man
+En ik kan het niet alleen 
+\endverse
+\endsong
+
+\begin{intersong}
+\begin{tabular}{ p{.07\textwidth} p{.4\textwidth} }
+     \begin{minipage}{.18\textwidth}
+      \includegraphics[scale=0.18]{./qr-codes/_talk}
+    \end{minipage}&
+    \begin{minipage}{.3\textwidth}
+\textbf{\ldots} \ldots
+
+\end{minipage} 
+\end{tabular}
+
+\textbf{Hij eet met lange tanden.} On je niechętnie.
+
+\textbf{Beter laat dan nooit.} Lepiej późno niż wcale.
+
+\textbf{We kunnen er niet omheen dat \ldots} Nie możemy omijać faktu, że \ldots
+\end{intersong}
+
+\begin{intersong}
+\vfill
+\end{intersong}
+
+\begin{intersong}
+\lipsum[1-1]
+\end{intersong}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\beginsong{Sam nie dam rady}[
+  by={Jacek Pardyak},
+  sr={Tłumaczenie},
+  cr={CC BY-SA 3.0}]
+\capo{1}
+\beginverse
+Co rano, co południe
+Co wieczór, każdej nocy 
+Stel dat ik er wel maar jij er niet was 
+Dan was morgen morgen waarschijnlijk weer zo’n dag
+Jutro prawdopodobnie znowu taki dzień
+\endverse
+\beginchorus
+En ik kan ’t niet
+ik kan ’t niet  
+ik kan er niet omheen 
+k-k-kan ’t niet 
+ik kan ’t niet alleen
+\endchorus
+\beginverse
+Mokre okna, gołe ściany
+Puste butelki na korytarzu
+Brak apetytu Późne godziny 
+Niewiele słońca i wiele tapet
+\endverse
+\beginverse
+Próbowałem zrobić, co mogłem
+ale wszystko idzie źle
+Jestem tylko człowiekiem
+I nie mogę tego zrobić sam
+\endverse
+\endsong
+\begin{intersong}
+
+\begin{tabular}{ p{.25\textwidth} c }
+     \begin{minipage}{.25\textwidth}
+ \textit{Jedna z najbardziej znanych piosenek grupy De Dijk, do dziś nadal odtwarzana przez wiele stacji radiowych. Posłuchajcie sami.} 
+     \end{minipage}& 
+     \begin{minipage}{.25\textwidth}
+      \includegraphics[scale=0.18]{./qr-codes/Ik.kan.het.niet.alleen.pdf}
+    \end{minipage}\\
+\end{tabular}
+
+\end{intersong}
+
