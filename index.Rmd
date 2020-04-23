@@ -1,5 +1,5 @@
 --- 
-title: "Niderlandzki śpiewająco"
+title: "O czym śpiewają Holendrzy?"
 author: "Jacek Pardyak"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -21,13 +21,20 @@ invisible(Sys.setlocale("LC_ALL","Polish"))
 
 Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
 
+<!-- Example \@ref(Leef) -->
+
 To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
 
 ```{r include=FALSE}
 songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
 help  <- read.csv("./data/_help.txt" , sep = ";", encoding = "UTF-8", stringsAsFactors = F)
 
+#  Url = {https://youtu.be/AFBGC0fPjLc},
+#  Note   = "\url{http://engineering.purdue.edu/~mark/puthesis}"
+
 bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "CATEGORY",  "AUTHOR", "TITLE", "YEAR", "URL" )])
+bib.tbl$NOTE <- paste0('\\url{', bib.tbl$URL, '}')
+
 bib2df::df2bib(bib.tbl, "./songs.bib")
 ```
 
@@ -37,27 +44,64 @@ bib2df::df2bib(bib.tbl, "./songs.bib")
 # make title
 make.title <- function(x){
   cat(paste0("## ", songs[songs$BIBTEXKEY == x, "TITLE"], ", _", 
-          songs[songs$BIBTEXKEY == x, "ARTIST"], "_", "\n", sep = "" ))
+          songs[songs$BIBTEXKEY == x, "ARTIST"], "_", 
+          "{#", x, "}" ,"\n", sep = "" ))
 }
 
+
 make.intro <- function(x){
-  cat(paste0("Piosenka **", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
+  
+    template <- c("
+:::::: {.columns}
+
+::: {.column width='36%%' data-latex='{0.36\\textwidth}'}
+
+%s
+:::
+
+::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
+\\ 
+:::
+
+::: {.column width='60%%' data-latex='{0.60\\textwidth}'}
+%s
+:::
+::::::
+
+\n
+")
+#    image <- 
+#       ifelse(!knitr:::is_html_output() == TRUE, 
+#       paste0("\\includegraphics{./images/", x, "}"),
+#       paste0("![..](./images/", x, ".svg)"))
+    
+    image <- 
+       ifelse(!knitr:::is_html_output() == TRUE, 
+       paste0("\\includegraphics{./images/", x, "}"),
+       paste0("![](./images/", x, ".png)"))
+    
+    
+    text <- paste0("Piosenka **", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
           "[@", x, "]", 
           " _", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_ ", 
-          songs[songs$BIBTEXKEY == x, "NOTE"], ".", "  \n", sep = "" ))
+          songs[songs$BIBTEXKEY == x, "NOTE"], ".", "  \n", sep = "" )
+  
+    cat(sprintf(template, image, text))
+if (!knitr:::is_html_output()) cat("\\vfill")
+    
 }
 
 make.help <- function(x){
   tmp <- help[help$BIBTEXKEY == x, ]
   for (i in c(1:nrow(tmp))) {
-    cat(paste0("**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
+    cat(paste0("> ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
    }
 }
 
 make.lyrics <- function(x){
   path <- paste0("./data/", x, ".txt", sep = "")
   lyrics <- read.csv(path, encoding = "UTF-8", header = F, sep = ";")
-  nverses <- max(lyrics$V1)
+  nverses <- max(lyrics$V2)
   
   template <- c("
 :::::: {.columns}
@@ -82,15 +126,19 @@ make.lyrics <- function(x){
 
 
  for(i in c(1:nverses)){
-   temp <- lyrics[lyrics$V1 == i,]
+   temp <- lyrics[lyrics$V2 == i,]
     
    chunkNL <- c()
    for (j in c(1:nrow(temp))) {
-   chunkNL <- paste(chunkNL, temp[j,2], sep = "  \n")  
+     chunkNL <- ifelse(temp[j,"V1"] == 1,
+                       paste(chunkNL, paste0("_",temp[j,"V3"], "_"), sep = "  \n"),
+                       paste(chunkNL, temp[j,"V3"], sep = "  \n"))
    }
    chunkPL <- c()
    for (j in c(1:nrow(temp))) {
-   chunkPL <- paste(chunkPL, temp[j,3], sep = "  \n")  
+   chunkPL <- ifelse(temp[j,"V1"] == 1,
+                       paste(chunkPL, paste0("_",temp[j,"V4"], "_"), sep = "  \n"),
+                       paste(chunkPL, temp[j,"V4"], sep = "  \n"))
    }
    cat(sprintf(template, chunkNL, chunkPL))
    if (!knitr:::is_html_output()) cat("\\vfill")

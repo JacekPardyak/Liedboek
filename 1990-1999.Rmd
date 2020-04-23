@@ -2,6 +2,10 @@
 
 ```{r, echo=FALSE, results = "asis"}
 song <- c("Leef")
+make.all(song)
+```
 
+```{r, echo=FALSE, results = "asis"}
+song <- c("Het-is-een-nacht")
 make.all(song)
 ```

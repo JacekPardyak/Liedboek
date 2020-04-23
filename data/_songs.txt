@@ -1,4 +1,5 @@
 "BIBTEXKEY"; "CATEGORY"; "AUTHOR"; "ARTIST"; "TITLE"; "TITLE.PL"; "YEAR"; "NOTE"; "URL"
-Leef;Misc;Ruud Voerman and Paul Post;Han van Eijk;Leef;Żyj;1999;stała się hitem list przebojów po tym została użyta w pierwszej w Holandii edycji Big Brother;https://youtu.be/AFBGC0fPjLc
-Verliefd;Misc;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and Andr{\e} G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;;https://youtu.be/3kufNNxyACg
-Nacht;Misc;Guus Meeuwis and Kraantje Pappie;Guus Meeuwis and Kraantje Pappie;Nacht;Noc;2020;Ćwierć wieku po "Het is een nacht" Guus Meeuwis wykonał “Nacht” wraz z raperem Kraantje Pappie. Posłuchajcie sami;https://youtu.be/MxkdVogPeF0
+Leef;Manual;Ruud Voerman and Paul Post;Han van Eijk;Leef;Żyj;1999;stała się hitem list przebojów po tym została użyta w pierwszej w Holandii edycji Big Brother;https://youtu.be/AFBGC0fPjLc
+Een-beetje-verliefd;Manual;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and Andre G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;;https://youtu.be/3kufNNxyACg
+Nacht;Manual;Guus Meeuwis and Kraantje Pappie;Guus Meeuwis and Kraantje Pappie;Nacht;Noc;2020;Ćwierć wieku po "Het is een nacht" Guus Meeuwis wykonał “Nacht” wraz z raperem Kraantje Pappie. Posłuchajcie sami;https://youtu.be/MxkdVogPeF0
+Het-is-een-nacht;Manual;Guus Meeuwis;Guus Meeuwis;Het is een nacht;To jest taka noc;1995;powstała po romantycznym weekendzie, jaki spędził autor ze swoją dziewczyną Valérie Gregoire w Brugii;https://youtu.be/BMqZIFVYUXw

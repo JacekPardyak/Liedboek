@@ -1,5 +1,5 @@
 book_filename: "liedboek"
 language:
   ui:
-    chapter_name: "ROZDZIAŁ "
+    chapter_name: "Rozdział "
 delete_merged_file: true

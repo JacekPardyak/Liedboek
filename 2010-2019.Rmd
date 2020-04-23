@@ -1,4 +1,7 @@
 # Lata 2010 - 2019
 
-Some _significant_ applications are demonstrated in this chapter.
+```{r, echo=FALSE, results = "asis"}
+song <- c("Nacht")
+make.all(song)
+```
 
