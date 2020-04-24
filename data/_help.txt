@@ -26,3 +26,14 @@ Het-is-een-nacht;Je moeder kan echt lekker koken.; Twoja mama naprawdę potrafi 
 Het-is-een-nacht;Dat is veel, hè?; To dużo, prawda?
 Het-is-een-nacht;Wanneer moet ik terugkomen?; Kiedy muszę wrócić?
 Het-is-een-nacht;Zullen wij naar de duinen gaan?; Może pójdziemy na wydmy?
+
+Blauwe-dag;De lucht wordt donker.; Niebo robi się ciemne.
+Blauwe-dag;De lucht klaarde op.; Niebo się przejaśniło.
+Blauwe-dag;De hemel is blauw; Niebo jest niebieskie.
+Blauwe-dag;Zijn ziel was in het hemel; Jego dusza była w niebie.
+Blauwe-dag;Ik voel me blauw.; Jestem przygnębiony.
+Blauwe-dag;Weet je nog?; Czy pamiętasz?
+Blauwe-dag;Laten we haar alleen laten.; Zostawmy ją w spokoju.
+Blauwe-dag;Ik denk dat wij goede vrienden zouden kunnen zijn.; Myślę, że moglibyśmy być dobrymi przyjaciółmi.
+Blauwe-dag;Hij kan nauwelijks lezen.; On ledwo umie czytać.
+Blauwe-dag;Houd deze koffer in de gaten.; Obserwuj tę walizkę.

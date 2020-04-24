@@ -1,11 +1,16 @@
 # Lata 1990 - 1999
 
-```{r, echo=FALSE, results = "asis"}
+```{r, echo=FALSE, results = "asis", eval=TRUE}
 song <- c("Leef")
 make.all(song)
 ```
 
-```{r, echo=FALSE, results = "asis"}
+```{r, echo=FALSE, results = "asis", eval=TRUE}
 song <- c("Het-is-een-nacht")
+make.all(song)
+```
+
+```{r, echo=FALSE, results = "asis"}
+song <- c("Blauwe-dag")
 make.all(song)
 ```

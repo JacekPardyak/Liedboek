@@ -19,11 +19,14 @@ invisible(Sys.setlocale("LC_ALL","Polish"))
 ```
 
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+Wszelkie prawa do tekstów piosenek umieszczonych w tej pracy przysługują ich autorom. 
 
-<!-- Example \@ref(Leef) -->
+Teksty piosenek znajdują się tutaj wyłącznie w celach informacyjnych i edukacyjnych oraz służą do użytku prywatnego.
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
+W przypadku, gdy właściciel praw do konkretnego tekstu nie życzy sobie by się nim posługiwać w tej pracy, uprzejmie proszę o kontakt, a tekst zostanie usunięty.
+
+Wszelkie prawa do tłumaczeń tekstów piosenek umieszczonych w tej pracy przysługują mi, ich autorowi.
+
 
 ```{r include=FALSE}
 songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
