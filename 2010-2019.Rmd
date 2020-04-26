@@ -1,7 +1,3 @@
 # Lata 2010 - 2019
 
-```{r, echo=FALSE, results = "asis"}
-song <- c("Nacht")
-make.all(song)
-```
-
+Miejsce na rodział

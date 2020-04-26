@@ -1,0 +1,39 @@
+0;1;Je vraagt of ik zin heb in een sigaret
+0;1;Het is twee uur 's nachts
+0;1;We liggen op bed
+0;1;In een hotel in een stad
+0;1;Waar niemand ons hoort
+0;1;Waar niemand ons kent
+0;1;En niemand ons stoort
+0;1;Op de vloer ligt een lege fles wijn
+0;1;En kledingstukken die van jou of mij kunnen zijn
+0;1;Een schemering de radio zacht
+0;1;En deze nacht heeft alles
+0;1;Wat ik van een nacht verwacht
+
+1;2;Het is een nacht
+1;2;Die je normaal alleen in films ziet
+1;2;Het is een nacht
+1;2;Die wordt bezongen in het mooiste lied
+1;2;Het is een nacht
+1;2;Waarvan ik dacht dat ik hem nooit beleven zou
+1;2;Maar vannacht beleef ik hem met jou ohoh
+
+0;3;Ik ben nog wakker en ik staar naar het plafond
+0;3;En ik denk aan de dag lang geleden begon
+0;3;Het zomaar er vandoor gaan met jou
+0;3;Niet wetend waar de reis eindigen zou
+0;3;Nu lig ik hier in een wildvreemde stad
+0;3;En heb net de nacht van mijn leven gehad
+0;3;Maar helaas er komt weer licht door de ramen
+0;3;Hoewel voor ons de wereld
+0;3;Vannacht heeft stil gestaan
+
+0;4;Maar een lied blijft slechts bij woorden
+0;4;Een film is in scène gezet
+0;4;Maar deze nacht met jou
+0;4;Is levensecht
+
+0;5;En vannacht beleef ik hem met jou ohoh
+0;5;En ik hou alleen nog maar van jou ohoh
+0;5;En ik hou alleen nog maar van jou

@@ -1,3 +1,33 @@
-# Lata 1970-1979
+# Lata 1970 - 1979
+
+```{r, echo=FALSE, results = "asis", eval=TRUE}
+# song <- c("Een-beetje-verliefd")
+titles <- songs$BIBTEXKEY[1]
+#title <- titles[6]
+for(title in titles) {
+  make.song(title)
+#  cat("  \n")
+  }
+```
 
 
+```{r, echo=FALSE, results = "asis", eval=FALSE}
+song <- c("Nacht")
+make.song(song)
+```
+
+
+```{r, echo=FALSE, results = "asis", eval=FALSE}
+song <- c("Leef")
+make.song(song)
+```
+
+```{r, echo=FALSE, results = "asis", eval=FALSE}
+song <- c("Het-is-een-nacht")
+make.song(song)
+```
+
+```{r, echo=FALSE, results = "asis", eval=FALSE}
+song <- c("Blauwe-dag")
+make.song(song)
+```

@@ -84,9 +84,9 @@ make.intro <- function(x){
        paste0("![](./images/", x, ".png)"))
     
     
-    text <- paste0("Piosenka **", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
+    text <- paste0("**", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
           "[@", x, "]", 
-          " _", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_ ", 
+          " [_", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_] ", 
           songs[songs$BIBTEXKEY == x, "NOTE"], ".", "  \n", sep = "" )
   
     cat(sprintf(template, image, text))
@@ -98,12 +98,17 @@ make.help <- function(x){
   tmp <- help[help$BIBTEXKEY == x, ]
   for (i in c(1:nrow(tmp))) {
     cat(paste0("> ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
-   }
+  }
+    cat("  \n")
 }
 
 make.lyrics <- function(x){
-  path <- paste0("./data/", x, ".txt", sep = "")
-  lyrics <- read.csv(path, encoding = "UTF-8", header = F, sep = ";")
+  path.NL <- paste0("./data/", x, ".NL.txt", sep = "")
+  path.PL <- paste0("./data/", x, ".PL.txt", sep = "")
+  lyrics <- read.csv(path.NL, encoding = "UTF-8", header = F, sep = ";")
+  lyrics.PL <- read.csv(path.PL, encoding = "UTF-8", header = F, sep = ";")
+  names(lyrics.PL) <- c("V4")
+  lyrics <- cbind(lyrics, lyrics.PL)
   nverses <- max(lyrics$V2)
   
   template <- c("
@@ -149,10 +154,9 @@ make.lyrics <- function(x){
  }
 
 cat("  \n")
-
 }
 
-make.all <- function(x){
+make.song <- function(x){
   make.title(x)
   make.intro(x)
   make.lyrics(x)

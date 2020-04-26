@@ -1,19 +1,22 @@
 BIBTEXKEY; NL; PL
-Leef;Je hoeft niet bang te zijn om fouten te maken.; Nie musisz bać się popełniać błędów.
-Leef;Ik zeg het alleen maar!; Po prostu to mówię!
+Leef;Hij is zo vlug als water.; On chwyta w biegu.
+Leef;Ik wilde net op pad gaan.; Właśnie miałem wyruszyć w drogę.
 Leef;Gele gans zelf.; Zażółć gęślą jaźń.
+
 Een-beetje-verliefd;Weet je wat, ik ben er zat van.; Wiesz co, mam tego dosyć.
 Een-beetje-verliefd;Ik verlang ernaar met je alleen te zijn.; Pragnę być z tobą sam.
 Een-beetje-verliefd;Ik heb de wet aan m'n zij(-de).; Prawo mam po swojej stronie.
 Een-beetje-verliefd;Dat vind ik erg leuk.; To mi się bardzo podoba.
 Een-beetje-verliefd;We zitten te praten.; Gadamy sobie.
 Een-beetje-verliefd;Ik krijg dit in de gaten.; Zdaję sobie sprawę z tego
+
 Nacht;Châteauneuf-du-Pape; fr. cenione wino
 Nacht;Suus en Freek; duet wykonujący "Blauwe Dag" \@ref(Blauwe-dag)
 Nacht;Leo en Kate; para z filmu "Titanic"
 Nacht;Kylie; amerykańska celebrytka
 Nacht;Bel de Bel; właść. fr. La Belle des belles
 Nacht;Crane; od Kraantje, wykonawcy piosenki 
+
 Het-is-een-nacht;Je bent trouwens eigenlijk wel geweldig.; Nawiasem mówiąc, jesteś naprawdę świetny.
 Het-is-een-nacht;Als ik niet Pools was, zou ik geen Pools kennen.; Gdybym nie był Polakiem, nie znałbym polskiego.
 Het-is-een-nacht;Heb ik daarvoor een vergunning nodig?; Czy potrzebuję na to zezwolenie? 
@@ -37,3 +40,33 @@ Blauwe-dag;Laten we haar alleen laten.; Zostawmy ją w spokoju.
 Blauwe-dag;Ik denk dat wij goede vrienden zouden kunnen zijn.; Myślę, że moglibyśmy być dobrymi przyjaciółmi.
 Blauwe-dag;Hij kan nauwelijks lezen.; On ledwo umie czytać.
 Blauwe-dag;Houd deze koffer in de gaten.; Obserwuj tę walizkę.
+
+Dromen-zijn-bedrog;Dromen zijn bedrog.; Sen mara, Bóg wiara. [prov. za Czochralski]
+Dromen-zijn-bedrog;Met een klein beetje geluk.; Przy odrobinie szczęścia.
+Dromen-zijn-bedrog;De deur gaat niet open, hij klemt.; Drzwi się nie otwierają, są zablokowane.
+Dromen-zijn-bedrog;Kom met me mee.; Chodź razem ze mną.
+Dromen-zijn-bedrog;Als ik vragen mag.; Jeśli wolno spytać.
+Dromen-zijn-bedrog;Ik reik mijn hand naar je uit.; Wyciągam rękę do ciebie.
+Dromen-zijn-bedrog;De narcissen kwamen uit.; Wypuściły żonkile.
+Dromen-zijn-bedrog;Een keer in de zoveel tijd.;  Raz na jakiś czas.
+Dromen-zijn-bedrog;Mag ik even binnenkomen?; Czy mogę na chwilę wejść?
+Dromen-zijn-bedrog;Ik blijf in slaap vallen.; Ciągle zasypiam.
+Dromen-zijn-bedrog;Wat heb je vannacht gedroomd?; Co ci się śniło dzisiaj w nocy?
+Dromen-zijn-bedrog;Waar droom je over?; O czym marzysz?
+
+Ik-kan-het-niet-alleen;Hij eet met lange tanden.; On je niechętnie.
+Ik-kan-het-niet-alleen;Beter laat dan nooit.; Lepiej późno niż wcale.
+Ik-kan-het-niet-alleen;We kunnen er niet omheen dat ...; Nie możemy omijać faktu, że ...
+
+O-o-Den-Haag;Ik heb zin in een borrel.; Mam ochotę na drinka. 
+O-o-Den-Haag;Nog een keer!; Jeszcze raz!
+O-o-Den-Haag;Je bent trouwens eigenlijk wel geweldig.; Nawiasem mówiąc, jesteś naprawdę świetny.
+O-o-Den-Haag;Als ik niet Pools was, zou ik geen Pools kennen.; Gdybym nie był Polakiem, nie znałbym polskiego.
+O-o-Den-Haag;Heb ik daarvoor een vergunning nodig?; Czy potrzebuję na to zezwolenie? 
+O-o-Den-Haag;Waar kan ik meer te weten komen over ...?; Gdzie mogę dowiedzieć się więcej o...?
+O-o-Den-Haag;Dat is veel, hè?; To dużo, co?
+O-o-Den-Haag;Wanneer moet ik terugkomen?; Kiedy muszę wrócić?
+O-o-Den-Haag;Zullen wij naar de duinen gaan?; Może pójdziemy na wydmy?
+O-o-Den-Haag;De lijn is bezet.; Linia jest zajęta
+O-o-Den-Haag;Als ik meer tijd had, zou ik op je wachten.; Gdybym miał/a więcej czasu, poczekałbym na ciebie. 
+O-o-Den-Haag;Je moeder kan echt lekker koken.; Twoja mama naprawdę potrafi dobrze gotować.

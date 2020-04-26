@@ -1,0 +1,24 @@
+0;1;Op een vrijdag in de kroeg ergens in Amsterdam
+0;1;Zat aan de bar met een glas een oude wijze man
+0;1;Hij zei dat die nog maar een paar dagen had
+0;1;Dus pak het leven, pak alles en ga er mee op pad
+
+1;2;En hij zei: ''Leef, alsof het je laatste dag is
+1;2;Leef, alsof de morgen niet bestaat
+1;2;Leef, alsof het nooit echt af is
+1;2;En leef, pak alles wat je kan''
+
+1;3;En ga, a, a, a
+1;3;A, a, a, a
+1;3;A, a, a, a
+1;3;Pak alles wat je kan
+
+1;4;En ga, a, a, a
+1;4;A, a, a, a
+1;4;Ga
+1;4;Pak alles wat je kan
+
+0;5;Hij vertelde dat 'ie zich had gewerkt in het zweet
+0;5;Geld verdiend als water maar nooit echt had geleefd
+0;5;Z'n vrouw was bij hem weg, voor een ander ingeruild
+0;5;Af en toe gelachen maar veel te veel gehuild
