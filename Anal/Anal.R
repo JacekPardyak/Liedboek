@@ -24,7 +24,11 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
                 "Nielson", "Miss Montreal", "Lange Frans", "Gerard Cox", "Fluitsma & Van Tijn",
                 "Claudia De Breij", "Danny Vera", "Ilse DeLange", "Armin van Buuren", "Racoon",
                 "The Scene", "Ramses Shaffy", "Liesbeth List", "Maaike Ouboter", "Stef Bos",
-                "The Amazing Stroopwafels", "Gorki", "Clouseau")
+                "The Amazing Stroopwafels", "Gorki", "Clouseau", "Kensington",
+             "Dotan", "Duncan Laurence", "Common Linnets", "Ruth Jacott",
+             "Lange Frans & Thé Lau", "René Klijn")
+
+# "Frans Halsema" "Voor haar" refernece to Borsato
 
 res <- rep(FALSE, nrow(TOP_2000_KEYS))
 for (artist in artists) {

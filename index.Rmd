@@ -8,8 +8,10 @@ documentclass: book
 bibliography: [songs.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: JacekPardyak/Liedboek
-description: "100 piosenek w moim tłumaczeniu"
+url: 'https\://jacekpardyak.github.io/Liedboek'
+github-repo: "JacekPardyak/Liedboek"
+cover-image: "images/_cover-page.png"
+description: "100 holenderskich piosenek w tłumaczeniu z języka niderlandzkiego"
 ---
 
 # Wstęp
@@ -57,16 +59,16 @@ make.intro <- function(x){
     template <- c("
 :::::: {.columns}
 
-::: {.column width='36%%' data-latex='{0.36\\textwidth}'}
+::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
 
 %s
 :::
 
-::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
+::: {.column width='34%%' data-latex='{0.34\\textwidth}'}
 \\ 
 :::
 
-::: {.column width='60%%' data-latex='{0.60\\textwidth}'}
+::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
 %s
 :::
 ::::::

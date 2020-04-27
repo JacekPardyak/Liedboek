@@ -70,3 +70,15 @@ O-o-Den-Haag;Zullen wij naar de duinen gaan?; Może pójdziemy na wydmy?
 O-o-Den-Haag;De lijn is bezet.; Linia jest zajęta
 O-o-Den-Haag;Als ik meer tijd had, zou ik op je wachten.; Gdybym miał/a więcej czasu, poczekałbym na ciebie. 
 O-o-Den-Haag;Je moeder kan echt lekker koken.; Twoja mama naprawdę potrafi dobrze gotować.
+
+Avond;Doe het licht maar uit.; Po prostu wyłącz światło.
+Avond;Ik wil je nooit meer zien.; Nie chcę cię nigdy więcej widzieć.
+Avond;Ze liepen hand in hand.; Szli trzymając się za ręce.
+Avond;Die jongen toonde geen angst.; Ten chłopiec nie okazywał strachu.
+Avond;Het is te hopen dat ...; Należy mieć nadzieją, że ...
+Avond;De vlam zweeft vaak net boven het hout.; Płomień unosi się często tuż nad drewnem.
+Avond;Ga Maria wakker maken.; Idź obudź Marię
+Avond;Ik sta op het punt uit te gaan.; Zaraz wychodzę.
+Avond;De geur van lelies vulde de kamer.; Zapach lilii wypełnił pokój.
+Avond;De glans wordt gemeten volgens ISO 2813.; Połysk mierzy się zgodnie z ISO 2813.
+Avond;Ik zie je wel bij de auto.; Do zobaczenia w aucie.

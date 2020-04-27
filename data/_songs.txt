@@ -1,10 +1,22 @@
 "BIBTEXKEY"; "CATEGORY"; "AUTHOR"; "ARTIST"; "TITLE"; "TITLE.PL"; "YEAR"; "NOTE"; "URL"
-Leef;Manual;Edwin van Hoevelaak and Koen Jansen and Chiel Ottink and Arno Krabman;André Hazes jr.;Leef;Żyj;2015; opowiada o spotkaniu w barze z terminalnym pacjentem. Ten ostatni żałuje tego, jak żył - zbyt ciężko pracował i przez to wpadł w kłopoty (rozwód itp.). Pod koniec życia Hazes radzi głównie żyć (więcej) i mniej pracować;https://youtu.be/2H0yWKdZM8g
+Leef;Manual;Edwin van Hoevelaak and Koen Jansen and Chiel Ottink and Arno Krabman;André Hazes jr.;Leef;Żyj;2015; to piosenka o życiu i umieraniu. Rozpoczyna się w scenerii podobnej do tej z piosenki \@ref(Een-beetje-verliefd) wykonanej przez ojca André Hazes;https://youtu.be/2H0yWKdZM8g
 
-Een-beetje-verliefd;Manual;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and Andre G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;;https://youtu.be/3kufNNxyACg
+Een-beetje-verliefd;Manual;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and Andre G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;to piosenka o niespełnionej miłości Rozpoczyna się w scenerii podobnej do tej z piosenki \@ref(Leef) wykonanej przez syna André Hazes jr;https://youtu.be/3kufNNxyACg
+
 Nacht;Manual;Guus Meeuwis and Kraantje Pappie;Guus Meeuwis and Kraantje Pappie;Nacht;Noc;2020;Ćwierć wieku po "Het is een nacht" Guus Meeuwis wykonał “Nacht” wraz z raperem Kraantje Pappie. Posłuchajcie sami;https://youtu.be/MxkdVogPeF0
+
 Het-is-een-nacht;Manual;Guus Meeuwis;Guus Meeuwis;Het is een nacht;To jest taka noc;1995;powstała po romantycznym weekendzie, jaki spędził autor ze swoją dziewczyną Valérie Gregoire w Brugii;https://youtu.be/BMqZIFVYUXw
+
 Blauwe-dag;Manual;Suzan Stortelder and Arno Krabman and Freek Rikkerink and Koen Jansen;Suzan & Freek;Blauwe dag;Gorszy dzień;2019;powstała po romantycznym weekendzie, jaki spędził autor ze swoją dziewczyną Valérie Gregoire w Brugii;https://youtu.be/keYF1D0LVQk
+
 Dromen-zijn-bedrog;Manual;Maurizio Fabrizio and Riccardo Fogli and Guido Morra and Han Kooreneef and Leo Driessen;Marco Borsato;Dromen zijn bedrog;Sny są ulotne;1994;jest uważana za jeden z najbardziej udanych singli w języku niderlandzkim wszech czasów;https://youtu.be/CuA2U9iU6lQ
+
 Ik-kan-het-niet-alleen;Manual;Nico Arzbach and Antonie Broek and Huub van der Lubbe;De Dijk;Ik kan het niet alleen;Nie mogę tego zrobić sam;1989;to jedna z najbardziej znanych piosenek De Dijk do dziś odtwarzana przez wiele stacji radiowych w Holandii.;https://youtu.be/ltSsojzp90M
-O-o-Den-Haag;Manual;Harrie Jekkers;Harry Klorkestein;O, o, Den Haag;Oj, oj, Haga;1982;to piosenka uznawana za nieoficjalny hymn Hagi. Nazwa wykonawcy to anagram nazwy prawdziwego zespołu Klein Orkest.;https://youtu.be/ptGJ8wzeGDE
+
+O-o-Den-Haag;Manual;Harrie Jekkers;Harry Klorkestein;O, o, Den Haag;Oj, oj, Haga;1982;to piosenka uznawana za nieoficjalny hymn Hagi. Nazwa wykonawcy to anagram nazwy prawdziwego zespołu Klein Orkest;https://youtu.be/ptGJ8wzeGDE
+
+Avond;Manual;Boudewijn de Groot and Lennaert Nijgh;Boudewijn de Groot;Avond;Wieczór;1997;to piosenka uznawana przez Holendrów za najlepszą niderlandzkojęzyczną piosenkę wszechczasóW;https://youtu.be/ptGJ8wzeGDE
+
+Hij-is-van-mij;Manual;Boudewijn de Groot and Lennaert Nijgh;Kris Kross Amsterdam x Maan x Tabitha ft. Bizzey ;Hij is van mij;Wieczór;1997;to piosenka która nie weszła do listy TOP 2000, ani żaden? wykonawca, ale jest najlepiej sprz się singlem w 2019;https://youtu.be/ptGJ8wzeGDE
+
+
