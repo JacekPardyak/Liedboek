@@ -28,6 +28,7 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
              "Dotan", "Duncan Laurence", "Common Linnets", "Ruth Jacott",
              "Lange Frans & Thé Lau", "René Klijn")
 
+# ? Volumia 
 # "Frans Halsema" "Voor haar" refernece to Borsato
 
 res <- rep(FALSE, nrow(TOP_2000_KEYS))
