@@ -26,7 +26,7 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
                 "The Scene", "Ramses Shaffy", "Liesbeth List", "Maaike Ouboter", "Stef Bos",
                 "The Amazing Stroopwafels", "Gorki", "Clouseau", "Kensington",
              "Dotan", "Duncan Laurence", "Common Linnets", "Ruth Jacott",
-             "Lange Frans & Thé Lau", "René Klijn")
+             "Lange Frans & Thé Lau", "René Klijn", "Hans de Booij")
 
 # ? Volumia 
 # "Frans Halsema" "Voor haar" refernece to Borsato
