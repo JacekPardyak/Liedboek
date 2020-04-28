@@ -1,3 +1,10 @@
-# Lata 1980 - 1989
+# PODZIEMIE
 
-Miejsce na rozdział
+
+```{r, echo=FALSE, results = "asis", eval=FALSE}
+titles <- songs$BIBTEXKEY
+for(title in titles[c(1:9)]) {
+  make.song(title)
+  }
+```
+

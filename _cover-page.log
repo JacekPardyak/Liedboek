@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.9)  26 APR 2020 23:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.9)  27 APR 2020 19:22
 entering extended mode
 **./_cover-page.tex
 (_cover-page.tex
@@ -192,7 +192,8 @@ Package pdftex.def Info: images/_cover-page.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [1
 
- <./images/_cover-page.pdf>]
+ <./images/_cover-page.pdf{C:/Users/A599131/AppData/Local/MiKTeX/2.9/pdftex/con
+fig/pdftex.map}>]
 <_book/liedboek.pdf, id=24, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf>
@@ -335,8 +336,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 9>
 Package pdftex.def Info: _book/liedboek.pdf , page9 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-
-[10 <./_book/liedboek.pdf>]
+ [10 <./_book/liedboek.pdf>]
 <_book/liedboek.pdf, id=123, page=10, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 10>
@@ -393,7 +393,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page13 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [14 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=141, page=14, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=142, page=14, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 14>
 Package pdftex.def Info: _book/liedboek.pdf , page14 used on input line 5.
@@ -407,7 +407,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page14 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [15 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=145, page=15, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=146, page=15, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 15>
 Package pdftex.def Info: _book/liedboek.pdf , page15 used on input line 5.
@@ -420,8 +420,9 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 15>
 Package pdftex.def Info: _book/liedboek.pdf , page15 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [16 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=149, page=16, 614.295pt x 794.97pt>
+
+[16 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=151, page=16, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 16>
 Package pdftex.def Info: _book/liedboek.pdf , page16 used on input line 5.
@@ -435,7 +436,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page16 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [17 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=153, page=17, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=155, page=17, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 17>
 Package pdftex.def Info: _book/liedboek.pdf , page17 used on input line 5.
@@ -449,7 +450,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page17 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [18 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=157, page=18, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=160, page=18, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 18>
 Package pdftex.def Info: _book/liedboek.pdf , page18 used on input line 5.
@@ -463,7 +464,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page18 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [19 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=162, page=19, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=166, page=19, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 19>
 Package pdftex.def Info: _book/liedboek.pdf , page19 used on input line 5.
@@ -477,7 +478,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page19 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [20 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=166, page=20, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=171, page=20, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 20>
 Package pdftex.def Info: _book/liedboek.pdf , page20 used on input line 5.
@@ -491,7 +492,7 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 Package pdftex.def Info: _book/liedboek.pdf , page20 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [21 <./_book/liedboek.pdf>]
-<_book/liedboek.pdf, id=170, page=21, 614.295pt x 794.97pt>
+<_book/liedboek.pdf, id=175, page=21, 614.295pt x 794.97pt>
 File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 21>
 Package pdftex.def Info: _book/liedboek.pdf , page21 used on input line 5.
@@ -504,19 +505,188 @@ File: _book/liedboek.pdf Graphic file (type pdf)
 <use _book/liedboek.pdf, page 21>
 Package pdftex.def Info: _book/liedboek.pdf , page21 used on input line 5.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [22 <./_book/liedboek.pdf>] (_cover-page.aux) ) 
+ [22 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=180, page=22, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 22>
+Package pdftex.def Info: _book/liedboek.pdf , page22 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 22>
+Package pdftex.def Info: _book/liedboek.pdf , page22 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 22>
+Package pdftex.def Info: _book/liedboek.pdf , page22 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [23 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=184, page=23, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 23>
+Package pdftex.def Info: _book/liedboek.pdf , page23 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 23>
+Package pdftex.def Info: _book/liedboek.pdf , page23 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 23>
+Package pdftex.def Info: _book/liedboek.pdf , page23 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [24 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=188, page=24, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 24>
+Package pdftex.def Info: _book/liedboek.pdf , page24 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 24>
+Package pdftex.def Info: _book/liedboek.pdf , page24 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 24>
+Package pdftex.def Info: _book/liedboek.pdf , page24 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [25 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=193, page=25, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 25>
+Package pdftex.def Info: _book/liedboek.pdf , page25 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 25>
+Package pdftex.def Info: _book/liedboek.pdf , page25 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 25>
+Package pdftex.def Info: _book/liedboek.pdf , page25 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [26 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=197, page=26, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 26>
+Package pdftex.def Info: _book/liedboek.pdf , page26 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 26>
+Package pdftex.def Info: _book/liedboek.pdf , page26 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 26>
+Package pdftex.def Info: _book/liedboek.pdf , page26 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [27 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=201, page=27, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 27>
+Package pdftex.def Info: _book/liedboek.pdf , page27 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 27>
+Package pdftex.def Info: _book/liedboek.pdf , page27 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 27>
+Package pdftex.def Info: _book/liedboek.pdf , page27 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [28 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=205, page=28, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 28>
+Package pdftex.def Info: _book/liedboek.pdf , page28 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 28>
+Package pdftex.def Info: _book/liedboek.pdf , page28 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 28>
+Package pdftex.def Info: _book/liedboek.pdf , page28 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [29 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=209, page=29, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 29>
+Package pdftex.def Info: _book/liedboek.pdf , page29 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 29>
+Package pdftex.def Info: _book/liedboek.pdf , page29 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 29>
+Package pdftex.def Info: _book/liedboek.pdf , page29 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[30 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=213, page=30, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 30>
+Package pdftex.def Info: _book/liedboek.pdf , page30 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 30>
+Package pdftex.def Info: _book/liedboek.pdf , page30 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 30>
+Package pdftex.def Info: _book/liedboek.pdf , page30 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [31 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=218, page=31, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 31>
+Package pdftex.def Info: _book/liedboek.pdf , page31 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 31>
+Package pdftex.def Info: _book/liedboek.pdf , page31 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 31>
+Package pdftex.def Info: _book/liedboek.pdf , page31 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [32 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=222, page=32, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 32>
+Package pdftex.def Info: _book/liedboek.pdf , page32 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 32>
+Package pdftex.def Info: _book/liedboek.pdf , page32 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 32>
+Package pdftex.def Info: _book/liedboek.pdf , page32 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [33 <./_book/liedboek.pdf>]
+<_book/liedboek.pdf, id=226, page=33, 614.295pt x 794.97pt>
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 33>
+Package pdftex.def Info: _book/liedboek.pdf , page33 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 33>
+Package pdftex.def Info: _book/liedboek.pdf , page33 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: _book/liedboek.pdf Graphic file (type pdf)
+<use _book/liedboek.pdf, page 33>
+Package pdftex.def Info: _book/liedboek.pdf , page33 used on input line 5.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [34 <./_book/liedboek.pdf>] (_cover-page.aux) ) 
 Here is how much of TeX's memory you used:
- 2746 strings out of 480934
- 41567 string characters out of 2909677
+ 2783 strings out of 480934
+ 42885 string characters out of 2909677
  280162 words of memory out of 3000000
- 18613 multiletter control sequences out of 15000+200000
+ 18649 multiletter control sequences out of 15000+200000
  532338 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,18n,46p,260b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on _cover-page.pdf (22 pages, 99585 bytes).
+Output written on _cover-page.pdf (34 pages, 165479 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
+ 232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

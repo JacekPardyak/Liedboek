@@ -26,9 +26,17 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
                 "The Scene", "Ramses Shaffy", "Liesbeth List", "Maaike Ouboter", "Stef Bos",
                 "The Amazing Stroopwafels", "Gorki", "Clouseau", "Kensington",
              "Dotan", "Duncan Laurence", "Common Linnets", "Ruth Jacott",
-             "Lange Frans & Thé Lau", "René Klijn", "Hans de Booij")
+             "Lange Frans & Thé Lau", "René Klijn", "Hans de Booij", "Vader Abraham",
+             "Drs. P", "Normaal", "Harry Klorkestein", "Benny Neyman",
+             "Van Dik Hout", "Candy Dulfer & Dave Stewart", "Ten Sharp",
+             "2 Unlimited", "Within Temptation", "Anouk", "Tiesto", "Anneke Grönloh",
+             "Jacques Brel", "Ben Cramer", "Joost Nuissl", "Louis Neefs",
+             "Astrid Nijgh", "Reinhard Mey", "Willy Alberti", "Conny Vandenbos",
+             "VOF de Kunst", "Armand", "Rowwen Hèze", "Milow")
 
 # ? Volumia 
+# "Jacques Brel"  Laat me niet alleen (Ne me quitte pas) - Belgian guy śpiewał po francusku i niderlandzku
+# Borsato - włoski, niderlandzki
 # "Frans Halsema" "Voor haar" refernece to Borsato
 
 res <- rep(FALSE, nrow(TOP_2000_KEYS))
@@ -41,10 +49,10 @@ TOP_2000_KEYS_NL <- TOP_2000_KEYS[res,]
 # calculate the score
 
 score <- function(x, y){
-  #ind = 3
+  #ind = 61
   #x <- TOP_2000_KEYS_NL$KEY[ind]
   #y <- TOP_2000_KEYS_NL$JAAR[ind]
-  life = 60
+  life = 61
   print(x)
   tmp <- data.frame(LIJST = seq(from = y, to = y + life - 1),
                     KEY = x, stringsAsFactors = F)

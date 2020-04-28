@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="352.03836"
-     inkscape:cy="529.92371"
+     inkscape:cx="-117.69598"
+     inkscape:cy="473.63774"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -50,25 +50,85 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-17.599983)">
+     id="layer2"
+     inkscape:label="Background"
+     style="display:none">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       id="rect820"
+       width="215.89999"
+       height="279.39999"
+       x="3.0517579e-06"
+       y="3.0517579e-06" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text PL"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="107.68128"
-       y="152.06688"
+       x="107.94405"
+       y="98.348801"
        id="text814"><tspan
          sodipodi:role="line"
-         id="tspan812"
-         x="107.68128"
-         y="152.06688"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.11111069px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">O czym śpiewają</tspan><tspan
+         x="107.94405"
+         y="98.348801"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;font-size:25.39999962px;font-family:'Antykwa Poltawskiego';-inkscape-font-specification:'Antykwa Poltawskiego Bold Expanded';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan816">O</tspan><tspan
          sodipodi:role="line"
-         x="107.68128"
-         y="169.70576"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.11111069px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
-         id="tspan816">Holendrzy?</tspan></text>
+         x="107.94405"
+         y="130.0988"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;font-size:25.39999962px;font-family:'Antykwa Poltawskiego';-inkscape-font-specification:'Antykwa Poltawskiego Bold Expanded';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan844">czym</tspan><tspan
+         sodipodi:role="line"
+         x="107.94405"
+         y="161.8488"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;font-size:25.39999962px;font-family:'Antykwa Poltawskiego';-inkscape-font-specification:'Antykwa Poltawskiego Bold Expanded';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan840">śpiewają</tspan><tspan
+         sodipodi:role="line"
+         x="107.94405"
+         y="193.5988"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:expanded;font-size:25.39999962px;font-family:'Antykwa Poltawskiego';-inkscape-font-specification:'Antykwa Poltawskiego Bold Expanded';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan842">Holendrzy?</tspan></text>
   </g>
+  <g
+     style="display:none"
+     inkscape:label="Text NL"
+     id="g828"
+     inkscape:groupmode="layer">
+    <text
+       id="text826"
+       y="52.824039"
+       x="145.10092"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan824"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.11111069px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+         y="52.824039"
+         x="145.10092"
+         sodipodi:role="line">Waar</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.11111069px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+         y="70.462929"
+         x="145.10092"
+         sodipodi:role="line"
+         id="tspan834">zingen</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.11111069px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+         y="88.101814"
+         x="145.10092"
+         sodipodi:role="line"
+         id="tspan836">Polen</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.11111069px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+         y="105.74071"
+         x="145.10092"
+         sodipodi:role="line"
+         id="tspan838">over?</tspan></text>
+  </g>
+  <g
+     inkscape:label="Graphics"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.599983)" />
 </svg>

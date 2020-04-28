@@ -82,3 +82,16 @@ Avond;Ik sta op het punt uit te gaan.; Zaraz wychodzę.
 Avond;De geur van lelies vulde de kamer.; Zapach lilii wypełnił pokój.
 Avond;De glans wordt gemeten volgens ISO 2813.; Połysk mierzy się zgodnie z ISO 2813.
 Avond;Ik zie je wel bij de auto.; Do zobaczenia w aucie.
+
+Papa;Ik zie een kleine glimlach om haar mond trekken.;
+Papa;Ik krijg slaap.; Chce mi się spać.
+Papa;Ik krijg 
+Papa;Niet alles is voor geld te koop.; Nie wszystko można kupić za pieniądze.
+Papa;Ik lijk op mijn moeder.; Wyglądam jak moja matka.
+Papa;Inmiddels ervaren steeds meer mensen de nadelen.; Tymczasem coraz więcej osób doznaje szkód.
+Papa;Ik kom thuis tegen zes uur.; Będę w domu przed szóstą.
+Papa;Hij zwerft al maanden door Europa.; Od miesięcy wędruje po Europie.
+Papa;Zij liggen te praten.; Oni rozmawiają leżąc.
+Papa;Dat ligt mij niet.; To mi nie leży.
+Papa;Eén die weldra op aller lippen zal liggen.; Ten, który wkrótce będzie na ustach wszystkich.
+

@@ -21,13 +21,15 @@ invisible(Sys.setlocale("LC_ALL","Polish"))
 ```
 
 
-Wszelkie prawa do tekstów piosenek umieszczonych w tej pracy przysługują ich autorom. 
+Wszelkie prawa do tekstów piosenek umieszczonych w tej pracy przysługują ich właścicielom. 
 
 Teksty piosenek znajdują się tutaj wyłącznie w celach informacyjnych i edukacyjnych oraz służą do użytku prywatnego.
 
 W przypadku, gdy właściciel praw do konkretnego tekstu nie życzy sobie by się nim posługiwać w tej pracy, uprzejmie proszę o kontakt, a tekst zostanie usunięty.
 
 Wszelkie prawa do tłumaczeń tekstów piosenek umieszczonych w tej pracy przysługują mi, ich autorowi.
+
+W tłumaczeniach staram się utrzymać funkcjonalność orygnialnego tekstu. Jeżeli w przekazie są emocje chcę je również czuć w tłumaczeniu. Chcę przy tym zachować oryginalne słowa, za wyjątkiem gdy w oryginale znajduje się wyrażenie. Wtedy poszukuję podobnego wyrażenia w języku polskim. Nie jest moją intencja dokonwyać adapatacj! piosenek, czyli tworzyć utworóW, które tak samo łatwo da się wyśpiewać nie zważając na oryginalnie użyty słownik.
 
 
 ```{r include=FALSE}
