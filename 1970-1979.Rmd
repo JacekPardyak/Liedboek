@@ -2,7 +2,7 @@
 
 ```{r, echo=FALSE, results = "asis", eval=TRUE}
 titles <- songs$BIBTEXKEY
-for(title in titles[c(1:10)]) {
+for(title in titles[c(1:13)]) {
   make.song(title)
   }
 ```

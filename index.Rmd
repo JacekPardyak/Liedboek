@@ -101,7 +101,7 @@ if (!knitr:::is_html_output()) cat("\\vfill")
 make.help <- function(x){
   tmp <- help[help$BIBTEXKEY == x, ]
   for (i in c(1:nrow(tmp))) {
-    cat(paste0("> ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
+    cat(paste0("- ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
   }
     cat("  \n")
 }

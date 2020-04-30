@@ -95,3 +95,41 @@ Papa;Zij liggen te praten.; Oni rozmawiają leżąc.
 Papa;Dat ligt mij niet.; To mi nie leży.
 Papa;Eén die weldra op aller lippen zal liggen.; Ten, który wkrótce będzie na ustach wszystkich.
 
+Orenmens;Wie is daar?; Kto tam?
+Orenmens;Praat met mij.; Porozmawiaj ze mną.
+Orenmens;Je praat teveel.; Za dużo mówisz.
+Orenmens;Kan jij boter van margarine onderscheiden?
+Orenmens;Ik hoor mijn paard galopperen op de grond.;Słyszę, jak mój koń galopuje na ziemię
+
+Het-land-van;Pim Fortuyn (Nederlandse politicus) en Theo van Gogh (filmregisseur) en hun respectievelijke moordenaars Volkert van der G. en Mohammed B.; Pim Fortuyn (holenderski polityk) i Theo van Gogh (reżyser) i odpowiednio ich mordercy Volkert van der G. i Mohammed B.
+Het-land-van;Doorzwemmen tot je aan je grens zit.; Płyń, aż osiągniesz swój limit.
+Het-land-van;Mijn vader gaat een wandeling maken in het park.; Mój ojciec idzie na spacer po parku.
+Het-land-van;Het rood-wit-blauw van de vlag van Nederland.; Kolory czerwono, biały i niebieski na fladze Holandii.
+Het-land-van;De gouden leeuw van het wapen van het Koninkrijk der Nederlanden.; Złoty lew z herbu Królestwa Niderlandów.
+Het-land-van;Lange Frans en Baas B schreef dit nummer.; Lange Frans, Baas B schreef dit nummer.
+Het-land-van;Jan Peter Balkenende is de voormalige premier van Nederland.; Jan Peter Balkenende jest byłym premierem Holandii.
+Het-land-van;Het maakt niet uit.; To nie ma znaczenia.
+Het-land-van;Dit hele ding is gewoon helemaal gek.; Cała ta sprawa jest po prostu zupełnie szalona.
+Het-land-van;Hij zal morgen toch wel weer gaan drinken.; W każdym razie jutro będzie pił znowu.
+Het-land-van;''Ajax'' en ''Feyenoord'' zijn Nederlandse profvoetbalclubs, terwijl ''Oranje'' het Nederlands voetbalelftal is.; „Ajax” i „Feyenoord” to holenderskie profesjonalne kluby piłkarskie, a „Oranje” to holenderska drużyna narodowa.
+Het-land-van;Ze horen bij mij.; Oni są ze mną.
+Het-land-van;Bekende Nederlandse voetballers zijn Johan Cruijff (met rugnummer 14) en Abe Lenstra.; Znani holenderscy piłkarze to Johan Cruijff (z koszulką nr 14) i Abe Lenstra.
+Het-land-van;Piet Paulusma is een Nederlandse weerman.; Piet Paulusma to holenderski prezenter pogody.
+Het-land-van;Ik haat je nog steeds.; Nadal cię nienawidzę.
+Het-land-van;André Hazes was een populaire Nederlandse zanger.; André Hazes był popularnym holenderskim piosenkarzem. \@ref(Een-beetje-verliefd)
+Het-land-van;Peter, Gert-Jan, Raymond, Junte, Frans, Bart en Ali zijn de namen van Nederlandse rappers: Delic, Brainpower, Kid Ray, Sticky Steez, Lange Frans, Baas B en Ali B.; Peter, Gert-Jan, Raymond, Junte, Frans, Bart i Ali to imiona holenderskich raperów: Delic, Brainpower, Kid Ray, Sticky Steez, Lange Frans, Baas B i Ali B.
+Het-land-van;Invullen in hoofdletters; Wpisz wielkimi literami. 
+Het-land-van;Ik heb/ben mijn portemonnee verloren.; Zgubiłem portfel.
+Het-land-van;Ik ben bedrogen door jou,; Zostałem przez ciebie oszukany.
+Het-land-van;Het heeft geen zin om zo'n smoes te gebruiken.; Nie ma sensu używać takiej wymówki.
+Het-land-van:Niets gebeurt zoals men zou willen.; Nic nie wychodzi jakby się chciało.
+Het-land-van;Ik had veel te veel gedronken.; Wypiłem dużo za dużo.
+Het-land-van;Moet ze haar emoties dan opkroppen?; Czy powinna zatem zebrać swoje emocje?
+Het-land-van;J. C. M. van Riemsdijk (Nederlandse muzikant en schrijver) is een authentiek personage uit de Harry Potter-films.;J. C. M. van Riemsdijk (holenderski muzyk i pisarz) to autentyczna postać z filmów o Harrym Potterze.
+
+Hij-is-van-mij;Kan ik je wat water geven?; Czy mogę ci podać trochę wody?
+Hij-is-van-mij;Ik voel me gevleid.; Schlebiasz mi.
+Hij-is-van-mij;Ik voel me moe.; Czuję się zmęczony.
+Hij-is-van-mij;Ik wil met je meegaan.; Chcę iść z tobą.
+Hij-is-van-mij;Ik ben in de war.; Gubię się.
+Hij-is-van-mij;Thibaut Nicolas Marc Courtois, belgijski bramkarz; przetłumacz

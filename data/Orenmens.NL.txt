@@ -1,28 +1,29 @@
-hoe graag had ik niet ooit een echt mens aangekeken
-een mens met een gezicht in het gezicht
-dat hij zou laten zien... aan mij, aan mij
-waarop ik heb gewacht
-heb moeten afwachten in de wereld
-maar de mensen willen van geen mens weten
-zoals ik iemand ben
-dat geen mens mijn brandende mens wil mogen
-dat is uiteindelijk een zacht woord
+0;1;Hoe graag had ik niet ooit een echt mens aangekeken
+0;1;Een mens met een gezicht in het gezicht
+0;1;Dat hij zou laten zien... aan mij, aan mij
+0;1;Waarop ik heb gewacht
+0;1;Heb moeten afwachten in de wereld
+0;1;Maar de mensen willen van geen mens weten
+0;1;Zoals ik iemand ben
+0;1;Dat geen mens mijn brandende mens wil mogen
+0;1;Dat is uiteindelijk een zacht woord
 
-wie praat zo mager met de taal als ik
-wie praat zo mager met de taal als ik
-hoe graag had ik niet ooit
-had maar ooit een enkel mens mijn lichaamshandmens
-want een hand voor mij is witter
-een hand voor mij is witter dan een bloem
+0;2;Wie praat zo mager met de taal als ik
+0;2;Wie praat zo mager met de taal als ik
+0;2;Hoe graag had ik niet ooit
+0;2;Hoe graag had ik niet ooit
+0;2;Had maar ooit een enkel mens mijn lichaamshandmens
+0;2;Want een hand voor mij is witter
+0;2;Een hand voor mij is witter dan een bloem
 
-het wachten is op
-alles is afgelopen
-teveel levens ben ik oud
-brandhout
-de wreld verrekt mij mijn ogen
-als die van een kettinghond
-die voor het eerst het licht ziet
-een orenmens ben ik
-het oor kan alles beter uit elkaar onderscheiden
-ik hoor mijn lucht
-ik hoor mijn grond
+0;3;Het wachten is op
+0;3;Alles is afgelopen
+0;3;Teveel levens ben ik oud
+0;3;Brandhout
+0;3;De wereld verrekt mij mijn ogen
+0;3;Als die van een kettinghond
+0;3;Die voor het eerst het licht ziet
+0;3;Een orenmens ben ik
+0;3;Het oor kan alles beter uit elkaar onderscheiden
+0;3;Ik hoor mijn lucht
+0;3;Ik hoor mijn grond
