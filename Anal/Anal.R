@@ -34,7 +34,7 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
              "Astrid Nijgh", "Reinhard Mey", "Willy Alberti", "Conny Vandenbos",
              "VOF de Kunst", "Armand", "Rowwen Hèze", "Milow")
 
-# ? Volumia 
+# ? Volumia, Gordon
 # "Jacques Brel"  Laat me niet alleen (Ne me quitte pas) - Belgian guy śpiewał po francusku i niderlandzku
 # Borsato - włoski, niderlandzki
 # "Frans Halsema" "Voor haar" refernece to Borsato

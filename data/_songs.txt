@@ -23,4 +23,6 @@ Hij-is-van-mij;Manual;Jordy Huisman and Sander Huisman and Yuki Kempees and Maan
 
 Het-land-van;Manual;Lange Frans and Baas B and Giorgio Tuinfort;Lange Frans & Baas B.;Het land van...;Kraj pochodzenia;2005;to gniewna litania z wadami i zaletami życia w Holandii. Osobiście zabrakło mi tylko sera, małżeństw jednopłciowych, wiatraków i ... Polaków;https://youtu.be/yayMuZxlttc
 
+Het-dorp;Manual;Jean Ferrat and Hugo Verhage;Wim Sonneveld;Het dorp;Wieś;1974;to wspomnienia autora tekstu o utraconym dzieciństwie. Hugo Verhage to naprawdę Friso Wiegersma. Z wykonawcą piosenki Wimem Sonneveld byli w związku. ;https://youtu.be/C8Ff5OEUzd8
+
 Orenmens;Manual;???;De Kift;Orenmens;Człowiek Uszy;1999;???; "URL"

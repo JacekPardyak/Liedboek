@@ -1,0 +1,59 @@
+0;1;Thuis heb ik nog een ansichtkaart
+0;1;Waarop een kerk een kar met paard
+0;1;Een slagerij J. van der Ven
+0;1;Een kroeg, een juffrouw op de fiets
+
+0;2;Het zegt u hoogstwaarschijnlijk niets
+0;2;Maar het is waar ik geboren ben
+0;2;Dit dorp, ik weet nog hoe het was
+0;2;De boerenkind'ren in de klas
+
+0;3;Een kar die ratelt op de keien
+0;3;Het raadhuis met een pomp ervoor
+0;3;Een zandweg tussen koren door
+0;3;Het vee, de boerderijen
+
+1;4;En langs het tuinpad van m'n vader
+1;4;Zag ik de hoge bomen staan
+1;4;Ik was een kind en wist niet beter
+1;4;Dan dat 't nooit voorbij zou gaan
+
+0;5;Wat leefden ze eenvoudig toen
+0;5;In simp'le huizen tussen groen
+0;5;Met boerenbloemen en een heg
+0;5;Maar blijkbaar leefden ze verkeerd
+
+0;6;Het dorp is gemoderniseerd
+0;6;En nou zijn ze op de goeie weg
+0;6;Want ziet, hoe rijk het leven is
+0;6;Ze zien de televisiequiz
+
+0;7;En wonen in betonnen dozen
+0;7;Met flink veel glas, dan kun je zien
+0;7;Hoe of het bankstel staat bij Mien
+0;7;En d'r dressoir met plastic rozen
+
+1;8;En langs het tuinpad van m'n vader
+1;8;Zag ik de hoge bomen staan
+1;8;Ik was een kind en wist niet beter
+1;8;Dan dat 't nooit voorbij zou gaan
+
+0;9;De dorpsjeugd klit wat bij elkaar
+0;9;In minirok en beatle-haar
+0;9;En joelt wat mee met beat-muziek
+0;9;Ik weet wel het is hun goeie recht
+
+0;10;De nieuwe tijd, net wat u zegt
+0;10;Maar het maakt me wat melancholiek
+0;10;Ik heb hun vaders nog gekend
+0;10;Ze kochten zoethout voor een cent
+
+0;11;Ik zag hun moeders touwtjespringen
+0;11;Dat dorp van toen, het is voorbij
+0;11;Dit is al wat er bleef voor mij
+0;11;Een ansicht en herinneringen
+
+1;12;Toen ik langs het tuinpad van m'n vader
+1;12;De hoge bomen nog zag staan
+1;12;Ik was een kind, hoe kon ik weten
+1;12;Dat dat voorgoed voorbij zou gaan

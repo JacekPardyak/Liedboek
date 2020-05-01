@@ -133,3 +133,10 @@ Hij-is-van-mij;Ik voel me moe.; Czuję się zmęczony.
 Hij-is-van-mij;Ik wil met je meegaan.; Chcę iść z tobą.
 Hij-is-van-mij;Ik ben in de war.; Gubię się.
 Hij-is-van-mij;Thibaut Nicolas Marc Courtois, belgijski bramkarz; przetłumacz
+
+Het-dorp;Weet je nog?; Czy pamiętasz?
+Het-dorp;Ik weet het nog niet.; Nadal nie wiem.
+Het-dorp;Ik zou graag naar Polen gaan.; Chciałbym pojechać do Polski.
+Het-dorp;Zij gaan totaal voorbij aan het risico.; Całkowicie ignorują ryzyko.
+Het-dorp;Ik heb nog niet gegeten.; Jeszcze nic nie jadłem.
+Het-dorp;Mien is een vorm van Wilhelmina.; Mien jest formą Wilhelminy.
