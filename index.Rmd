@@ -10,7 +10,7 @@ biblio-style: apalike
 link-citations: yes
 url: 'https\://jacekpardyak.github.io/Liedboek'
 github-repo: "JacekPardyak/Liedboek"
-cover-image: "_cover-page.png"
+cover-image: "./_cover-page.png"
 description: "100 holenderskich piosenek w tłumaczeniu z języka niderlandzkiego"
 ---
 
