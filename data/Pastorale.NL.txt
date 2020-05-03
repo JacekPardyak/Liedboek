@@ -33,6 +33,6 @@
 0;9;Nee, nooit sta ik een seconde stil, geen mens kan mij dwingen wanneer ik niet wil
 0;9;Geen leven dat ik niet begon, je kunt niet houden van de zon
 
-1;10;'k Wil liever branden, neem me mee wanneer je vanavond gaat slapen in zee
-1;10;En vliegen langs jouw hemelbaan ik wil niet meer bij jou vandaan
+1;10;'k Wil liever branden, neem me mee wanneer je vanavond gaat slapen in zee en vliegen langs jouw hemelbaan
+1;10;Ik wil niet meer bij jou vandaan
 1;10;Ik heb je lief, zo lief
