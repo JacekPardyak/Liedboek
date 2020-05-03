@@ -109,8 +109,8 @@ make.help <- function(x){
 make.lyrics <- function(x){
   path.NL <- paste0("./data/", x, ".NL.txt", sep = "")
   path.PL <- paste0("./data/", x, ".PL.txt", sep = "")
-  lyrics <- read.csv(path.NL, encoding = "UTF-8", header = F, sep = ";")
-  lyrics.PL <- read.csv(path.PL, encoding = "UTF-8", header = F, sep = ";")
+  lyrics <- read.csv(path.NL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
+  lyrics.PL <- read.csv(path.PL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
   names(lyrics.PL) <- c("V4")
   lyrics <- cbind(lyrics, lyrics.PL)
   nverses <- max(lyrics$V2)

@@ -1,0 +1,38 @@
+# Zon - man
+0;1;Mijn hemel blauw met gouden hallen, mijn wolkentorens, ijskristallen, kometen, manen en planeten, ah
+0;1;Alles draait om mij
+
+0;2;En door de witte wolkenpoort tot diep onder de golven boort mijn vuur, mijn liefde, zich in de aarde
+0;2;En bij het water speelt een kind en alle schelpen die het vindt gaan blinken als ik lach
+
+# Kind - vrouw
+1;3;'k Hou van je warmte op mijn gezicht, ik hou van de koperen kleur van je licht
+1;3;Ik geef je water in mijn hand en schelpen uit het zoute zand
+1;3;Ik heb je lief, zo lief
+
+# Zon
+0;4;Ik scheur de rotsen met mijn stralen verhoog de meren in de dalen en onweersluchten doe ik vluchten, ah
+0;4;Als de regen valt
+
+0;5;Verberg je ogen in mijn hand voordat m'n glimlach ze verbrandt m'n vuur, m'n liefde, mijn gouden ogen
+0;5;'t Is beter als je nog wat wacht want even later komt de nacht en schijnt de koele maan
+
+# Kind - vrouw
+1;6;De nacht is te koud, de maan te grijs toe neem me toch mee naar je hemelpaleis
+1;6;Daar wil ik zijn alleen met jou en stralen in het hemelblauw
+1;6;Ik heb je lief, zo lief
+
+# Zon
+0;7;Als ik de aarde ga verwarmen laat ik haar leven in m'n armen, van sterren weefde ik het verre, ah
+0;7;Het noorderlicht
+
+0;8;Maar soms ben ik als kokend lood, ik ben het leven en de dood, in vuur, in liefde, in alle tijden
+0;8;M'n kind ik troost je, kijk omhoog vandaag span ik mijn regenboog die is alleen voor jou
+
+# Samen
+0;9;Nee, nooit sta ik een seconde stil, geen mens kan mij dwingen wanneer ik niet wil
+0;9;Geen leven dat ik niet begon, je kunt niet houden van de zon
+
+1;10;'k Wil liever branden, neem me mee wanneer je vanavond gaat slapen in zee
+1;10;En vliegen langs jouw hemelbaan ik wil niet meer bij jou vandaan
+1;10;Ik heb je lief, zo lief

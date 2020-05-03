@@ -140,3 +140,13 @@ Het-dorp;Ik zou graag naar Polen gaan.; Chciałbym pojechać do Polski.
 Het-dorp;Zij gaan totaal voorbij aan het risico.; Całkowicie ignorują ryzyko.
 Het-dorp;Ik heb nog niet gegeten.; Jeszcze nic nie jadłem.
 Het-dorp;Mien is een vorm van Wilhelmina.; Mien jest formą Wilhelminy.
+
+Mag-ik-dan-bij-jou;Mogen we bij jou overnachten?; Czy możemy u ciebie przenocować?
+Mag-ik-dan-bij-jou;De spullen moeten wel aan één regel voldoen.; Przedmioty muszą być zgodne z jedną zasadą.
+Mag-ik-dan-bij-jou;Dat is jouw thuis, daar en nergens anders.; To jest twój dom, tam i nigdzie indziej.
+Mag-ik-dan-bij-jou;Als je niets te zeggen hebt, zeg dan niets.; Jeśli nie masz nic do powiedzenia, nie mów nic.
+
+Pastorale;Wie zwijgt, stemt toe.; Milczenie oznacza zgodę.
+Pastorale;Alsjeblieft, ik wil liever alleen zijn.;Proszę, wolę być sam.
+Pastorale;Ik heb je lief, ik heb je kinderen lief en je kinderen houden van jou! Kocham cię, kocham twoje dzieci, a twoje dzieci kochają ciebie.
+Pastorale;Hij houdt mij niet bij jou vandaan.; Nie zatrzyma mnie z dala od ciebie.
