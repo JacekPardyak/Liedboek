@@ -3,7 +3,7 @@
 0;1;Het land van Theo van Gogh en Mohammed B.
 0;1;Kom uit het land van kroketten, frikadellen
 0;1;Die je tot aan de Spaanse kust kunt bestellen
-0;1;Kom uit het land waar Air Max nooit uit de mode raken
+0;1;Kom uit het land waar ''Air Max'' nooit uit de mode raken
 0;1;Waar ze je kraken op het moment dat je het groot gaat maken
 0;1;Kom uit het land van rood-wit-blauw en de gouden leeuw
 
@@ -68,4 +68,6 @@
 0;9;Totdat je deze meezingt aan de ArenA lijnen
 0;9;En tot die tijd zal ik schijnen ik heb mijn hart verband
 
-0;10;Dit is voor Nederland, Baas B Lange Frans
+0;10;Dit is voor Nederland
+0;10;Baas B
+0;10;Lange Frans

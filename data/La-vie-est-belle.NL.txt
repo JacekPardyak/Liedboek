@@ -1,0 +1,44 @@
+0;1;Geld laat de wereld draaien
+0;1;Liefde laat de wereld zien
+0;1;'t Was het eerste wat ik opschreef vanochtend toen ik opstond
+0;1;'t Was blijkbaar wat er opkomt
+
+0;2;'k Kleed me aan en m'n zoon ook
+0;2;Rij naar school, rij terug, pak de krant, sla hem open
+0;2;En m'n ogen dwalen door een tekst
+0;2;Zoveel drama op een afstand het blijft toch iets geks
+
+0;3;Pak m'n tas, loop naar buiten,
+0;3;Krijg plots een berichtje van een vriend met luister deze moet je even horen
+0;3;'t Is vreemd hoe het werkt
+0;3;Hoe iemand z'n verdriet ertoe kan leiden dat een prachtig lied wordt geboren
+
+0;4;Loop verder naar de trein, m'n ogen vallen op een vrouw
+0;4;Niet helemaal honderd, althans volgens onze regels
+0;4;Iedereen die blijft naar haar kijken, terwijl ik zie dat ze danst in de regen
+0;4;We doen het allemaal met wat je krijgt hier vooral het leven
+
+1;5;**La vie est belle** Het leven is prachtig ×3
+1;5;**Je n’y comprends rien** Ik begrijp er niets van
+1;5;**Je vais rire jusqu'à la fin** Ik zal lachen tot het einde
+1;5;**La vie est belle** Het leven is prachtig ×2
+
+0;6;Stap uit in de stad en begin te lopen
+0;6;Langs nieuwe straten waar ik vroeger van gedroomd heb
+0;6;Uit verlangens van een nooit geleefd leven
+0;6;Koptelefoon op en de radio op play
+
+0;7;'k Hoor een man terug van weggeweest zeggen
+0;7;'t Ging even niet zo best, laat me rustig uitleggen
+0;7;'k Heb net m'n vrouw verloren
+0;7;Terwijl hij haar beschrijft voel ik de glimlach verborgen in zijn stem
+
+0;8;En ik denk nog eens terug aan al die eindeloze nachten
+0;8;Aan m'n vrienden, m'n geliefden en ook soms de donkerste gedachten
+0;8;Waar ik was al die tijd weet ik niet
+0;8;Misschien ergens op een plek waar ik veel te veel verwachtte
+
+0;9;Bestel wat te drinken en schrijf wat op, betaal de ober, loop weg
+0;9;En vervolg m'n tocht richting een brug waar een man staat te gebaren
+0;9;'k Denk, ach 't zal wel, ik laat 'm
+0;9;Kijk nog een keer om, het is een vriend, hij zwaait

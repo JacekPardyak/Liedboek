@@ -1,0 +1,193 @@
+--- 
+title: "O czym śpiewają Holendrzy?"
+author: "Jacek Pardyak"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [songs.bib]
+biblio-style: apalike
+link-citations: yes
+url: 'https\://jacekpardyak.github.io/Liedboek'
+github-repo: "JacekPardyak/Liedboek"
+cover-image: './images/_cover-page.png'
+description: "100 holenderskich piosenek w tłumaczeniu z języka niderlandzkiego"
+---
+
+# Wstęp
+
+```{r include=FALSE}
+#invisible(Sys.setlocale("LC_ALL","Polish"))
+#invisible(Sys.setlocale("LC_ALL","English_Netherlands"))
+```
+
+
+Wszelkie prawa do tekstów piosenek umieszczonych w tej pracy przysługują ich właścicielom. 
+
+Teksty piosenek znajdują się tutaj wyłącznie w celach informacyjnych i edukacyjnych oraz służą do użytku prywatnego.
+
+W przypadku, gdy właściciel praw do konkretnego tekstu nie życzy sobie by się nim posługiwać w tej pracy, uprzejmie proszę o kontakt, a tekst zostanie usunięty.
+
+Wszelkie prawa do tłumaczeń tekstów piosenek umieszczonych w tej pracy przysługują mi, ich autorowi.
+
+W tłumaczeniach staram się utrzymać funkcjonalność orygnialnego tekstu. Jeżeli w przekazie są emocje chcę je również czuć w tłumaczeniu. Chcę przy tym zachować oryginalne słowa, za wyjątkiem gdy w oryginale znajduje się wyrażenie. Wtedy poszukuję podobnego wyrażenia w języku polskim. Nie jest moją intencja dokonwyać adapatacj! piosenek, czyli tworzyć utworóW, które tak samo łatwo da się wyśpiewać nie zważając na oryginalnie użyty słownik.
+
+
+```{r include=FALSE}
+#songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
+songs <- readr::read_delim(file = "./data/_songs.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" )
+
+#help  <- read.csv("./data/_help.txt" , sep = ";", encoding = "UTF-8", stringsAsFactors = F)
+
+help  <-  readr::read_delim(file = "./data/_help.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" )
+                            
+#  Url = {https://youtu.be/AFBGC0fPjLc},
+#  Note   = "\url{http://engineering.purdue.edu/~mark/puthesis}"
+
+bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "CATEGORY",  "AUTHOR", "TITLE", "YEAR", "URL" )])
+bib.tbl$NOTE <- paste0('\\url{', bib.tbl$URL, '}')
+
+bib2df::df2bib(bib.tbl, "./songs.bib")
+```
+
+
+
+```{r include=FALSE}
+# make title
+make.title <- function(x){
+  cat(paste0("## ", songs[songs$BIBTEXKEY == x, "TITLE"], ", _", 
+          songs[songs$BIBTEXKEY == x, "ARTIST"], "_", 
+          "{#", x, "}" ,"\n", sep = "" ))
+}
+
+
+make.intro <- function(x){
+  
+    template <- c("
+:::::: {.columns}
+
+::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
+
+%s
+:::
+
+::: {.column width='34%%' data-latex='{0.34\\textwidth}'}
+\\ 
+:::
+
+::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
+%s
+:::
+::::::
+
+\n
+")
+#    image <- 
+#       ifelse(!knitr:::is_html_output() == TRUE, 
+#       paste0("\\includegraphics{./images/", x, "}"),
+#       paste0("![..](./images/", x, ".svg)"))
+    
+    image <- 
+       ifelse(!knitr:::is_html_output() == TRUE, 
+       paste0("\\includegraphics{./images/", x, "}"),
+       paste0("![](./images/", x, ".png)"))
+    
+    
+    text <- paste0("**", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
+          "[@", x, "]", 
+          " [_", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_] ", 
+          songs[songs$BIBTEXKEY == x, "NOTE"], ".", "  \n", sep = "" )
+  
+    cat(sprintf(template, image, text))
+if (!knitr:::is_html_output()) cat("\\vfill")
+    
+}
+
+make.help <- function(x){
+  tmp <- help[help$BIBTEXKEY == x, ]
+  for (i in c(1:nrow(tmp))) {
+    cat(paste0("- ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
+  }
+    cat("  \n")
+}
+
+make.lyrics <- function(x){
+  path.NL <- paste0("./data/", x, ".NL.txt", sep = "")
+  path.PL <- paste0("./data/", x, ".PL.txt", sep = "")
+  
+  #lyrics <- read.csv(path.NL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
+  lyrics <-  readr::read_delim(file = path.NL,
+                         locale = readr::locale("nl"),
+                         delim = ";",
+                         col_names = FALSE,
+                         comment = "#")
+# lyrics.PL <- read.csv(path.PL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
+  lyrics.PL <-  readr::read_delim(file = path.PL,
+                         locale = readr::locale("nl"),
+                         delim = ";",
+                         col_names = FALSE,
+                         comment = "#")
+
+    
+  names(lyrics.PL) <- c("V4")
+  lyrics <- cbind(lyrics, lyrics.PL)
+  nverses <- max(lyrics$V2)
+  
+  template <- c("
+:::::: {.columns}
+
+::: {.column width='48%%' data-latex='{0.48\\textwidth}'}
+
+%s
+:::
+
+::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
+\\ 
+:::
+
+::: {.column width='48%%' data-latex='{0.48\\textwidth}'}
+%s
+:::
+::::::
+
+\n
+")  
+    
+
+
+ for(i in c(1:nverses)){
+   temp <- lyrics[lyrics$V2 == i,]
+    
+   chunkNL <- c()
+   for (j in c(1:nrow(temp))) {
+     chunkNL <- ifelse(temp[j,"V1"] == 1,
+                       paste(chunkNL, paste0("_",temp[j,"V3"], "_"), sep = "  \n"),
+                       paste(chunkNL, temp[j,"V3"], sep = "  \n"))
+   }
+   chunkPL <- c()
+   for (j in c(1:nrow(temp))) {
+   chunkPL <- ifelse(temp[j,"V1"] == 1,
+                       paste(chunkPL, paste0("_",temp[j,"V4"], "_"), sep = "  \n"),
+                       paste(chunkPL, temp[j,"V4"], sep = "  \n"))
+   }
+   cat(sprintf(template, chunkNL, chunkPL))
+   if (!knitr:::is_html_output()) cat("\\vfill")
+   
+ }
+
+cat("  \n")
+}
+
+make.song <- function(x){
+  make.title(x)
+  make.intro(x)
+  make.lyrics(x)
+  make.help(x)
+}
+
+```
+

@@ -1,4 +1,4 @@
-BIBTEXKEY; NL; PL
+BIBTEXKEY;NL;PL
 Leef;Hij is zo vlug als water.; On chwyta w biegu.
 Leef;Ik wilde net op pad gaan.; Właśnie miałem wyruszyć w drogę.
 Leef;Gele gans zelf.; Zażółć gęślą jaźń.
@@ -150,3 +150,42 @@ Pastorale;Wie zwijgt, stemt toe.; Milczenie oznacza zgodę.
 Pastorale;Alsjeblieft, ik wil liever alleen zijn.;Proszę, wolę być sam.
 Pastorale;Ik heb je lief, ik heb je kinderen lief en je kinderen houden van jou! Kocham cię, kocham twoje dzieci, a twoje dzieci kochają ciebie.
 Pastorale;Hij houdt mij niet bij jou vandaan.; Nie zatrzyma mnie z dala od ciebie.
+
+Zing-vecht-huil-bid-lach-werk-en-bewonder; Ik zeg het alleen maar!
+Zing-vecht-huil-bid-lach-werk-en-bewonder; Mogę tylko czekać 
+
+Ik-voel-me-zo-verdomd-alleen;Kolere en klere zijn hetzelfde.; Cholera i cholercia to to samo.
+Ik-voel-me-zo-verdomd-alleen;Voor mijn part ...; Jeżeli chodzi o mnie ...
+Ik-voel-me-zo-verdomd-alleen;Ik mag dood vallen als het niet waar is.; Niech padnę trupem, jeśli to nieprawda.
+Ik-voel-me-zo-verdomd-alleen;Het kan me niets schelen.; Jest mi wszystko jedno. 
+Ik-voel-me-zo-verdomd-alleen;Tomek kwam hier in zijn eentje.; Tomek przyszedł tu sam.
+Ik-voel-me-zo-verdomd-alleen;Ik heb mijn werk geklaard.; Wykonałem swoją pracę.
+Ik-voel-me-zo-verdomd-alleen;Zou ik wachten tot ze weer komt?; Czy powinienem czekać na jej powrót?
+Ik-voel-me-zo-verdomd-alleen;Hij was helemaal alleen in het huis.; On był zupełnie sam w domu.
+Ik-voel-me-zo-verdomd-alleen;Ik hoef niet af te vallen.; Ja nie muszę się odchudzać.
+Ik-voel-me-zo-verdomd-alleen;Als ik vragen mag ...; Jeżeli wolno spytać ...
+Ik-voel-me-zo-verdomd-alleen;Ik bel je morgen, als ik weer terug ben.; Zadzwonię do ciebie jutro po powrocie.
+Ik-voel-me-zo-verdomd-alleen;Ik kan het niet alleen.; Nie mogę tego zrobić sam. \@ref(Ik-kan-het-niet-alleen)
+
+La-vie-est-belle;De kinderen horen alles, maar luisteren zelden.; Dzieci słyszą wszystko, ale rzadko słuchają.
+La-vie-est-belle;Daar kun je geen nee tegen zeggen.; Nie możesz odmówić.
+La-vie-est-belle;Je kijkt wel, maar je ziet niks.; Patrzysz, ale nic nie widzisz. 
+La-vie-est-belle;Wil je weglopen van huis?; Chcesz uciec z domu?
+La-vie-est-belle;Ik ben terug van weggeweest.; Wróciłem do gry. 
+La-vie-est-belle;We zijn ergens op een godverlaten plek.; Jesteśmy w miejscu zapomnianym przez boga.
+
+Liefs-uit-Londen;Ik weet van niks.; Nic nie wiem.
+Liefs-uit-Londen;Ik ga, zelfs al regent het.; Idę, chociaż już pada deszcz.
+Liefs-uit-Londen;Behalve hij, kwam niemand naar het feestje.; Poza nim, nikt nie przyszedł na przyjęcie.
+Liefs-uit-Londen;Ik ken geen van drieën.; Nie znam nikogo z tej trójki.
+Liefs-uit-Londen;Ik ken u niet.; Nie znam Pan-i/a.
+Liefs-uit-Londen;Is zijn verhaal waar?; Czy jego historia jest prawdziwa?
+Liefs-uit-Londen;Ik vrees van niet.; Obawiam się, że nie.
+Liefs-uit-Londen;Wat ben je mooi.; Jaka jesteś piękna.
+Liefs-uit-Londen;Ik wil je zoenen.; Chcę cię pocałować.
+Liefs-uit-Londen;U mag nu de bruid kussen.; Możesz teraz pocałować pannę młodą.
+Liefs-uit-Londen;Als je me laat spreken, dan kan ik alles uitleggen.; Jak pozwolisz mi mówić, wtedy ja mogę wszystko wyjaśnić.
+
+Per-spoor;Ik baal ervan als je liegt.; Nienawidzę, kiedy kłamiesz.
+Per-spoor;Ik kom morgenochtend langs om je op te halen.; Podjadę jutro rano, żeby cię odebrać.
+Per-spoor;Waar ging je heen?; Dokąd poszedłeś?

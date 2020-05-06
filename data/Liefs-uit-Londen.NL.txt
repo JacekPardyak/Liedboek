@@ -1,0 +1,23 @@
+0;1;Van de wereld weet ik niets, niets dan wat ik hoor en zie, niets dan wat ik lees
+0;1;Ik ken geen andere landen, zelfs al ben ik er geweest
+
+0;2;Grote steden ken ik niet behalve uit de boeken, behalve van tv
+0;2;Ik ken geen andere stad dan de stad waarin ik leef
+
+1;3;Zij stuurt me kaarten uit Madrid en uit Moskou komt een brief met de prachtigste verhalen
+1;3;Oh God, wat is ze lief
+1;3;Gisteren uit Lissabon ''ik mis je'' en een zoen
+
+1;4;Vandaag uit Praag een kattebel, want er is zoveel te doen
+1;4;En morgen, als de postbode mijn huis weer heeft gevonden dan stort ze mijn hart vol met al het liefs uit Londen
+
+0;5;Van de wereld weet ik niets, niets dan wat ik hoor en zie, niets dan wat ik voel
+0;5;Ik leef van dag tot dag, zonder vrees en zonder doel
+
+0;6;Verre landen ken ik niet behalve uit mijn atlas, die droom ik elke nacht
+0;6;Maar ik droom alleen de landen waar ze ooit aan me dacht
+
+0;7;Als een mooi en groot geloof aan de muur van mijn gedachten hangt een wereldkaart te wachten tot ze terugkomt
+0;7;Met haar reizen in mijn hoofd steek ik vlaggen in de aarde, dezelfde kleur, dezelfde waarde
+
+0;8;Maar ...

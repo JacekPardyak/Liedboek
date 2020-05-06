@@ -1,14 +1,10 @@
 Title, Artist, Url
-"La vie est belle", "Diggy Dex", "https://youtu.be/DLTq19bhO28"
+
 "Vandaag ben ik gaan lopen", "Acda en De Munnik", "https://youtu.be/MO3AA9pEN9o"
-"Hij is van mij", "Bizzey, Maan, Tabitha Foen", "https://youtu.be/EYhLEHE1vfQ"
-"Ik voel me zo verdomd alleen", "Danny De Munk", "https://youtu.be/G-JcK8MbWFw"
-"Per spoor", "Guus Meeuwis", "https://youtu.be/lSxh-UK7Ays"
-"Liefs uit Londen", "Bløf", "https://youtu.be/aM5JU0juOSs"
 
 
-#- Een eigen huis - René Froger
-#- Jij bent zo - Jeroen Van Der Boom
+#- 
+
 #- Orenmens - De Kift
 #- Een nieuwe dag - Nick & Simon (tekstowo) 
 #- Blijf bij mij (Dit zijn voor mij de allermooiste uren)" (2007) - André Hazes and Gerard Joling 
@@ -23,3 +19,20 @@ Title, Artist, Url
 #- Ik doe wat ik doe", "Astrid Nijgh", "" 
 #- Hoe het danst, Marco Borsato, Armin van Buuren & Davina Michelle 
 
+### De opmaat
+#- Per spoor
+#- Ik kan het niet alleen
+#- Een eigen huis - René Froger 
+#- Jij bent zo - Jeroen Van Der Boom
+#- Anne - Herman van Veen
+### De sprong
+#- De meeste dromen zijn bedrog - Marco Borsato 
+#- Een beetje verliefd - André Hazes
+#- Midzomernacht - Blof
+#- Pa - Doe Maar
+#- Liefs uit Londen - Blof
+#- Links en rechts - Nick & Simon
+#- Politiek - Bram Vermeulen
+#- Opzij, opzij, opzij - Herman van Veen
+#- 15 miljoen mensen - Jochem ...
+#- Het land van 

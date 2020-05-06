@@ -18,6 +18,7 @@ description: "100 holenderskich piosenek w tłumaczeniu z języka niderlandzkieg
 
 ```{r include=FALSE}
 invisible(Sys.setlocale("LC_ALL","Polish"))
+#invisible(Sys.setlocale("LC_ALL","English_Netherlands"))
 ```
 
 
@@ -33,9 +34,17 @@ W tłumaczeniach staram się utrzymać funkcjonalność orygnialnego tekstu. Je�
 
 
 ```{r include=FALSE}
-songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
-help  <- read.csv("./data/_help.txt" , sep = ";", encoding = "UTF-8", stringsAsFactors = F)
+#songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
+songs <- readr::read_delim(file = "./data/_songs.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" )
 
+#help  <- read.csv("./data/_help.txt" , sep = ";", encoding = "UTF-8", stringsAsFactors = F)
+
+help  <-  readr::read_delim(file = "./data/_help.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" )
+                            
 #  Url = {https://youtu.be/AFBGC0fPjLc},
 #  Note   = "\url{http://engineering.purdue.edu/~mark/puthesis}"
 
@@ -99,21 +108,35 @@ if (!knitr:::is_html_output()) cat("\\vfill")
 }
 
 make.help <- function(x){
-  tmp <- help[help$BIBTEXKEY == x, ]
-  for (i in c(1:nrow(tmp))) {
+   tmp <- help[help$BIBTEXKEY == x, ]
+   for (i in c(1:nrow(tmp))) {
     cat(paste0("- ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
   }
     cat("  \n")
 }
 
 make.lyrics <- function(x){
+ #x = title
   path.NL <- paste0("./data/", x, ".NL.txt", sep = "")
   path.PL <- paste0("./data/", x, ".PL.txt", sep = "")
-  lyrics <- read.csv(path.NL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
-  lyrics.PL <- read.csv(path.PL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
-  names(lyrics.PL) <- c("V4")
+  
+  #lyrics <- read.csv(path.NL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
+  lyrics <-  readr::read_delim(file = path.NL,
+                         locale = readr::locale("nl"),
+                         delim = ";",
+                         col_names = FALSE,
+                         comment = "#")
+# lyrics.PL <- read.csv(path.PL, encoding = "UTF-8", header = F, sep = ";", comment.char = "#")
+  lyrics.PL <-  readr::read_delim(file = path.PL,
+                         locale = readr::locale("nl"),
+                         delim = ";",
+                         col_names = FALSE,
+                         comment = "#")
+
+    
+  names(lyrics.PL) <- c("X4")
   lyrics <- cbind(lyrics, lyrics.PL)
-  nverses <- max(lyrics$V2)
+  nverses <- max(lyrics$X2)
   
   template <- c("
 :::::: {.columns}
@@ -138,19 +161,19 @@ make.lyrics <- function(x){
 
 
  for(i in c(1:nverses)){
-   temp <- lyrics[lyrics$V2 == i,]
+   temp <- lyrics[lyrics$X2 == i,]
     
    chunkNL <- c()
    for (j in c(1:nrow(temp))) {
-     chunkNL <- ifelse(temp[j,"V1"] == 1,
-                       paste(chunkNL, paste0("_",temp[j,"V3"], "_"), sep = "  \n"),
-                       paste(chunkNL, temp[j,"V3"], sep = "  \n"))
+     chunkNL <- ifelse(temp[j,"X1"] == 1,
+                       paste(chunkNL, paste0("_",temp[j,"X3"], "_"), sep = "  \n"),
+                       paste(chunkNL, temp[j,"X3"], sep = "  \n"))
    }
    chunkPL <- c()
    for (j in c(1:nrow(temp))) {
-   chunkPL <- ifelse(temp[j,"V1"] == 1,
-                       paste(chunkPL, paste0("_",temp[j,"V4"], "_"), sep = "  \n"),
-                       paste(chunkPL, temp[j,"V4"], sep = "  \n"))
+   chunkPL <- ifelse(temp[j,"X1"] == 1,
+                       paste(chunkPL, paste0("_",temp[j,"X4"], "_"), sep = "  \n"),
+                       paste(chunkPL, temp[j,"X4"], sep = "  \n"))
    }
    cat(sprintf(template, chunkNL, chunkPL))
    if (!knitr:::is_html_output()) cat("\\vfill")

@@ -1,0 +1,39 @@
+0;1;Land van duizend meningen
+0;1;Het land van nuchterheid
+0;1;Met z'n allen op het strand
+0;1;Beschuit bij het ontbijt
+
+0;2;Het land waar niemand zich laat gaan
+0;2;Behalve als we winnen
+0;2;Dan breekt acuut de passie los
+0;2;Dan blijft geen mens meer binnen
+
+0;3;Het land wars van betutteling
+0;3;Geen uniform is heilig
+0;3;Een zoon die noemt z'n vader Piet
+0;3;Een fiets staat nergens veilig
+
+0;4;15 Miljoen mensen
+0;4;Op dat hele kleine stukje aarde
+0;4;Die schrijf je niet de wetten voor
+0;4;Die laat je in hun waarde
+
+0;5;15 Miljoen mensen
+0;5;Op dat hele kleine stukje aarde
+0;5;Die moeten niet 't keurslijf in
+0;5;Die laat je in hun waarde
+
+0;6;Het land vol groepen van protest
+0;6;Geen chef die echt de baas is
+0;6;Gordijnen altijd open zijn
+0;6;Lunch een broodje kaas is
+
+0;7;Het land vol van verdraagzaamheid
+0;7;Alleen niet voor de buurman
+0;7;De grote vraag die blijft altijd
+0;7;Waar betaalt 'ie nou z'n huur van
+
+0;8;'t Land dat zorgt voor iedereen
+0;8;Geen hond die van een goot weet
+0;8;Met nassiballen in de muur
+0;8;En niemand die droog brood eet

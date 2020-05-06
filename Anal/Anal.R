@@ -1,13 +1,4 @@
-# library(readxl)
-# res<- data.frame()
-# for (i in c(1999:2019)) {
-#   print(i)
-#   tmp <- read_excel(paste0("Anal/TOP-2000-",i,".xlsx"))
-#   names(tmp) <- c("NR.","TITEL","ARTIEST","JAAR")
-#   tmp$LIJST <- i
-#   res <- rbind(res,tmp)
-# }
-# write.csv(res, "./Anal/TOP-2000.csv", row.names = F)
+Sys.setlocale("LC_ALL","English_Netherlands")
 
 
 TOP_2000 <- read.csv("./Anal/TOP-2000.csv", encoding = "UTF-8")
@@ -32,12 +23,20 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
              "2 Unlimited", "Within Temptation", "Anouk", "Tiesto", "Anneke Grönloh",
              "Jacques Brel", "Ben Cramer", "Joost Nuissl", "Louis Neefs",
              "Astrid Nijgh", "Reinhard Mey", "Willy Alberti", "Conny Vandenbos",
-             "VOF de Kunst", "Armand", "Rowwen Hèze", "Milow")
+             "VOF de Kunst", "Armand", "Rowwen Hèze", "Milow", "Volumia!", "Danny de Munk",
+             "Jan Smit")
 
-# ? Volumia, Gordon, Lauren Daigle
+# ?  Gordon - wielu artystów w tą nazwą
 # "Jacques Brel"  Laat me niet alleen (Ne me quitte pas) - Belgian guy śpiewał po francusku i niderlandzku
 # Borsato - włoski, niderlandzki
 # "Frans Halsema" "Voor haar" refernece to Borsato
+
+# wyjątki w kodowaniu:
+# Hèze
+# scène
+# jusqu'à
+# BLØF
+
 
 res <- rep(FALSE, nrow(TOP_2000_KEYS))
 for (artist in artists) {

@@ -1,0 +1,31 @@
+0;1;Krijg toch allemaal de klere
+0;1;Val voor mijn part allemaal dood
+0;1;Ik heb geen zin om braaf te leren
+0;1;Ik eindig toch wel in de goot
+0;1;Kinderen willen niet met me spelen
+0;1;Noemen me Rat en wijzen me na
+0;1;De enige die me wat kan schelen
+0;1;Die is er nooit, dat is m'n pa
+
+0;2;M'n moeder kan me niet verdragen
+0;2;Nooit doe ik iets voor haar goed
+0;2;Om liefde hoef ik ook al niet te vragen
+0;2;Schelden is alles wat ze doet
+0;2;Geen wonder dat m'n pa is gaan varen
+0;2;Ik mocht niet mee, ik ben te klein
+0;2;Ik moet 't in m'n eentje klaren
+0;2;Tot 'ie ooit weer terug zal zijn
+
+1;3;Had ik maar iemand om van te houden
+1;3;Twee zachte armen om me heen
+1;3;Die mij altijd beschermen zouden
+1;3;Ik voel me zo verdomd alleen
+
+0;4;Misschien als vaders schip er is
+0;4;Als 'ie weer terug is van de zee
+0;4;Zegt 'ie nog eens luister Cis
+0;4;Waarom ga je niet met me mee
+0;4;Ik ben toch ook nog maar een kind
+0;4;Kan 't niet helemaal alleen
+0;4;Misschien dat ik ooit het geluk nog vind
+0;4;Maar hoe, dat is een groot probleem

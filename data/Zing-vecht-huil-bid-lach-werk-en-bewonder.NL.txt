@@ -1,0 +1,30 @@
+0;1;Voor degene in een schuilhoek achter glas
+0;1;Voor degene met de dichtbeslagen ramen
+0;1;Voor degene die dacht dat ie alleen was
+0;1;Moet nu weten, we zijn allemaal samen
+
+0;2;Voor degene met 't dichtgeslagen boek
+0;2;Voor degene met de snelvergeten namen
+0;2;Voor degene die 't vruchteloze zoeken
+0;2;Moet nu weten, we zijn allemaal samen
+
+1;3;Zing, vecht, huil, bid, lach, werk en bewonder
+1;3;Zing, vecht, huil, bid, lach, werk en bewonder
+1;3;Zing, vecht, huil, bid, lach, werk en bewonder
+1;3;Zing, vecht, huil, bid, lach, werk en bewonder
+1;3;Niet zonder ons
+
+0;4;Voor degene met de slapeloze nacht
+0;4;Voor degene die 't geluk niet kan beamen
+0;4;Voor degene die niets doet, die alleen maar wacht
+0;4;Moet nu weten, we zijn allemaal samen
+
+0;5;Voor degene met z'n mateloze trots
+0;5;In z'n risicoloze hoge toren
+0;5;Op z'n risicoloze hoge rots
+0;5;Moet nu weten, zo zijn we niet geboren
+
+0;6;Voor degene met 't open gezicht
+0;6;Voor degene met 't naakte lichaam
+0;6;Voor degene in 't witte licht
+0;6;Voor degene die weet, we komen samen

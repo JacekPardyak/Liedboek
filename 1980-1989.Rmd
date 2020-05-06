@@ -1,10 +1,11 @@
 # PODZIEMIE
 
 
-```{r, echo=FALSE, results = "asis", eval=FALSE}
+```{r, echo=FALSE, results = "asis", eval=FALSE, message=FALSE}
 titles <- songs$BIBTEXKEY
-for(title in titles[c(14:15)]) {
+for(title in titles[c(23)]) {
   make.song(title)
+  #make.lyrics(title)
   }
 ```
 

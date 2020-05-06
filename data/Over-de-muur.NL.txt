@@ -1,0 +1,38 @@
+0;1;Oost-Berlijn, Unter Den Linden
+0;1;Er wandelen mensen langs vlaggen en vaandels
+0;1;Waar Lenin en Marx nog steeds op een voetstuk staan
+
+0;2;En iedereen werkt, hamers en sikkels
+0;2;Terwijl in paradepas de wacht wordt gewisseld
+0;2;Veertig jaar socialisme, er is in die tijd veel bereikt
+
+0;3;Maar wat is nou die heilstaat als er muren omheen staan
+0;3;Als je bang en voorzichtig met je mening moet omgaan
+0;3;Ach wat is nou die heilstaat, zeg mij wat is hij waard
+0;3;Wanneer iemand die afwijkt voor gek wordt verklaard
+
+0;4;En alleen de vogels vliegen van Oost- naar West-Berlijn
+0;4;Worden niet teruggefloten, ook niet neergeschoten
+0;4;Over de muur, over het ijzeren gordijn
+0;4;Omdat ze soms in het westen, soms ook in het oosten willen zijn
+0;4;Omdat ze soms in het westen, soms ook in het oosten willen zijn
+
+0;5;West-Berlijn, de Kurfürstendamm
+0;5;Er wandelen mensen langs porno- en peepshow
+0;5;Waar Mercedes en Cola nog steeds op een voetstuk staan
+
+0;6;En de neonreclames die glitterend lokken
+0;6;Kom dansen, kom eten, kom zuipen, kom gokken
+0;6;Dat is nou veertig jaar vrijheid, er is in die tijd veel bereikt
+
+0;7;Maar wat is nou die vrijheid zonder huis zonder baan
+0;7;Zoveel Turken in Kreuzberg die amper kunnen bestaan
+0;7;Goed, je mag demonstreren, maar met je rug tegen de muur
+0;7;En alleen als je geld hebt, dan is de vrijheid niet duur
+
+0;8;En de vogels vliegen van West- naar Oost-Berlijn
+0;8;Worden niet teruggefloten, ook niet neergeschoten
+0;8;Over de muur, over het ijzeren gordijn
+0;8;Omdat ze soms in het oosten, soms ook in het westen willen zijn
+0;8;Omdat er brood ligt soms bij de Gedächtniskirche
+0;8;Soms op het Alexanderplein
