@@ -3,32 +3,25 @@
 0;1;Weet je nog dat jij me zei dat jij d'r altijd bent als ik je nodig heb
 0;1;Nee, ik ben het niet vergeten, nee
 0;1;Wat jij me ooit hebt gezegd 
-0;1;Want ik zie dat jij het moeilijk hebt en niet meer lachen kan zoals je vroeger deed
-0;1;En nauwelijks in de gaten hebt dat je anders loopt dan dat je deed voorheen
-0;1;Weet je nog dat jij me zei dat jij d'r altijd bent als ik je nodig heb
-0;1;Nee, ik ben het niet vergeten, nee
-0;1;Wat jij me ooit hebt gezegd
 
-1;2;Blauwe dag, als het dondert
-1;2;En valt de hemel naar beneden, ben ik hier bij jou alleen
-1;2;Blauwe dag, een seconde
-1;2;Laten we dansen tot de morgen en de lucht weer opengaat
-1;2;Fiets met jou mee door heel de stad
-1;2;Als jij dat wil, nou, dan doe ik dat
-1;2;Ik ben hier op je blauwe dag
-1;2;Blauwe dag, een seconde
-1;2;Laten we dansen tot de morgen en de lucht weer opengaat
+0;2;Want ik zie dat jij het moeilijk hebt en niet meer lachen kan zoals je vroeger deed
+0;2;En nauwelijks in de gaten hebt dat je anders loopt dan dat je deed voorheen
+0;2;Weet je nog dat jij me zei dat jij d'r altijd bent als ik je nodig heb
+0;2;Nee, ik ben het niet vergeten, nee
+0;2;Wat jij me ooit hebt gezegd
 
-0;3;Weet je nog dat jij me zei dat jij d'r altijd bent wanneer ik ergens val
-0;3;Nu lig ik zelf op de grond en ben ik diegene zonder licht in een donker dal
-0;3;Ik ging van de top van de wereld naar de plek waar ik niemand ken
-0;3;Nee, ik ben het niet vergeten, nee
-0;3;Wat jij me ooit hebt gezegd
-0;3;Blauwe dag, als het dondert
-0;3;En valt de hemel naar beneden, ben ik hier bij jou alleen
+1;3;Blauwe dag, als het dondert
+1;3;En valt de hemel naar beneden, ben ik hier bij jou alleen
+1;3;Blauwe dag, een seconde
+1;3;Laten we dansen tot de morgen en de lucht weer opengaat
 
-0;4;Fiets met jou mee door heel de stad
-0;4;Als jij dat wil, nou, dan doe ik dat
-0;4;Ik ben hier op je blauwe dag
-0;4;Blauwe dag, een seconde
-0;4;Laten we dansen tot de morgen en de lucht weer opengaat
+1;4;Fiets met jou mee door heel de stad
+1;4;Als jij dat wil, nou, dan doe ik dat. Ik ben hier op je blauwe dag
+1;4;Blauwe dag, een seconde
+1;4;Laten we dansen tot de morgen en de lucht weer opengaat
+
+0;5;Weet je nog dat jij me zei dat jij d'r altijd bent wanneer ik ergens val
+0;5;Nu lig ik zelf op de grond en ben ik diegene zonder licht in een donker dal
+0;5;Ik ging van de top van de wereld naar de plek waar ik niemand ken
+0;5;Nee, ik ben het niet vergeten, nee
+0;5;Wat jij me ooit hebt gezegd

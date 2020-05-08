@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7350 64-bit)
+Capacity: max_strings=4000, hash_size=5000, hash_prime=4253
+The top-level auxiliary file: liedboek.aux
+The style file: apalike.bst
+Database file #1: songs.bib
+You've used 25 entries,
+            1935 wiz_defined-function locations,
+            606 strings with 6515 characters,
+and the built_in function-call counts, 7810 in all, are:
+= -- 719
+> -- 370
+< -- 17
++ -- 122
+- -- 122
+* -- 599
+:= -- 1448
+add.period$ -- 75
+call.type$ -- 25
+change.case$ -- 161
+chr.to.int$ -- 25
+cite$ -- 25
+duplicate$ -- 325
+empty$ -- 501
+format.name$ -- 161
+if$ -- 1435
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 128
+num.names$ -- 75
+pop$ -- 169
+preamble$ -- 1
+purify$ -- 186
+quote$ -- 0
+skip$ -- 268
+stack$ -- 0
+substring$ -- 300
+swap$ -- 50
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 150
+warning$ -- 0
+while$ -- 50
+width$ -- 0
+write$ -- 302

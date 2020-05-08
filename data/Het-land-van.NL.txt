@@ -12,7 +12,7 @@
 0;2;Het land waar je een junkie om een fiets kan vragen
 0;2;Het land dat kampioen werd in ‘88
 0;2;Het land van haring happen, dijken en grachten
-0;2;Kom uit het land van, het land van Lange Franse
+0;2;Kom uit het land van, het land van Lange Fransie
 0;2;Dit is het land waar ik thuis kom na vakantie
 
 0;3;Ah ...

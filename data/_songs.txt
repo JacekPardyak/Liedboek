@@ -8,7 +8,7 @@ Blauwe-dag;Manual;Suzan Stortelder and Arno Krabman and Freek Rikkerink and Koen
 
 Dromen-zijn-bedrog;Manual;Maurizio Fabrizio and Riccardo Fogli and Guido Morra and Han Kooreneef and Leo Driessen;Marco Borsato;Dromen zijn bedrog;Sny są ulotne;1994;jest uważana za jeden z najbardziej udanych singli w języku niderlandzkim wszech czasów;https://youtu.be/CuA2U9iU6lQ
 
-Duurt-te-lang;Manual;Glen Faria and Morien van der Tang;Davina Michelle;Duurt Te Lang;"TITLE.PL";2018; "NOTE"; "URL"
+Duurt-te-lang;Manual;Glen Faria and Morien van der Tang;Davina Michelle;Duurt Te Lang;To trwa zbyt długo;2018;to numer, który czekał 5 lat na nowego wykonawcę i stanie się hitem;https://youtu.be/n_j1clPqEvg
 
 Een-beetje-verliefd;Manual;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and Andre G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;to piosenka o niespełnionej miłości Rozpoczyna się w scenerii podobnej do tej z piosenki \@ref(Leef) wykonanej przez syna André Hazes jr;https://youtu.be/3kufNNxyACg
 

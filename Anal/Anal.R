@@ -34,7 +34,7 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
 # wyjątki w kodowaniu:
 # Hèze
 # scène
-# jusqu'à
+# jusqu'a - jusqu'à
 # BLØF
 
 

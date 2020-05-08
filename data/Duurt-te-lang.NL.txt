@@ -2,42 +2,48 @@
 0;1;Maar alles ging over de liefde, we vergaten alles
 0;1;In een brief, een smsje, in een liedje schreef ik
 0;1;Ik zal alles voor je doen en voor je liefde leef ik
-0;1;En die liefde kreeg ik, en vaak in overmate
-0;1;Je kon de drempels van het leven aan me overlaten
-0;1;Je zag die meiden haten want ik had m’n superheld
-0;1;Je had je vrienden net te vaak over mij verteld
-0;1;Nu staren we samen naar de tafel met de mondjes dicht
-0;1;Blikken die vanzelf spreken in ons gezicht
-0;1;Ik heb het overgrote deel van alles aangericht
-0;1;Maar ik rijd te lang in deze tunnel en ik zie geen licht
-0;1;Dus doe je ogen dicht voor onze laatste set
-0;1;En denk terug aan het kleine huisje met het kleine bed
-0;1;Shit, maar morgen is de pijn terug
-0;1;Staan we uren op de halte rijdt de trein terug
 
-1;2;Het duurt te lang
-1;2;We staan hier al een tijdje
-1;2;En we moeten door dus voor de laatste keer het spijt me
-1;2;Het duurt te lang
-1;2;Wow, oh
-1;2;Het duurt te lang
-1;2;We staan stil
-1;2;Wat jij wil, wat ik wil
-1;2;Het duurt te lang
+0;2;En die liefde kreeg ik en vaak in overmaten
+0;2;Je kon de drempels van het leven aan mij overlaten
+0;2;Je zag die meiden haten want je had je superheld
+0;2;Ik had m'n vrienden net te vaak over jou verteld
 
-0;3;Twee stille mensen aan de tafel het is geen gezicht
-0;3;Ik kan die route niet belopen met me ogen dicht
-0;3;Je weet precies wat ik ga zeggen, ‘k weet het ook van jou
-0;3;En op het eind vertel ik vast hoeveel ik van je hou
-0;3;En daarna slaan de deuren weer en breekt er weer een glas
-0;3;Daarna valt er weer een traan en pak ik weer m’n tas
-0;3;En daarna hou ik je weer stevig vast
-0;3;En leg me kleren weer terug in de kast
-0;3;Dus ik hou je nog een poosje vast
-0;3;Want dan vergeet je nog hoe boos je was
-0;3;Maar de pijn blijft zitten dus het helpt niet
-0;3;Dus waarschijnlijk is het morgen weer hetzelfde lied
-0;3;De tekst komt op hetzelfde neer in dezelfde beat
-0;3;Een soort van gouden verf op een blok verdriet
-0;3;Conflicten zijn normaal maar het moet ons niet verstikken
-0;3;Me tranen vallen niet dus laat ik het liedje snikken
+0;3;Nu staren we samen naar de tafel, met de mondjes dicht
+0;3;Met blikken die vanzelf spreken, in ons gezicht
+0;3;Ik heb het overgrote deel van alles aangericht
+0;3;Maar ik rijd te lang in deze tunnel en ik zie geen licht
+
+0;4;Dus doe je ogen dicht voor onze laatste zet
+0;4;En denk terug aan het kleine huisje met het kleine bed
+0;4;Shit, maar morgen is de pijn terug
+0;4;Staan we uren op de halte, rijdt een trein terug
+
+1;5;Het duurt te lang
+1;5;We staan hier al een tijdje
+1;5;En we moeten door, dus voor de laatste keer het spijt me
+1;5;Het duurt te lang
+
+1;6;Het duurt te lang
+1;6;We staan stil
+1;6;Wat jij wil, wat ik wil
+1;6;Het duurt te lang
+
+0;7;Twee stille mensen aan de tafel, het is geen gezicht
+0;7;Ik kan die route niet belopen met m'n ogen dicht
+0;7;Je weet precies wat ik ga zeggen, ik weet het ook van jou
+0;7;En op het eind vertel ik vast hoeveel ik van je hou
+
+0;8;En daarna slaan de deuren weer, en breekt er weer een glas
+0;8;Daarna valt er weer een traan, en pak ik weer m’n tas
+0;8;En daarna hou ik je weer stevig vast
+0;8;En leg me kleren weer terug in de kast
+
+0;9;Dus, ik hou je nog een poosje vast
+0;9;Want dan vergeet je nog hoe boos je was
+0;9;Maar de pijn blijft zitten, dus het helpt niet
+0;9;Dus waarschijnlijk is het morgen weer hetzelfde lied
+
+0;10;De tekst komt op hetzelfde neer in dezelfde beat
+0;10;Een soort van gouden verf op een blok verdriet
+0;10;Conflicten zijn normaal, maar het moet ons niet verstikken
+0;10;Me tranen vallen nu, dus ik laat het liedje snikken

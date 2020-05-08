@@ -35,5 +35,5 @@
 
 0;8;'t Land dat zorgt voor iedereen
 0;8;Geen hond die van een goot weet
-0;8;Met nassiballen in de muur
+0;8;Met nasiballen in de muur
 0;8;En niemand die droog brood eet

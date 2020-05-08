@@ -26,13 +26,13 @@ Title, Artist, Url
 #- Jij bent zo - Jeroen Van Der Boom
 #- Anne - Herman van Veen
 ### De sprong
-#- De meeste dromen zijn bedrog - Marco Borsato 
-#- Een beetje verliefd - André Hazes
+#- De meeste dromen zijn bedrog - Marco Borsato +
+#- Een beetje verliefd - André Hazes            +
 #- Midzomernacht - Blof
 #- Pa - Doe Maar
-#- Liefs uit Londen - Blof
+#- Liefs uit Londen - Blof                      +
 #- Links en rechts - Nick & Simon
 #- Politiek - Bram Vermeulen
 #- Opzij, opzij, opzij - Herman van Veen
-#- 15 miljoen mensen - Jochem ...
-#- Het land van 
+#- 15 miljoen mensen - Jochem ...               +
+#- Het land van                                 +

@@ -189,3 +189,29 @@ Liefs-uit-Londen;Als je me laat spreken, dan kan ik alles uitleggen.; Jak pozwol
 Per-spoor;Ik baal ervan als je liegt.; Nienawidzę, kiedy kłamiesz.
 Per-spoor;Ik kom morgenochtend langs om je op te halen.; Podjadę jutro rano, żeby cię odebrać.
 Per-spoor;Waar ging je heen?; Dokąd poszedłeś?
+
+Vijftien-miljoen-mensen;Zijn mening is waardeloos.; Jego opinia jest bezwartościowa.
+Vijftien-miljoen-mensen;Ik ben al negen jaar nuchter.; Jestem trzeźwy od dziewięciu lat.
+Vijftien-miljoen-mensen;We moeten wat leuks gaan doen met z'n allen.; Musimy iść wszyscy razem trochę się zabawić.
+Vijftien-miljoen-mensen;Je moet er op los leven.; Musisz żyć z dnia na dzień.
+Vijftien-miljoen-mensen;Alsjeblieft, breek los.; Proszę cię, wyrwij się z tego.
+Vijftien-miljoen-mensen;Onze buren zijn wars van contact.; Nasi sąsiedzi są niechętni do kontaktu.
+Vijftien-miljoen-mensen;Open de deur, laat me in!; Otwórz te drzwi, wpuść mnie do środka!
+Vijftien-miljoen-mensen;Dat is echt iets voor hem.; To jest naprawdę coś dla niego.
+Vijftien-miljoen-mensen;Piet liegt altijd over de weersvoorspellingen.; Piotruś zawsze kłamie na temat prognozy pogody.
+Vijftien-miljoen-mensen;De nasiballen zijn van rijst gemaakt.; Kulki nasi są wykonane z ryżu.
+Vijftien-miljoen-mensen;Iemand de wet voorschrijven.; Dowodzić kimś.
+Vijftien-miljoen-mensen;Iemand in zijn waarde laten.; Akceptować kogoś jakim jest.
+
+Duurt-te-lang;Misschien moet je de diagnose aan mij overlaten.; Być może powinieneś diagnozę pozostawić mi.
+Duurt-te-lang;Hij heeft deze schade aangericht.; On wyrządził te szkody.
+Duurt-te-lang;Onze kosten belopen circa 1 miljoen PLN.; Nasze koszty wynoszą około 1 milion złotych.
+Duurt-te-lang;Je bent al een poos binnen.; Jesteś w środku już przez jakiś czas.
+Duurt-te-lang;Beweeg je vingers langzaam op en neer.; 
+
+
+
+
+
+
+
