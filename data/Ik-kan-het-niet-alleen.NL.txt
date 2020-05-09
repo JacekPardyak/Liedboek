@@ -1,20 +1,41 @@
-0;1;Elke morgen, elke middag
-0;1;Elke avond, iedere nacht
-0;1;Stel dat ik er wel maar jij er niet was 
-0;1;Dan was morgen morgen waarschijnlijk weer zo’n dag
+0;1;Elke morgen
+0;1;Elke middag
+0;1;Elke avond
+0;1;Iedere nacht
 
-0;1;En ik kan ’t niet 
-0;1;ik kan ’t niet 
-0;1;ik kan er niet omheen 
-0;1;k-k-kan ’t niet 
-0;1;ik kan ’t niet alleen
+0;2;Stel dat ik er wel
+0;2;Maar jij er niet was 
+0;2;Dan was morgen
+0;2;Morgen waarschijnlijk weer zo’n dag
 
-0;1;Natte ramen, kale muren 
-0;1;Lege flessen op de gang 
-0;1;Lange tanden, late uren 
-0;1;Weinig zon en veel behang
+1;3;En ik kan het niet 
+1;3;Ik kan er niet omheen 
+1;3;Ik kan het niet 
+1;3;Ik kan het niet alleen
 
-0;1;Ik heb het geprobeerd gedaan wat ik kan
-0;1;maar alles gaat verkeerd 
-0;1;Ik ben ook maar een man
-0;1;En ik kan het niet alleen 
+0;4;Natte ramen
+0;4;Kale muren 
+0;4;Lege flessen
+0;4;Lege flessen op de gang 
+
+0;5;Lange tanden
+0;5;Late uren 
+0;5;Weinig zon
+0;5;Weinig zon en veel behang
+
+0;6;Ik heb het geprobeerd
+0;6;Gedaan wat ik kan
+0;6;Maar alles gaat verkeerd 
+0;6;Ik ben ook maar een man
+
+0;7;En ik kan het niet alleen 
+
+0;8;Elke morgen
+0;8;'s Middags
+0;8;'s Avonds
+0;8;Maar vooral 's nachts
+
+0;9;Stel dat ik er wel
+0;9;En jij er niet was
+0;9;Dan was morgen
+0;9;Morgen waarschijnlijk weer zo'n dag

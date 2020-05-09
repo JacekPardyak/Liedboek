@@ -12,18 +12,18 @@
 \contentsline {section}{\numberline {2.9}Het land van\ldots , \emph {Lange Frans \& Baas B.}}{22}{section.2.9}%
 \contentsline {section}{\numberline {2.10}Hij is van mij, \emph {Kris Kross Amsterdam \& Maan \& Tabitha ft. Bizzey }}{27}{section.2.10}%
 \contentsline {section}{\numberline {2.11}Ik kan het niet alleen, \emph {De Dijk}}{29}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Ik Voel Me Zo Verdomd Alleen, \emph {Danny De Munk}}{30}{section.2.12}%
-\contentsline {section}{\numberline {2.13}La vie est belle, \emph {Diggy Dex ft. DJ Vali}}{32}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Leef, \emph {André Hazes jr.}}{34}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Liefs uit Londen, \emph {BLOF}}{36}{section.2.15}%
-\contentsline {section}{\numberline {2.16}Mag ik dan bij jou, \emph {Claudia de Breij}}{38}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Nacht, \emph {Guus Meeuwis \& Kraantje Pappie}}{40}{section.2.17}%
-\contentsline {section}{\numberline {2.18}Oceaan, \emph {Racoon}}{42}{section.2.18}%
-\contentsline {section}{\numberline {2.19}O, o, Den Haag, \emph {Harry Klorkestein}}{44}{section.2.19}%
-\contentsline {section}{\numberline {2.20}Orenmens, \emph {De Kift}}{46}{section.2.20}%
-\contentsline {section}{\numberline {2.21}Over de muur, \emph {Klein Orkest}}{48}{section.2.21}%
-\contentsline {section}{\numberline {2.22}Papa, \emph {Stef Bos}}{50}{section.2.22}%
-\contentsline {section}{\numberline {2.23}Pastorale, \emph {Ramses Shaffy \& Liesbeth List}}{52}{section.2.23}%
-\contentsline {section}{\numberline {2.24}Per spoor (Kedeng kedeng), \emph {Guus Meeuwis \& Vagant}}{54}{section.2.24}%
-\contentsline {section}{\numberline {2.25}Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder, \emph {Ramses Shaffy}}{56}{section.2.25}%
+\contentsline {section}{\numberline {2.12}Ik Voel Me Zo Verdomd Alleen, \emph {Danny De Munk}}{31}{section.2.12}%
+\contentsline {section}{\numberline {2.13}La vie est belle, \emph {Diggy Dex ft. DJ Vali}}{33}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Leef, \emph {André Hazes jr.}}{35}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Liefs uit Londen, \emph {BLOF}}{37}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Mag ik dan bij jou, \emph {Claudia de Breij}}{39}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Nacht, \emph {Guus Meeuwis \& Kraantje Pappie}}{41}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Oceaan, \emph {Racoon}}{43}{section.2.18}%
+\contentsline {section}{\numberline {2.19}O, o, Den Haag, \emph {Harry Klorkestein}}{45}{section.2.19}%
+\contentsline {section}{\numberline {2.20}Orenmens, \emph {De Kift}}{47}{section.2.20}%
+\contentsline {section}{\numberline {2.21}Over de muur, \emph {Klein Orkest}}{49}{section.2.21}%
+\contentsline {section}{\numberline {2.22}Papa, \emph {Stef Bos}}{51}{section.2.22}%
+\contentsline {section}{\numberline {2.23}Pastorale, \emph {Ramses Shaffy \& Liesbeth List}}{53}{section.2.23}%
+\contentsline {section}{\numberline {2.24}Per spoor (Kedeng kedeng), \emph {Guus Meeuwis \& Vagant}}{55}{section.2.24}%
+\contentsline {section}{\numberline {2.25}Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder, \emph {Ramses Shaffy}}{57}{section.2.25}%
 \contentsline {chapter}{\numberline {3}TYTUŁ 2}{59}{chapter.3}%

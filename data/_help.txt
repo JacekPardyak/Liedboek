@@ -54,9 +54,12 @@ Dromen-zijn-bedrog;Ik blijf in slaap vallen.; Ciągle zasypiam.
 Dromen-zijn-bedrog;Wat heb je vannacht gedroomd?; Co ci się śniło dzisiaj w nocy?
 Dromen-zijn-bedrog;Waar droom je over?; O czym marzysz?
 
+Ik-kan-het-niet-alleen;Weer zo'n dag uit het leven van Juf Nowak.; Kolejny dzień z życia panny Nowak.
 Ik-kan-het-niet-alleen;Hij eet met lange tanden.; On je niechętnie.
 Ik-kan-het-niet-alleen;Beter laat dan nooit.; Lepiej późno niż wcale.
 Ik-kan-het-niet-alleen;We kunnen er niet omheen dat ...; Nie możemy omijać faktu, że ...
+Ik-kan-het-niet-alleen;We nemen Agata ook maar mee.; Zabieramy również Agatę ze sobą.
+Ik-kan-het-niet-alleen;Ik ben ook maar een mens.; Jestem tylko człowiekiem.
 
 O-o-Den-Haag;Ik heb zin in een borrel.; Mam ochotę na drinka. 
 O-o-Den-Haag;Nog een keer!; Jeszcze raz!
