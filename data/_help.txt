@@ -10,12 +10,13 @@ Een-beetje-verliefd;Dat vind ik erg leuk.; To mi się bardzo podoba.
 Een-beetje-verliefd;We zitten te praten.; Gadamy sobie.
 Een-beetje-verliefd;Ik krijg dit in de gaten.; Zdaję sobie sprawę z tego
 
-Nacht;Châteauneuf-du-Pape; fr. cenione wino
-Nacht;Suus en Freek; duet wykonujący "Blauwe Dag" \@ref(Blauwe-dag)
-Nacht;Leo en Kate; para z filmu "Titanic"
-Nacht;Kylie; amerykańska celebrytka
-Nacht;Bel de Bel; właść. fr. La Belle des belles
-Nacht;Crane; od Kraantje, wykonawcy piosenki 
+Nacht;Châteauneuf-du-Pape is een Franse wijnstreek.; Châteauneuf-du-Pape to francuski region winiarski.
+Nacht;Blauwe dag \@ref(Blauwe-dag) is de tweede single van Suzan & Freek.; Blauwe dag to drugi singiel duetu Suzan & Freek. 
+Nacht;Je laat me niet dichtbij komen.; Nie pozwalasz mi się zbliżyć.
+Nacht;Al ben ik arm, ik ben gelukkig.; Chociaż jestem biedny, to jestem szczęśliwy. 
+Nacht;Leo (Leonardo DiCaprio) en Kate (Kate Winslet) speelden in de Titanic.; Leo (Leonardo DiCaprio) i Kate (Kate Winslet) grali w Titanic'u.
+Nacht;Kylie (Kylie Kristen Jenner) is een Amerikaans televisiepersoonlijkheid. Kylie (Kylie Kristen Jenner) to amerykańska osobowość telewizyjna.
+Nacht;In het Engels is "Kraan" "Crane".; W języku angielskim „Kraan” to „Crane”.
 
 Het-is-een-nacht;Je bent trouwens eigenlijk wel geweldig.; Nawiasem mówiąc, jesteś naprawdę świetny.
 Het-is-een-nacht;Als ik niet Pools was, zou ik geen Pools kennen.; Gdybym nie był Polakiem, nie znałbym polskiego.
