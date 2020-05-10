@@ -213,9 +213,12 @@ Duurt-te-lang;Onze kosten belopen circa 1 miljoen PLN.; Nasze koszty wynoszą ok
 Duurt-te-lang;Je bent al een poos binnen.; Jesteś w środku już przez jakiś czas.
 Duurt-te-lang;Beweeg je vingers langzaam op en neer.; 
 
-
-
-
-
-
-
+Oceaan;Verrek; O, cholera!
+Oceaan;Ik begrijp niet waarom die schoenen zo'n zeer doen.; Nie rozumiem, dlaczego te buty tak bardzo bolą.
+Oceaan;Je hoeft niet te komen.; Nie musisz przychodzić.
+Oceaan;Ik wens om het nieuws te volgen.; Chcę prześledzić newsy. 
+Oceaan;Luister, als ik sterf vannacht...; Słuchaj, jeśli umrę dziś w nocy...
+Oceaan;Jullie zullen spoedig om genade smeken.; Wkrótce będziecie błagać o miłość.
+Oceaan;Ik wou je geen angst aanjagen.; Nie chciałem cię przestraszyć.
+Oceaan;Zouden ze al zo ver zijn?; Czy byliby tak daleko?
+Oceaan;De export onder druk kwam te staan.; Eksport znalazł się pod presją.
