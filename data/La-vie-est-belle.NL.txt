@@ -20,7 +20,7 @@
 
 1;5;**La vie est belle** Het leven is prachtig ×3
 1;5;**Je n’y comprends rien** Ik begrijp er niets van
-1;5;**Je vais rire jusqu'à la fin** Ik zal lachen tot het einde
+1;5;"**Je vais rire jusqu'&agrave; la fin** Ik zal lachen tot het einde"
 1;5;**La vie est belle** Het leven is prachtig ×2
 
 0;6;Stap uit in de stad en begin te lopen

@@ -12,7 +12,7 @@ Dromen-zijn-bedrog;Manual;Maurizio Fabrizio and Riccardo Fogli and Guido Morra a
 
 Duurt-te-lang;Manual;Glen Faria and Morien van der Tang;Davina Michelle;Duurt Te Lang;To trwa zbyt długo;2018;to numer, który czekał 5 lat na nowego wykonawcę i stanie się hitem;https://youtu.be/n_j1clPqEvg
 
-Een-beetje-verliefd;Manual;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and Andre G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;to piosenka o niespełnionej miłości Rozpoczyna się w scenerii podobnej do tej z piosenki \@ref(Leef) wykonanej przez syna André Hazes jr;https://youtu.be/3kufNNxyACg
+Een-beetje-verliefd;Manual;Aart Mol and Geertjan Hessing and Cornelis R. Bergman and Elmer F. Veerhoff and Erwin v. Prehn and André G. Hazes;André Hazes;Een beetje verliefd;Trochę zakochany;1981;to piosenka o niespełnionej miłości Rozpoczyna się w scenerii podobnej do tej z piosenki \@ref(Leef) wykonanej przez syna André Hazes jr;https://youtu.be/3kufNNxyACg
 
 Het-dorp;Manual;Jean Ferrat and Hugo Verhage;Wim Sonneveld;Het dorp;Wieś;1974;to wspomnienia autora tekstu o utraconym dzieciństwie. Hugo Verhage to naprawdę Friso Wiegersma. Z wykonawcą piosenki Wimem Sonneveld byli w związku. ;https://youtu.be/C8Ff5OEUzd8
 
@@ -30,7 +30,7 @@ La-vie-est-belle;Manual;Koen Jansen;Diggy Dex ft. DJ Vali;La vie est belle;Życi
 
 Leef;Manual;Edwin van Hoevelaak and Koen Jansen and Chiel Ottink and Arno Krabman;André Hazes jr.;Leef;Żyj;2015; to piosenka o życiu i umieraniu. Rozpoczyna się w scenerii podobnej do tej z piosenki \@ref(Een-beetje-verliefd) wykonanej przez ojca André Hazes;https://youtu.be/2H0yWKdZM8g
 
-Liefs-uit-Londen;Manual;Peter Slager and Bas Kennis;BLØF;Liefs uit Londen;Kocham z Londynu;1998;to pierwszy z hitów grupy BLØF, którego tekst był zainspirowany grą planszową ''Podróż dookoła świata'';https://youtu.be/aM5JU0juOSs
+Liefs-uit-Londen;Manual;Peter Slager and Bas Kennis;"BL&Oslash;F";Liefs uit Londen;Kocham z Londynu;1998;"to pierwszy z hitów grupy BL&Oslash;F, którego tekst był zainspirowany grą planszową 'Podróż dookoła świata'";https://youtu.be/aM5JU0juOSs
 
 Mag-ik-dan-bij-jou;Manual;Claudia de Breij;Claudia de Breij;Mag ik dan bij jou; "TITLE.PL";2009;??? ;https://youtu.be/o5uvsEs79hM
 
@@ -40,9 +40,7 @@ Oceaan;Manual;Racoon;Racoon;Oceaan;Ocean;2012;to ich pierwsza piosenka w języku
 
 O-o-Den-Haag;Manual;Harrie Jekkers;Harry Klorkestein;O, o, Den Haag;Oj, oj, Haga;1982;to piosenka uznawana za nieoficjalny hymn Hagi. Nazwa wykonawcy to anagram nazwy prawdziwego zespołu Klein Orkest;https://youtu.be/ptGJ8wzeGDE
 
-
 Over-de-muur;Manual;Harrie Jekkers;Klein Orkest;Over de muur;Over de muur;1984;to holenderski poprzednik polskiej "Arahji" Kultu. "Mój dom murem podzielony" to jakby nie było "Mijn huis door een muur gescheiden";https://youtu.be/rAR6XKHfXY0
-
 
 Papa;Manual;Stef Bos;Stef Bos;Papa;Tato;1991; to wyznanie skierowane do ojca Bosa u którego zdiagnozowano raka. Leczenie "Taty" się powiodło, zmarł przeżywszy jeszcze 23 lata;https://youtu.be/ptGJ8wzeGDE
 
@@ -52,7 +50,7 @@ Per-spoor;Manual;Guus Meeuwis;Guus Meeuwis & Vagant;Per spoor (Kedeng kedeng);Ko
 
 Zing-vecht-huil-bid-lach-werk-en-bewonder;Manual;Ramses Shaffy;Ramses Shaffy;Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder;Śpiewaj, Walcz, Płacz, Módl Się, Śmiej Się, Pracuj I Podziwiaj;1971; "NOTE";https://youtu.be/xg07TjHOlUM
 
-Belgie;Manual;Henk Westbroek;Het Goede Doel;Belgie (Is er leven op Pluto...?);Belgia (Czy jest życie na Plutonie ...?);1982; ...;https://youtu.be/jwucIydijEo
+Belgie;Manual;Henk Westbroek;Het Goede Doel;België (Is er leven op Pluto...?);Belgia (Czy na Plutonie jest życie ...?);1982;to chyba jedyna piosenka, w której pojawia się Polska;https://youtu.be/jwucIydijEo
 
 
 

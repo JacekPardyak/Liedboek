@@ -1,0 +1,4 @@
+"FROM"; "TO"
+BLØF   ;"BL&Oslash;F"
+jusqu'à;"jusqu'&agrave;"
+scène  ;"sc&egrave;ne"

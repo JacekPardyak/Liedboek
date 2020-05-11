@@ -2,61 +2,43 @@
 0;1;Kan niet naar Duitsland, daar zijn ze zo streng
 0;1;Waar kan ik heen, ik kan niet naar Chili
 0;1;Kan niet naar Chili, daar doen ze zo eng
-0;1;'k Wil niet wonen in Koeweit
-0;1;Want Koeweit dat is me te heet
-0;1;En wat Amerika betreft
-0;1;Dat land bestaat niet echt
-0;1;Waar kan ik heen, 'k wil niet naar Noord-Ierland
-0;1;Niet naar Noord-Ierland, daar gaat alles stuk
-0;1;Waar kan ik heen, ik kan niet naar China
-0;1;'K Wil niet naar China, dat is me te druk
-0;1;'K Wil niet wonen in Schotland
-0;1;Want Schotland dat is me te nat
-0;1;En de USSSR
-0;1;Dat gaat me net te ver
-0;1;Is er leven op Pluto
-0;1;Kun je dansen op de maan
-0;1;Is er een plaats tussen de sterren
-0;1;Waar ik heen kan gaan
-0;1;Is er leven op Pluto
-0;1;Kun je dansen op de maan
-0;1;Is er een plaats tussen de sterren
-0;1;Waar ik heen kan gaan
-0;1;Waar kan ik heen, ik kan niet naar Cuba
-0;1;'K Wil niet naar Cuba, dat is me te zoet
-0;1;Waar kan ik heen, ik kan niet naar Polen
-0;1;'K Wil niet naar Polen, daar gaat het te goed
-0;1;'K Wil niet wonen in Lapland
-0;1;Want Lapland dat is me te koud
-0;1;En ik wil weg uit Nederland
-0;1;Want hier krijg ik het benauwd
-0;1;Is er leven op Pluto
-0;1;Kun je dansen op de maan
-0;1;Is er een plaats tussen de sterren
-0;1;Waar ik heen kan gaan
-0;1;Is er leven op Pluto
-0;1;Kun je dansen op de maan
-0;1;Is er een plaats tussen de sterren
-0;1;Waar ik heen kan gaan
-0;1;'K Heb getwijfeld over België
-0;1;Omdat iedereen daar lacht
-0;1;'K Heb getwijfeld over België
-0;1;Want dat taaltje is zo zacht
-0;1;'K stond zelfs in dubio
-0;1;Maar ik nam geen enkel risico
-0;1;'K heb getwijfeld over België
-0;1;'K stond zelfs in dubio
-0;1;Maar ik nam geen enkel risico
-0;1;'K heb getwijfeld over België
-0;1;België
-0;1;België
-0;1;België
-0;1;België
-0;1;Is er leven op Pluto
-0;1;Kun je dansen op de maan
-0;1;Is er een plaats tussen de sterren
-0;1;Waar ik heen kan gaan
-0;1;Is er leven op Pluto
-0;1;Kun je dansen op de maan
-0;1;Is er een plaats tussen de sterren
-0;1;Waar ik heen kan gaan
+
+0;2;'k Wil niet wonen in Koeweit
+0;2;Want Koeweit dat is me te heet
+0;2;En wat Amerika betreft
+0;2;Dat land bestaat niet echt
+
+0;3;Waar kan ik heen, 'k wil niet naar Noord-Ierland
+0;3;Niet naar Noord-Ierland, daar gaat alles stuk
+0;3;Waar kan ik heen, ik kan niet naar China
+0;3;'k Wil niet naar China, dat is me te druk
+
+0;4;'k Wil niet wonen in Schotland
+0;4;Want Schotland dat is me te nat
+0;4;En de USSR
+0;4;Dat gaat me net te ver
+
+1;5;Is er leven op Pluto
+1;5;Kun je dansen op de maan
+1;5;Is er een plaats tussen de sterren
+1;5;Waar ik heen kan gaan
+
+0;6;Waar kan ik heen, ik kan niet naar Cuba
+0;6;'k Wil niet naar Cuba, dat is me te zoet
+0;6;Waar kan ik heen, ik kan niet naar Polen
+0;6;'k Wil niet naar Polen, daar gaat het te goed
+
+0;7;'k Wil niet wonen in Lapland
+0;7;Want Lapland dat is me te koud
+0;7;En ik wil weg uit Nederland
+0;7;Want hier krijg ik het benauwd
+
+0;8;'k Heb getwijfeld over België
+0;8;Omdat iedereen daar lacht
+0;8;'k Heb getwijfeld over België
+0;8;Want dat taaltje is zo zacht
+
+0;9;'k Stond zelfs in dubio
+0;9;Maar ik nam geen enkel risico
+0;9;'k Heb getwijfeld over België
+0;9;België

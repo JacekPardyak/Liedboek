@@ -30,7 +30,7 @@
 0;3;Vannacht heeft stil gestaan
 
 0;4;Maar een lied blijft slechts bij woorden
-0;4;Een film is in scène gezet
+0;4;"Een film is in sc&egrave;ne gezet"
 0;4;Maar deze nacht met jou
 0;4;Is levensecht
 

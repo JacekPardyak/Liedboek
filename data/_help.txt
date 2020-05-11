@@ -154,8 +154,8 @@ Pastorale;Alsjeblieft, ik wil liever alleen zijn.;Proszę, wolę być sam.
 Pastorale;Ik heb je lief, ik heb je kinderen lief en je kinderen houden van jou! Kocham cię, kocham twoje dzieci, a twoje dzieci kochają ciebie.
 Pastorale;Hij houdt mij niet bij jou vandaan.; Nie zatrzyma mnie z dala od ciebie.
 
-Zing-vecht-huil-bid-lach-werk-en-bewonder; Ik zeg het alleen maar!
-Zing-vecht-huil-bid-lach-werk-en-bewonder; Mogę tylko czekać 
+Zing-vecht-huil-bid-lach-werk-en-bewonder;Ik zeg het alleen maar!; Ja tylko ci mówię!
+Zing-vecht-huil-bid-lach-werk-en-bewonder;Wij kunnen toch alleen maar wachten.; Możemy tylko czekać. 
 
 Ik-voel-me-zo-verdomd-alleen;Kolere en klere zijn hetzelfde.; Cholera i cholercia to to samo.
 Ik-voel-me-zo-verdomd-alleen;Voor mijn part ...; Jeżeli chodzi o mnie ...
@@ -224,4 +224,12 @@ Oceaan;De export onder druk kwam te staan.; Eksport znalazł się pod presją.
 
 Over-de-muur;Fiets en wandel langs kastelen en landhuizen.; Przejedź się rowerem i przejdź wzdłuż zamków i dworów.
 Over-de-muur;Ze kon niet omgaan met de angst.; Nie mogła znieść strachu.
+Over-de-muur;De directie heeft hem teruggefloten.; Dyrekcja postawiła go na baczność.
+
+Belgie;Waar ga je heen?; Dokąd idziesz? 
+Belgie;Gaan we nu eng doen? - Ben je bang voor me?; Czy będziemy teraz przerażający? - Boisz się mnie?
+Belgie;-Hoe gaat het? -Het gaat goed.; -Jak się miewasz? -Dobrze idzie.
+Belgie;Ik krijg wat ik wil.; Dostaję to, czego chcę.
+Belgie;Ik ben nog steeds in dubio er over.; Nadal mam co do tego wątpliwości.
+Belgie;Geen enkel boek is het lezen waard.; Żadna książka nie jest warta przeczytania.
  

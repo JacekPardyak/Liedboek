@@ -51,6 +51,29 @@ help  <-  readr::read_delim(file = "./data/_help.txt",
 bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "CATEGORY",  "AUTHOR", "TITLE", "YEAR", "URL" )])
 bib.tbl$NOTE <- paste0('\\url{', bib.tbl$URL, '}')
 
+# correct special characters
+corr.tbl <- readr::read_delim(file = "./data/_corrections-bibtex.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" ,
+                         comment = "#")
+  
+corr.tbl <- tibble::as_tibble(corr.tbl)
+columns <- c("AUTHOR", "TITLE")
+
+for (i in c(1:nrow(corr.tbl))) {
+#  i = 1
+  pattern = corr.tbl$FROM[i]
+  replacement = corr.tbl$TO[i]
+  for (column in columns) {
+ #   column = columns[2]
+    for (j in c(1:nrow(bib.tbl))) {
+#      j = 26
+      x = bib.tbl[j, column]
+      bib.tbl[j, column] <- gsub(pattern = pattern, replacement = replacement, x = x)
+        }
+    }
+  }
+
 bib2df::df2bib(bib.tbl, "./songs.bib")
 ```
 
