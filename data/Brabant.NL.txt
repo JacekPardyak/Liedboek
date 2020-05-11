@@ -1,0 +1,25 @@
+0;1;Een muts op mijn hoofd, mijn kraag staat omhoog
+0;1;Het is hier ijskoud, maar gelukkig wel droog
+
+0;2;De dagen zijn kort hier, de nacht begint vroeg
+0;2;De mensen zijn stug, en er is maar één kroeg
+
+0;3;Als ik naar mijn hotel loop, na een donkere dag,
+0;3;Dan voel ik mijn huissleutel diep in mijn zak
+
+1;4;Ik loop hier alleen in een te stille stad
+1;4;Ik heb eigenlijk nooit last van heimwee gehad
+1;4;Maar de mensen ze slapen, de wereld gaat dicht
+1;4;En dan denk ik aan Brabant, want daar brandt nog licht
+
+0;5;Ik mis hier de warmte van een dorpscafé,
+0;5;De aanspraak van mensen met een zachte G
+
+0;6;Ik mis zelfs het zeiken, op alles om niets
+0;6;Was men maar op Brabant zo trots als een Fries
+
+0;7;In het zuiden vol zon woon ik samen met jou
+0;7;'t Is daarom dat ik zo van Brabanders houd
+
+0;8;De Peel en de Kempen en de Meierij,
+0;8;Maar het mooiste aan Brabant ben jij, dat ben jij

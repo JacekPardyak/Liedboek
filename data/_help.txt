@@ -99,11 +99,10 @@ Papa;Zij liggen te praten.; Oni rozmawiają leżąc.
 Papa;Dat ligt mij niet.; To mi nie leży.
 Papa;Eén die weldra op aller lippen zal liggen.; Ten, który wkrótce będzie na ustach wszystkich.
 
-Orenmens;Wie is daar?; Kto tam?
-Orenmens;Praat met mij.; Porozmawiaj ze mną.
-Orenmens;Je praat teveel.; Za dużo mówisz.
-Orenmens;Kan jij boter van margarine onderscheiden?
-Orenmens;Ik hoor mijn paard galopperen op de grond.;Słyszę, jak mój koń galopuje na ziemię
+Brabant;Als je niets te zeggen hebt, zeg dan niets., Jeśli nie masz nic do powiedzenia nic nie mów.
+Brabant;Ze is net zo bezig als Tomek.; Jest tak samo zajęta jak Tomek.
+Brabant;De Peel, De Kempen en De Meierij zijn de mooiste plekken van Brabant.; Peel, Kempen i Meierij to najpiękniejsze miejsca w Brabancji.
+
 
 Het-land-van;Pim Fortuyn (Nederlandse politicus) en Theo van Gogh (filmregisseur) en hun respectievelijke moordenaars Volkert van der G. en Mohammed B.; Pim Fortuyn (holenderski polityk) i Theo van Gogh (reżyser) i odpowiednio ich mordercy Volkert van der G. i Mohammed B.
 Het-land-van;Doorzwemmen tot je aan je grens zit.; Płyń, aż osiągniesz swój limit.
@@ -213,7 +212,7 @@ Duurt-te-lang;Onze kosten belopen circa 1 miljoen PLN.; Nasze koszty wynoszą ok
 Duurt-te-lang;Je bent al een poos binnen.; Jesteś w środku już przez jakiś czas.
 Duurt-te-lang;Beweeg je vingers langzaam op en neer.; 
 
-Oceaan;Verrek; O, cholera!
+Oceaan;Verrek!; O, cholera!
 Oceaan;Ik begrijp niet waarom die schoenen zo'n zeer doen.; Nie rozumiem, dlaczego te buty tak bardzo bolą.
 Oceaan;Je hoeft niet te komen.; Nie musisz przychodzić.
 Oceaan;Ik wens om het nieuws te volgen.; Chcę prześledzić newsy. 
@@ -222,3 +221,7 @@ Oceaan;Jullie zullen spoedig om genade smeken.; Wkrótce będziecie błagać o m
 Oceaan;Ik wou je geen angst aanjagen.; Nie chciałem cię przestraszyć.
 Oceaan;Zouden ze al zo ver zijn?; Czy byliby tak daleko?
 Oceaan;De export onder druk kwam te staan.; Eksport znalazł się pod presją.
+
+Over-de-muur;Fiets en wandel langs kastelen en landhuizen.; Przejedź się rowerem i przejdź wzdłuż zamków i dworów.
+Over-de-muur;Ze kon niet omgaan met de angst.; Nie mogła znieść strachu.
+ 

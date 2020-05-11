@@ -6,6 +6,8 @@ Avond;Manual;Boudewijn de Groot and Lennaert Nijgh;Boudewijn de Groot;Avond;Wiec
 
 Blauwe-dag;Manual;Suzan Stortelder and Arno Krabman and Freek Rikkerink and Koen Jansen;Suzan & Freek;Blauwe Dag;Gorszy Dzień;2019; ........ ;https://youtu.be/keYF1D0LVQk
 
+Brabant;Manual;Guus Meeuwis and Jan Willem Rozenboom;Guus Meeuwis;Brabant;Brabancja;2003;to nieoficjalny hymn Brabancji Północnej, który powstał w Moskwie;https://youtu.be/YaIzl1Tz-so
+
 Dromen-zijn-bedrog;Manual;Maurizio Fabrizio and Riccardo Fogli and Guido Morra and Han Kooreneef and Leo Driessen;Marco Borsato;Dromen zijn bedrog;Sny są ulotne;1994;jest uważana za jeden z najbardziej udanych singli w języku niderlandzkim wszech czasów;https://youtu.be/CuA2U9iU6lQ
 
 Duurt-te-lang;Manual;Glen Faria and Morien van der Tang;Davina Michelle;Duurt Te Lang;To trwa zbyt długo;2018;to numer, który czekał 5 lat na nowego wykonawcę i stanie się hitem;https://youtu.be/n_j1clPqEvg
@@ -38,9 +40,8 @@ Oceaan;Manual;Racoon;Racoon;Oceaan;Ocean;2012;to ich pierwsza piosenka w języku
 
 O-o-Den-Haag;Manual;Harrie Jekkers;Harry Klorkestein;O, o, Den Haag;Oj, oj, Haga;1982;to piosenka uznawana za nieoficjalny hymn Hagi. Nazwa wykonawcy to anagram nazwy prawdziwego zespołu Klein Orkest;https://youtu.be/ptGJ8wzeGDE
 
-Orenmens;Manual;???;De Kift;Orenmens;Człowiek Uszy;1999;???; "URL"
 
-Over-de-muur;Manual;Harrie Jekkers;Klein Orkest;Over de muur;Over de muur;1984;to piosenka protest ...;https://youtu.be/rAR6XKHfXY0
+Over-de-muur;Manual;Harrie Jekkers;Klein Orkest;Over de muur;Over de muur;1984;to holenderski poprzednik polskiej "Arahji" Kultu. "Mój dom murem podzielony" to jakby nie było "Mijn huis door een muur gescheiden";https://youtu.be/rAR6XKHfXY0
 
 
 Papa;Manual;Stef Bos;Stef Bos;Papa;Tato;1991; to wyznanie skierowane do ojca Bosa u którego zdiagnozowano raka. Leczenie "Taty" się powiodło, zmarł przeżywszy jeszcze 23 lata;https://youtu.be/ptGJ8wzeGDE
@@ -51,7 +52,7 @@ Per-spoor;Manual;Guus Meeuwis;Guus Meeuwis & Vagant;Per spoor (Kedeng kedeng);Ko
 
 Zing-vecht-huil-bid-lach-werk-en-bewonder;Manual;Ramses Shaffy;Ramses Shaffy;Zing, Vecht, Huil, Bid, Lach, Werk En Bewonder;Śpiewaj, Walcz, Płacz, Módl Się, Śmiej Się, Pracuj I Podziwiaj;1971; "NOTE";https://youtu.be/xg07TjHOlUM
 
-
+Belgie;Manual;Henk Westbroek;Het Goede Doel;Belgie (Is er leven op Pluto...?);Belgia (Czy jest życie na Plutonie ...?);1982; ...;https://youtu.be/jwucIydijEo
 
 
 

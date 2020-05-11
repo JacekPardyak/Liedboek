@@ -3,22 +3,22 @@
 0;1;In december met de hele buurt op jacht om kerstbomen te rausen
 0;1;Op oudejaarsavond fikkie stoken, vooral die autobanden rookten fijn
 
-0;1;Ik zou best nog wel een keertje met die ouwe naar ADO willen kijken
-0;1;In het Zuiderpark, de lange zij, een warme worst, supporters om je heen
-0;1;Lekker kankeren op Theo van den Burch en die lange van Vianen
-0;1;Want bij elke lage bal dan dook die eikel er steevast overheen
+0;2;Ik zou best nog wel een keertje met die ouwe naar ADO willen kijken
+0;2;In het Zuiderpark, de lange zij, een warme worst, supporters om je heen
+0;2;Lekker kankeren op Theo van den Burch en die lange van Vianen
+0;2;Want bij elke lage bal dan dook die eikel er steevast overheen
 
-0;1;O, o, Den Haag, mooie stad achter de duinen
-0;1;De Schilderswijk, de Lange Poten en het Plein
-0;1;O, o, Den Haag, ik zou met niemand willen ruilen
-0;1;Meteen gaan huilen, als ik geen Hagenees zou zijn
+1;3;O, o, Den Haag, mooie stad achter de duinen
+1;3;De Schilderswijk, de Lange Poten en het Plein
+1;3;O, o, Den Haag, ik zou met niemand willen ruilen
+1;3;Meteen gaan huilen, als ik geen Hagenees zou zijn
 
-0;1;Ik zou best nog wel een keertje net als vroeger een nachie willen stappen
-0;1;Op mijn Puch een wijffie halen en daarna dansen in de Marathon
-0;1;Na afloop op het Rijswijkseplein een harinkie gaan happen
-0;1;De dag erna een kater dus naar Scheveningen, lekker bakken in de zon
+0;4;Ik zou best nog wel een keertje net als vroeger een nachie willen stappen
+0;4;Op mijn Puch een wijffie halen en daarna dansen in de Marathon
+0;4;Na afloop op het Rijswijkseplein een harinkie gaan happen
+0;4;De dag erna een kater dus naar Scheveningen, lekker bakken in de zon
 
-0;1;Ik zou best nog wel een keertje ... ach, wat leg ik toch te dromen
-0;1;Want Den Haag is door de jaren zo veranderd, voor mij toch veel te vlug
-0;1;Dat Nieuw Babylon moest dat er trouwens eigenlijk nou wel zo nodig komen?
-0;1;Zo komt die ooievaar op de Vijverberg dus never-nooit meer terug
+0;5;Ik zou best nog wel een keertje ... ach, wat leg ik toch te dromen
+0;5;Want Den Haag is door de jaren zo veranderd, voor mij toch veel te vlug
+0;5;Dat Nieuw Babylon moest dat er trouwens eigenlijk nou wel zo nodig komen?
+0;5;Zo komt die ooievaar op de Vijverberg dus never-nooit meer terug
