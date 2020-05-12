@@ -3,9 +3,6 @@ Title, Artist, Url
 "Vandaag ben ik gaan lopen", "Acda en De Munnik", "https://youtu.be/MO3AA9pEN9o"
 
 
-#- 
-
-#- Orenmens - De Kift
 #- Een nieuwe dag - Nick & Simon (tekstowo) 
 #- Blijf bij mij (Dit zijn voor mij de allermooiste uren)" (2007) - André Hazes and Gerard Joling 
 #- Nooit meer een morgen van Marco Borsato
@@ -20,9 +17,9 @@ Title, Artist, Url
 #- Hoe het danst, Marco Borsato, Armin van Buuren & Davina Michelle 
 
 ### De opmaat
-#- Per spoor
-#- Ik kan het niet alleen
-#- Een eigen huis - René Froger 
+#- Per spoor                                    +
+#- Ik kan het niet alleen                       +
+#- Een eigen huis - René Froger                 +
 #- Jij bent zo - Jeroen Van Der Boom
 #- Anne - Herman van Veen
 ### De sprong

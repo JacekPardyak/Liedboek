@@ -24,7 +24,7 @@ artists <- c("Bløf", "André Hazes", "Suzan & Freek", "Boudewijn de Groot",
              "Jacques Brel", "Ben Cramer", "Joost Nuissl", "Louis Neefs",
              "Astrid Nijgh", "Reinhard Mey", "Willy Alberti", "Conny Vandenbos",
              "VOF de Kunst", "Armand", "Rowwen Hèze", "Milow", "Volumia!", "Danny de Munk",
-             "Jan Smit", "Het Goede Doel")
+             "Jan Smit", "Het Goede Doel", "Rene Froger")
 
 # ?  Gordon - wielu artystów w tą nazwą
 # "Jacques Brel"  Laat me niet alleen (Ne me quitte pas) - Belgian guy śpiewał po francusku i niderlandzku

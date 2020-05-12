@@ -24,7 +24,7 @@ Het-is-een-nacht;Heb ik daarvoor een vergunning nodig?; Czy potrzebuję na to ze
 Het-is-een-nacht;Waar kan ik meer te weten komen over ...?; Gdzie mogę dowiedzieć się więcej o...?
 Het-is-een-nacht;Wanneer ...; Kiedy ........?
 Het-is-een-nacht;Ik heb zin in een borrel.; Mam ochotę na drinka.
-Het-is-een-nacht;De lijn is bezet. Linia jest zajęta
+Het-is-een-nacht;De lijn is bezet.; Linia jest zajęta.
 Het-is-een-nacht;Als ik meer tijd had, zou ik op je wachten.; Gdybym miał/a więcej czasu, poczekałbym na ciebie. 
 Het-is-een-nacht;Je moeder kan echt lekker koken.; Twoja mama naprawdę potrafi dobrze gotować.
 Het-is-een-nacht;Dat is veel, hè?; To dużo, prawda?
@@ -232,4 +232,11 @@ Belgie;-Hoe gaat het? -Het gaat goed.; -Jak się miewasz? -Dobrze idzie.
 Belgie;Ik krijg wat ik wil.; Dostaję to, czego chcę.
 Belgie;Ik ben nog steeds in dubio er over.; Nadal mam co do tego wątpliwości.
 Belgie;Geen enkel boek is het lezen waard.; Żadna książka nie jest warta przeczytania.
- 
+
+
+Afscheid-nemen-bestaat-niet;En daarom moet ik nu afscheid nemen.; I dlatego muszę się teraz pożegnać.
+Afscheid-nemen-bestaat-niet;Er bestaat niet één veilige plek meer in Japan.; W Japonii nie ma już bezpiecznego miejsca.
+Afscheid-nemen-bestaat-niet;Zulke aardige mensen als jou kom je maar zelden tegen.; Rzadko spotykasz tak miłych ludzi jak ty.
+Afscheid-nemen-bestaat-niet;Ik kan er naartoe, waar je ook wil.; Mogę iść gdziekolwiek chcesz.
+
+Alles-kan-een-mens-gelukkig-maken;;
