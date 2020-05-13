@@ -1,9 +1,28 @@
-# Piosenki
-
 ```{r, echo=FALSE, results = "asis", message=FALSE, eval=TRUE}
+topics <- chapters$CHAPTERKEY
+for(topic in topics) {
+#  topic <- topics[2]
+  make.chapter(topic)
+      
+  cat("  \n")
+#  if (!knitr:::is_html_output()) cat("\\vfill")
+  
+  if(topic != "Wprowadzenie") {
+     titles <- songs[songs$CHAPTERKEY == topic,]$BIBTEXKEY
+      for(title in titles) {
+        make.song(title)
+      }
+    }
+  }
+```
+
+```{r, echo=FALSE, results = "asis", message=FALSE, eval=FALSE}
 titles <- songs$BIBTEXKEY
 for(title in titles[1:28]) {
   make.song(title)
   }
 ```
 
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`

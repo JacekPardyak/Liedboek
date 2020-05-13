@@ -8,13 +8,12 @@ documentclass: book
 bibliography: [songs.bib]
 biblio-style: apalike
 link-citations: yes
-url: 'https\://jacekpardyak.github.io/Liedboek'
 github-repo: "JacekPardyak/Liedboek"
-cover-image: './images/_cover-page.png'
+url: 'https\://jacekpardyak.github.io/Liedboek/'
+cover-image: "./images/cover/cover.jpg"
+favicon: "./images/favicon/favicon.ico"
 description: "100 holenderskich piosenek w przekładzie na polski"
 ---
-
-# Wstęp
 
 ```{r include=FALSE}
 invisible(Sys.setlocale("LC_ALL","Polish"))
@@ -22,20 +21,13 @@ invisible(Sys.setlocale("LC_ALL","Polish"))
 ```
 
 
-Wszelkie prawa do tekstów piosenek umieszczonych w tej pracy przysługują ich właścicielom. 
-
-Teksty piosenek znajdują się tutaj wyłącznie w celach informacyjnych i edukacyjnych oraz służą do użytku prywatnego.
-
-W przypadku, gdy właściciel praw do konkretnego tekstu nie życzy sobie by się nim posługiwać w tej pracy, uprzejmie proszę o kontakt, a tekst zostanie usunięty.
-
-Wszelkie prawa do tłumaczeń tekstów piosenek umieszczonych w tej pracy przysługują mi, ich autorowi.
-
-W tłumaczeniach staram się utrzymać funkcjonalność orygnialnego tekstu. Jeżeli w przekazie są emocje chcę je również czuć w tłumaczeniu. Chcę przy tym zachować oryginalne słowa, za wyjątkiem gdy w oryginale znajduje się wyrażenie. Wtedy poszukuję podobnego wyrażenia w języku polskim. Nie jest moją intencja dokonwyać adapatacj! piosenek, czyli tworzyć utworóW, które tak samo łatwo da się wyśpiewać nie zważając na oryginalnie użyty słownik.
-
-
 ```{r include=FALSE}
 #songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
 songs <- readr::read_delim(file = "./data/_songs.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" )
+
+chapters <- readr::read_delim(file = "./data/_chapters.txt",
                          locale = readr::locale("nl"),
                           delim = ";" )
 
@@ -48,7 +40,7 @@ help  <-  readr::read_delim(file = "./data/_help.txt",
 #  Url = {https://youtu.be/AFBGC0fPjLc},
 #  Note   = "\url{http://engineering.purdue.edu/~mark/puthesis}"
 
-bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "CATEGORY",  "AUTHOR", "TITLE", "YEAR", "URL" )])
+bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "AUTHOR", "TITLE", "YEAR", "URL" )])
 bib.tbl$NOTE <- paste0('\\url{', bib.tbl$URL, '}')
 
 # correct special characters
@@ -74,12 +66,59 @@ for (i in c(1:nrow(corr.tbl))) {
     }
   }
 
+bib.tbl$CATEGORY <- "Manual"
 bib2df::df2bib(bib.tbl, "./songs.bib")
 ```
 
 
 
 ```{r include=FALSE}
+# Make chapter
+make.chapter <- function(x){
+#  x <- chapters[1]
+
+    cat(paste0("# ", chapters[chapters$CHAPTERKEY == x, "TITLE"], "{#", x, "}" ,"\n", sep = "" ))
+  
+  
+    template <- c("
+:::::: {.columns}
+
+::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
+
+%s
+:::
+
+::: {.column width='3%%' data-latex='{0.03\\textwidth}'}
+\\ 
+:::
+
+::: {.column width='64%%' data-latex='{0.64\\textwidth}'}
+%s
+:::
+::::::
+
+\n
+")
+#    image <- 
+#       ifelse(!knitr:::is_html_output() == TRUE, 
+#       paste0("\\includegraphics{./images/", x, "}"),
+#       paste0("![..](./images/", x, ".svg)"))
+    
+    image <- 
+       ifelse(!knitr:::is_html_output() == TRUE, 
+       paste0("\\includegraphics{./images/", x, "}"),
+       paste0("![](./images/", x, ".png)"))
+    
+    
+    text <- paste(chapters[chapters$CHAPTERKEY == x, "TEXT"], "  \n", sep = "")
+  
+    cat(sprintf(template, image, text))
+    
+    cat("  \n")
+    
+if (!knitr:::is_html_output()) cat("\\vfill")
+    }
+
 # make title
 make.title <- function(x){
   cat(paste0("## ", songs[songs$BIBTEXKEY == x, "TITLE"], ", _", 

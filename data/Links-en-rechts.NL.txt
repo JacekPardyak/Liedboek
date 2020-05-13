@@ -1,0 +1,24 @@
+1;1;Ik wil naar links, jij gaat naar rechts
+1;1;Dus loop ik jou weer achterna
+1;1;Ik wil vooruit, jij achteruit
+1;1;Maar we komen toch weer bij elkaar
+
+0;2;Met jou weet ik nooit waar ik aan toe ben
+0;2;Met jou weet ik nooit precies wat jij bedoelt
+0;2;Maar wat ik zeker weet en wat ik niet meer vergeet
+0;2;Dat is dat jij hetzelfde voor mij voelt
+
+0;3;Ik wordt een beetje moe van al dat wachten
+0;3;Ik wordt een beetje moe van, we zien wel hoe het gaat
+0;3;Wanneer hebben wij een keer alles uitgepraat
+0;3;Dat jou neus dezelfde kant op staat
+
+0;4;Ik zeg ja en jij zegt nee
+0;4;Jij gaat altijd je eigen weg
+0;4;Maar op die weg is plaats voor twee
+0;4;Onthoudt dus goed wat ik je zeg
+
+0;5;Ik wil naar links, jij gaat naar rechts
+0;5;Dus loop ik jou weer achterna
+0;5;Ik wil vooruit, jij achteruit
+0;5;Maar we komen toch weer bij elkaar

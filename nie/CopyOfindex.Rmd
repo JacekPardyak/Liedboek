@@ -8,16 +8,18 @@ documentclass: book
 bibliography: [songs.bib]
 biblio-style: apalike
 link-citations: yes
-url: 'https\://jacekpardyak.github.io/Liedboek'
 github-repo: "JacekPardyak/Liedboek"
-cover-image: './images/_cover-page.png'
-description: "100 holenderskich piosenek w tłumaczeniu z języka niderlandzkiego"
+url: 'https\://jacekpardyak.github.io/Liedboek/'
+cover-image: "./images/cover/cover.jpg"
+favicon: "./images/favicon/favicon.ico"
+description: "100 holenderskich piosenek w przekładzie na polski"
 ---
 
 # Wstęp
 
 ```{r include=FALSE}
-#invisible(Sys.setlocale("LC_ALL","Polish"))
+
+invisible(Sys.setlocale("LC_ALL","Polish"))
 #invisible(Sys.setlocale("LC_ALL","English_Netherlands"))
 ```
 
@@ -50,6 +52,29 @@ help  <-  readr::read_delim(file = "./data/_help.txt",
 
 bib.tbl <- tibble::as_tibble(songs[,c("BIBTEXKEY", "CATEGORY",  "AUTHOR", "TITLE", "YEAR", "URL" )])
 bib.tbl$NOTE <- paste0('\\url{', bib.tbl$URL, '}')
+
+# correct special characters
+corr.tbl <- readr::read_delim(file = "./data/_corrections-bibtex.txt",
+                         locale = readr::locale("nl"),
+                          delim = ";" ,
+                         comment = "#")
+  
+corr.tbl <- tibble::as_tibble(corr.tbl)
+columns <- c("AUTHOR", "TITLE")
+
+for (i in c(1:nrow(corr.tbl))) {
+#  i = 1
+  pattern = corr.tbl$FROM[i]
+  replacement = corr.tbl$TO[i]
+  for (column in columns) {
+ #   column = columns[2]
+    for (j in c(1:nrow(bib.tbl))) {
+#      j = 26
+      x = bib.tbl[j, column]
+      bib.tbl[j, column] <- gsub(pattern = pattern, replacement = replacement, x = x)
+        }
+    }
+  }
 
 bib2df::df2bib(bib.tbl, "./songs.bib")
 ```
@@ -108,14 +133,15 @@ if (!knitr:::is_html_output()) cat("\\vfill")
 }
 
 make.help <- function(x){
-  tmp <- help[help$BIBTEXKEY == x, ]
-  for (i in c(1:nrow(tmp))) {
+   tmp <- help[help$BIBTEXKEY == x, ]
+   for (i in c(1:nrow(tmp))) {
     cat(paste0("- ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n"))
   }
     cat("  \n")
 }
 
 make.lyrics <- function(x){
+ #x = title
   path.NL <- paste0("./data/", x, ".NL.txt", sep = "")
   path.PL <- paste0("./data/", x, ".PL.txt", sep = "")
   
@@ -133,9 +159,9 @@ make.lyrics <- function(x){
                          comment = "#")
 
     
-  names(lyrics.PL) <- c("V4")
+  names(lyrics.PL) <- c("X4")
   lyrics <- cbind(lyrics, lyrics.PL)
-  nverses <- max(lyrics$V2)
+  nverses <- max(lyrics$X2)
   
   template <- c("
 :::::: {.columns}
@@ -160,19 +186,19 @@ make.lyrics <- function(x){
 
 
  for(i in c(1:nverses)){
-   temp <- lyrics[lyrics$V2 == i,]
+   temp <- lyrics[lyrics$X2 == i,]
     
    chunkNL <- c()
    for (j in c(1:nrow(temp))) {
-     chunkNL <- ifelse(temp[j,"V1"] == 1,
-                       paste(chunkNL, paste0("_",temp[j,"V3"], "_"), sep = "  \n"),
-                       paste(chunkNL, temp[j,"V3"], sep = "  \n"))
+     chunkNL <- ifelse(temp[j,"X1"] == 1,
+                       paste(chunkNL, paste0("_",temp[j,"X3"], "_"), sep = "  \n"),
+                       paste(chunkNL, temp[j,"X3"], sep = "  \n"))
    }
    chunkPL <- c()
    for (j in c(1:nrow(temp))) {
-   chunkPL <- ifelse(temp[j,"V1"] == 1,
-                       paste(chunkPL, paste0("_",temp[j,"V4"], "_"), sep = "  \n"),
-                       paste(chunkPL, temp[j,"V4"], sep = "  \n"))
+   chunkPL <- ifelse(temp[j,"X1"] == 1,
+                       paste(chunkPL, paste0("_",temp[j,"X4"], "_"), sep = "  \n"),
+                       paste(chunkPL, temp[j,"X4"], sep = "  \n"))
    }
    cat(sprintf(template, chunkNL, chunkPL))
    if (!knitr:::is_html_output()) cat("\\vfill")

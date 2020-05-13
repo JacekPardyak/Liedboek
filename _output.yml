@@ -5,6 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">O czym śpiewają Holendrzy?</a></li>
       after: |
+        <li><a href="http://pub31.bravenet.com/forum/2597320020/">Forum konstruktywne</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/JacekPardyak/Liedboek/edit/master/%s
     download: ["pdf", "epub"]
