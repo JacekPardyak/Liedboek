@@ -1,4 +1,4 @@
-0;1;Voor het eerst in m’n leven
+0;1;Voor het eerst in m’n leven 
 0;1;Kan ik iemand alles geven
 0;1;Ik voel me veiliger bij je
 0;1;Ja, hij heeft alles wat ik zoek
@@ -6,10 +6,10 @@
 0;1;Want al die meiden die kijken
 0;1;Maar hij geeft me geen twijfel
 
-1;2;-Wat ik met hem wil begrijp jij niet
-1;2;-Verspil je tijd niet langer, alsjeblieft
-1;2;-Jij bent in de war, hij hoort bij mij
-1;2;-Dat is niet wat hij zei tegen mij
+1;2;- Wat ik met hem wil begrijp jij niet
+1;2;- Verspil je tijd niet langer, alsjeblieft
+1;2;- Jij bent in de war, hij hoort bij mij
+1;2;- Dat is niet wat hij zei tegen mij
 
 1;3;Hij is van mij
 1;3;Hij zegt dat ik alles voor hem ben
@@ -21,8 +21,7 @@
 1;3;Ik doe hem het beste elke nacht
 1;3;Hij is van mij
 
-0;4;Hij is het voor mij
-0;4;Geen andere heeft het
+0;4;Hij is het voor mij, geen andere heeft het
 0;4;Hoe hij mij voelt kan niemand beter
 0;4;Hij neemt me voorbij, beter weten
 0;4;Hij heeft m'n naakt, ik zeg het elke dag
@@ -33,14 +32,13 @@
 0;5;Als je mij niet gelooft, mama (Ey, ey, ey)
 0;5;Wat betekent dit dan allemaal?
 0;5;Ik vind het moeilijk om te zeggen hoe het voelt
-0;5;Dat er niks anders is wat is ik mis, nee
-0;5;Jou beschermen, dat is mijn doel
-0;5;Courtois op die bitch, ik mis niks
-0;5;Ik hou van make-up seks, maar dit gaat te ver, uh
-0;5;We don’t need to go there (Ooh)
-0;5;You don’t wanna go there
+0;5;Dat er niks anders is wat ik mis, nee
 
-0;6;-Maan hij is van mij, oh
-0;6;Niet van jou maar van mij, oh
-0;6;-Tabitha hij is van mij, oh
-0;6;Alleen van mij
+0;6;Jou beschermen, dat is mijn doel
+0;6;Courtois op die bitch, ik mis niks
+0;6;Ik hou van make-up seks, maar dit gaat te ver, uh
+0;6;We don’t need to go there (Ooh)
+0;6;You don’t wanna go there
+
+1;7;- Maan, hij is van mij, niet van jou maar van mij, oh
+1;7;- Tabitha hij is van mij, alleen van mij

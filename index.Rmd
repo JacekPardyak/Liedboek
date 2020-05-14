@@ -15,6 +15,10 @@ favicon: "./images/favicon/favicon.ico"
 description: "100 holenderskich piosenek w przekładzie na polski"
 ---
 
+#  {-}
+
+Coś co ja wiem co
+
 ```{r include=FALSE}
 invisible(Sys.setlocale("LC_ALL","Polish"))
 #invisible(Sys.setlocale("LC_ALL","English_Netherlands"))
@@ -83,16 +87,16 @@ make.chapter <- function(x){
     template <- c("
 :::::: {.columns}
 
-::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
+::: {.column width='10%%' data-latex='{0.10\\textwidth}'}
 
 %s
 :::
 
-::: {.column width='3%%' data-latex='{0.03\\textwidth}'}
+::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
 \\ 
 :::
 
-::: {.column width='64%%' data-latex='{0.64\\textwidth}'}
+::: {.column width='86%%' data-latex='{0.86\\textwidth}'}
 %s
 :::
 ::::::
@@ -132,16 +136,16 @@ make.intro <- function(x){
     template <- c("
 :::::: {.columns}
 
-::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
+::: {.column width='10%%' data-latex='{0.10\\textwidth}'}
 
 %s
 :::
 
-::: {.column width='34%%' data-latex='{0.34\\textwidth}'}
+::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
 \\ 
 :::
 
-::: {.column width='33%%' data-latex='{0.33\\textwidth}'}
+::: {.column width='86%%' data-latex='{0.86\\textwidth}'}
 %s
 :::
 ::::::
@@ -176,6 +180,53 @@ make.help <- function(x){
   }
     cat("  \n")
 }
+
+
+make.notes <- function(x){
+
+    template <- c("
+:::::: {.columns}
+
+::: {.column width='10%%' data-latex='{0.10\\textwidth}'}
+
+%s
+:::
+
+::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
+\\ 
+:::
+
+::: {.column width='86%%' data-latex='{0.86\\textwidth}'}
+%s
+:::
+::::::
+
+\n
+")
+
+    image <- 
+      ifelse(!knitr:::is_html_output() == TRUE, 
+             paste0("\\includegraphics{./images/", "notes", "}"),
+             paste0("![](./images/", "notes", ".png)"))
+    
+ #   x = title
+    
+    tmp <- help[help$BIBTEXKEY == x, ]
+    
+    text <- c()
+    for (i in c(1:nrow(tmp))) {
+      row <- paste0("- ", "**", tmp[i,"NL"], "**", tmp[i,"PL"], "  \n")
+      text <- paste0(text, row)
+    }
+    
+    cat(sprintf(template, image, text))
+    cat("  \n")
+    if (!knitr:::is_html_output()) cat("\\vfill")
+
+cat("  \n")        
+}
+
+
 
 make.lyrics <- function(x){
  #x = title
@@ -249,7 +300,8 @@ make.song <- function(x){
   make.title(x)
   make.intro(x)
   make.lyrics(x)
-  make.help(x)
+#  make.help(x)
+  make.notes(x)
 }
 
 ```

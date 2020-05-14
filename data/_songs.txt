@@ -20,7 +20,7 @@ Het-is-een-nacht;Klasyka;Manual;Guus Meeuwis;Guus Meeuwis;Het is een nacht;Jest 
 
 Het-land-van;Do-narodu;Manual;Lange Frans and Baas B and Giorgio Tuinfort;Lange Frans & Baas B.;Het land van...;Kraj pochodzenia;2005;to gniewna litania z wadami i zaletami życia w Holandii. Osobiście zabrakło mi tylko sera, małżeństw jednopłciowych, wiatraków i ... Polaków;https://youtu.be/yayMuZxlttc
 
-Hij-is-van-mij;Do-tanca;Manual;Jordy Huisman and Sander Huisman and Yuki Kempees and Maan de Steenwinkel and Tabitha Foen-a-foe and Leonardo Roelandschap and Bas van Daalen and Robin Francesco and Joren van der Voort;Kris Kross Amsterdam & Maan & Tabitha ft. Bizzey ;Hij is van mij;On jest mój;2018;to luźny cover `The Boy Is Mine' amerykańskiego duetu Brenda i Monica. W 2019 roku osiągnął on szczyty holenderskich i flamandzkich list przebojów. to piosenka która nie weszła do listy TOP 2000, ani żaden? wykonawca, ale jest najlepiej sprz się singlem w 2019;https://youtu.be/EYhLEHE1vfQ
+Hij-is-van-mij;Do-tanca;Manual;Jordy Huisman and Sander Huisman and Yuki Kempees and Maan de Steenwinkel and Tabitha Foen-a-foe and Leonardo Roelandschap and Bas van Daalen and Robin Francesco and Joren van der Voort;Kris Kross Amsterdam & Maan & Tabitha ft. Bizzey ;Hij is van mij;On jest mój;2018;to luźny cover `The Boy Is Mine' amerykańskiego duetu Brenda i Monica. W 2019 roku był najlepiej sprzedającym się singlem w Holandii;https://youtu.be/EYhLEHE1vfQ
 
 Ik-kan-het-niet-alleen;Klasyka;Manual;Nico Arzbach and Antonie Broek and Huub van der Lubbe;De Dijk;Ik kan het niet alleen;Ja tak nie mogę sam;1989;to jedna z najbardziej znanych piosenek De Dijk do dziś odtwarzana przez wiele stacji radiowych w Holandii.;https://youtu.be/ltSsojzp90M
 
@@ -57,3 +57,7 @@ Afscheid-nemen-bestaat-niet;Do-rozanca;Manual;John Ewbank and Han Kooreneef;Marc
 Alles-kan-een-mens-gelukkig-maken;Klasyka;Manual;Henk Westbroek and Henk Temming;Het Goede Doel & René Froger;Alles Kan Een Mens Gelukkig Maken; "TITLE.PL";1988;to utwór znany również pod tytułem 'Een eigen huis';https://youtu.be/EstXeHNJD7c
 
 Links-en-rechts;Do-tanca;Manual;Nick Schilder;Nick & Simon;Links en rechts;W lewo i w prawo;2007; "NOTE";https://youtu.be/miac8oRrEcI
+
+Het-regent-zonnestralen;Klasyka;Manual;Thomas Acda and Paul de Munnik;Acda & De Munnik;Het regent zonnestralen;Pada promieniami słonecznymi;1998; "NOTE";https://youtu.be/dZkbhA1NcTM
+
+

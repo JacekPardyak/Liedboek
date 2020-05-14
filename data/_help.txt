@@ -130,12 +130,14 @@ Het-land-van;Ik had veel te veel gedronken.; Wypiłem dużo za dużo.
 Het-land-van;Moet ze haar emoties dan opkroppen?; Czy powinna zatem zebrać swoje emocje?
 Het-land-van;J. C. M. van Riemsdijk (Nederlandse muzikant en schrijver) is een authentiek personage uit de Harry Potter-films.;J. C. M. van Riemsdijk (holenderski muzyk i pisarz) to autentyczna postać z filmów o Harrym Potterze.
 
+Hij-is-van-mij;Je zou beter moeten weten.; Powinieneś wiedzieć lepiej.
+Hij-is-van-mij;Neem vrij tot dit voorbij is.; Weź wolne dopóki to się nie skończy.
 Hij-is-van-mij;Kan ik je wat water geven?; Czy mogę ci podać trochę wody?
 Hij-is-van-mij;Ik voel me gevleid.; Schlebiasz mi.
 Hij-is-van-mij;Ik voel me moe.; Czuję się zmęczony.
 Hij-is-van-mij;Ik wil met je meegaan.; Chcę iść z tobą.
 Hij-is-van-mij;Ik ben in de war.; Gubię się.
-Hij-is-van-mij;Thibaut Nicolas Marc Courtois, belgijski bramkarz; przetłumacz
+Hij-is-van-mij;Thibaut Nicolas Marc Courtois is een Belgische voetballer die dienstdoet als doelman.; Thibaut Nicolas Marc Courtois to belgijski piłkarz grający w drużynie jako bramkarz.
 
 Het-dorp;Weet je nog?; Czy pamiętasz?
 Het-dorp;Ik weet het nog niet.; Nadal nie wiem.
@@ -210,7 +212,7 @@ Duurt-te-lang;Misschien moet je de diagnose aan mij overlaten.; Być może powin
 Duurt-te-lang;Hij heeft deze schade aangericht.; On wyrządził te szkody.
 Duurt-te-lang;Onze kosten belopen circa 1 miljoen PLN.; Nasze koszty wynoszą około 1 milion złotych.
 Duurt-te-lang;Je bent al een poos binnen.; Jesteś w środku już przez jakiś czas.
-Duurt-te-lang;Beweeg je vingers langzaam op en neer.; 
+Duurt-te-lang;Beweeg je vingers langzaam op en neer.; Powoli przesuwaj palce w górę i w dół.
 
 Oceaan;Verrek!; O, cholera!
 Oceaan;Ik begrijp niet waarom die schoenen zo'n zeer doen.; Nie rozumiem, dlaczego te buty tak bardzo bolą.
@@ -240,3 +242,11 @@ Afscheid-nemen-bestaat-niet;Zulke aardige mensen als jou kom je maar zelden tege
 Afscheid-nemen-bestaat-niet;Ik kan er naartoe, waar je ook wil.; Mogę iść gdziekolwiek chcesz.
 
 Alles-kan-een-mens-gelukkig-maken;;
+
+Links-en-rechts;Ze zullen je als 'n hond achterna zitten.; Będą cię ścigać jak pies.
+Links-en-rechts;We kennen elkaar niet.; My się nie znamy.
+Links-en-rechts;Weet je, we zien wel.; Wiesz co, zobaczymy.
+Links-en-rechts;Ik wil nog één keer alles nakijken.; Chcę wszystko jeszcze raz sprawdzić.
+Links-en-rechts;Welke kant is het strand op?; W którą stronę jest plaża?
+Links-en-rechts;Laat me uitpraat.; Pozwól mi skończyć.
+Links-en-rechts;Hebben jullie alles uitgepraat?; Skończyliście rozmawiać?

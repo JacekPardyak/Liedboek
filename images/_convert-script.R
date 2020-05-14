@@ -1,6 +1,10 @@
 # create svg
 files <- list.files("./images/", pattern = ".txt", full.names = T)
 
+# only txt files modified in last 24 hours
+vec <- file.info(files)$ctime  > Sys.time() - 24*60*60
+files <- files[vec]
+
 for (file in files) {
 file.out <- gsub(".txt", ".svg", file)
 tmp <- readLines(file)
@@ -13,8 +17,10 @@ writeLines(tmp, file.out)
 }
 
 
-# export svg
+# export svg to pdf and png
 files <- list.files("./images/", pattern = ".svg", full.names = T)
+vec <- file.info(files)$ctime  > Sys.time() - 24*60*60
+files <- files[vec]
 
 for (file in files) {
   file.in <- file

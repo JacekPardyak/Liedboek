@@ -7,7 +7,7 @@ for(topic in topics) {
   cat("  \n")
 #  if (!knitr:::is_html_output()) cat("\\vfill")
   
-  if(topic != "Wprowadzenie") {
+  if(topic != "Wstep") {
      titles <- songs[songs$CHAPTERKEY == topic,]$BIBTEXKEY
       for(title in titles) {
         make.song(title)
@@ -18,8 +18,18 @@ for(topic in topics) {
 
 ```{r, echo=FALSE, results = "asis", message=FALSE, eval=FALSE}
 titles <- songs$BIBTEXKEY
-for(title in titles[1:28]) {
-  make.song(title)
+for(title in titles) {
+  title <- titles[30]
+  make.title(title)
+  make.intro(title)
+  make.lyrics(title)
+  make.notes(title) 
+# make.song(title)
+#  make.help(x)
+#  make.notes(x)
+  
+  
+  
   }
 ```
 
