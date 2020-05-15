@@ -19,7 +19,7 @@ for(topic in topics) {
 ```{r, echo=FALSE, results = "asis", message=FALSE, eval=FALSE}
 titles <- songs$BIBTEXKEY
 for(title in titles) {
-  title <- titles[30]
+  title <- titles[34]
   make.title(title)
   make.intro(title)
   make.lyrics(title)

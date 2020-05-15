@@ -1,0 +1,37 @@
+0;1;We zitten samen in de kamer
+0;1;En de stereo staat zacht
+0;1;En ik denk nu gaat 't gebeuren
+0;1;Hierop heb ik zo lang gewacht
+0;1;Niemand in huis de deur op slot
+0;1;Mijn avond kan niet meer kapot
+
+1;2;Suzanne, Suzanne
+1;2;Suzanne, ik ben stapelgek op jou
+
+0;3;Ik leg mijn arm om haar schouders
+0;3;Streel haar zachtjes door haar haar
+0;3;Ik kan het bijna niet geloven
+0;3;Voorzichtig kussen wij elkaar
+0;3;En opeens gaat de telefoon
+0;3;En een vriendelijke stem
+
+0;4;Aan de andere kant van de lijn
+0;4;Verontschuldigt zich voor
+0;4;'t Verkeerd verbonden zijn
+0;4;En ik denk bij mezelf:
+0;4;Waarom nu, waarom ik
+0;4;Waarom
+
+0;5;'k Ga maar weer opnieuw beginnen
+0;5;Zoen haar teder in haar nek
+0;5;Maar de hartstocht is verdwenen
+0;5;En ze reageert zo gek
+0;5;Ze vraagt of er nog cola is
+0;5;En ik denk: nu is het mis
+
+0;6;We zitten nog steeds in de kamer
+0;6;Met de stereo op tien
+0;6;'t Zal nu wel niet meer gebeuren
+0;6;Dus ik hou het voor gezien
+0;6;Ze zegt: ik denk dat ik maar ga
+0;6;Ze zegt: tot ziens en ik zeg: ja

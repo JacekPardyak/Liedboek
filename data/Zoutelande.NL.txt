@@ -1,0 +1,34 @@
+0;1;Niets is beter dan met jou de kou trotseren
+0;1;Er zijn mensen die naar warme landen emigreren
+0;1;Maar we hebben geen geld in onze koude handen
+0;1;Dus we gaan maar naar je ouders in Zoutelande
+
+0;2;En dan zitten we hier in het oude strandhuis
+0;2;Wat je vertelt houdt me nuchter en warm
+0;2;Boven m'n hoofd zie ik de grijze wolken
+0;2;Ik ben blij dat je hier bent, blij dat je hier bent
+
+0;3;Wij zitten hier in het gammele strandhuis
+0;3;Maakte me toch al nooit uit waar we waren
+0;3;We verzuipen onszelf in de drank van je vader
+0;3;Ik ben blij dat je hier bent, blij dat je hier bent
+
+0;4;Niets is mooier dan met jou het land doorkruisen
+0;4;Op mistroostige plekken je bij me te hebben
+0;4;En te zien dat het goed is, te zien dat we bruisen
+0;4;En met wodka en met bokking tussen reddingsbanden, oh
+
+1;5;En dan zitten we hier in het oude strandhuis
+1;5;Wat je vertelt houdt me nuchter en warm
+1;5;Boven m'n hoofd zie ik de grijze wolken
+1;5;Ik ben blij dat je hier bent, blij dat je hier bent
+
+1;6;Wij zitten hier in het gammele strandhuis
+1;6;Maakte me toch al nooit uit waar we waren
+1;6;We verzuipen onszelf in de drank van je vader
+1;6;Ik ben blij dat je hier bent, blij dat je hier bent
+
+1;7;Ik ben blij dat je hier bent
+1;7;Ik ben blij dat je hier bent
+1;7;Ik ben blij dat je hier bent
+1;7;Ik ben blij dat je hier bent

@@ -250,3 +250,11 @@ Links-en-rechts;Ik wil nog één keer alles nakijken.; Chcę wszystko jeszcze ra
 Links-en-rechts;Welke kant is het strand op?; W którą stronę jest plaża?
 Links-en-rechts;Laat me uitpraat.; Pozwól mi skończyć.
 Links-en-rechts;Hebben jullie alles uitgepraat?; Skończyliście rozmawiać?
+
+Suzanne;Wij zitten in hetzelfde schuitje.; Jedziemy na tym samych wózku. (dosł. Siedzimy w tej samej łódce.)
+Suzanne;De wasmachine is kapot.; Pralka jest zepsuta.
+Suzanne;Je verontschuldigt je nu bij je moeder.; Teraz tłumacz się swojej matce.
+Suzanne;Marek, begrijp me niet verkeerd.; Marek, nie zrozum mnie źle
+Suzanne;Dat soort religieuze hartstocht is niets voor mij.; Ten rodzaj religijnej pasji jest nie dla mnie.
+Suzanne;Gewoon verdwijnen, jij en ik.; Po prostu znikajmy, ty i ja.
+Suzanne;Oké... ik hou het voor me.; Okej, zatrzymam to dla siebie.
