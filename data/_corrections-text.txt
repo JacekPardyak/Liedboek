@@ -2,3 +2,5 @@
 BLØF   ;"BL&Oslash;F"
 jusqu'à;"jusqu'&agrave;"
 scène  ;"sc&egrave;ne"
+geluidsbarrière ; geluidsbarri&egrave;re
+hè; h&egrave;

@@ -162,11 +162,17 @@ make.intro <- function(x){
        paste0("\\includegraphics{./images/", x, "}"),
        paste0("![](./images/", x, ".png)"))
     
+    youtube  <- 
+       ifelse(!knitr:::is_html_output() == TRUE, 
+       paste0("\\includegraphics{./images/",  "_Youtube", "}"),
+       paste0("![](./images/",  "_Youtube", ".png)"))
+    
     
     text <- paste0("**", songs[songs$BIBTEXKEY == x, "TITLE"], "** ",
-          "[@", x, "]", 
-          " [_", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_] ", 
-          songs[songs$BIBTEXKEY == x, "NOTE"], ".", "  \n", sep = "" )
+                  "[@", x, "] ",
+                   "[", youtube, "]", "(",songs[songs$BIBTEXKEY == x, "URL"], ")", " ",
+                    "_", songs[songs$BIBTEXKEY == x, "TITLE.PL"], "_ ",
+                   songs[songs$BIBTEXKEY == x, "NOTE"], ". ", "  \n", sep = "" )
   
     cat(sprintf(template, image, text))
 if (!knitr:::is_html_output()) cat("\\vfill")
@@ -192,11 +198,11 @@ make.notes <- function(x){
 %s
 :::
 
-::: {.column width='4%%' data-latex='{0.04\\textwidth}'}
+::: {.column width='0.1%%' data-latex='{0.001\\textwidth}'}
 \\ 
 :::
 
-::: {.column width='86%%' data-latex='{0.86\\textwidth}'}
+::: {.column width='89.9%%' data-latex='{0.899\\textwidth}'}
 %s
 :::
 ::::::
@@ -206,8 +212,8 @@ make.notes <- function(x){
 
     image <- 
       ifelse(!knitr:::is_html_output() == TRUE, 
-             paste0("\\includegraphics{./images/", "notes", "}"),
-             paste0("![](./images/", "notes", ".png)"))
+             paste0("\\includegraphics{./images/", "_Notes", "}"),
+             paste0("![](./images/", "_Notes", ".png)"))
     
  #   x = title
     

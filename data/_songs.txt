@@ -32,7 +32,7 @@ Leef;Klasyka;Manual;Edwin van Hoevelaak and Koen Jansen and Chiel Ottink and Arn
 
 Liefs-uit-Londen;Klasyka;Manual;Peter Slager and Bas Kennis;"BL&Oslash;F";Liefs uit Londen;Kocham z Londynu;1998;"to pierwszy z hitów grupy BL&Oslash;F, którego tekst był zainspirowany grą planszową 'Podróż dookoła świata'";https://youtu.be/aM5JU0juOSs
 
-Mag-ik-dan-bij-jou;Klasyka;Manual;Claudia de Breij;Claudia de Breij;Mag ik dan bij jou; "TITLE.PL";2009;??? ;https://youtu.be/o5uvsEs79hM
+Mag-ik-dan-bij-jou;Klasyka;Manual;Claudia de Breij;Claudia de Breij;Mag ik dan bij jou;Czy będę mogła przy tobie?;2009;to wyznanie miłosne wypełnione przypuszczeniami;https://youtu.be/o5uvsEs79hM
 
 Nacht;Klasyka;Manual;Guus Meeuwis and Kraantje Pappie;Guus Meeuwis & Kraantje Pappie;Nacht;Noc;2020;to nowa wersja 25-letniego utworu "Het is een nacht" \@ref(Het-is-een-nacht);https://youtu.be/MxkdVogPeF0
 
@@ -54,7 +54,7 @@ Belgie;Klasyka;Manual;Henk Westbroek;Het Goede Doel;België (Is er leven op Plut
 
 Afscheid-nemen-bestaat-niet;Do-rozanca;Manual;John Ewbank and Han Kooreneef;Marco Borsato;Afscheid nemen bestaat niet;Pożegnania nie ma;2003;to najpopularniejsza niderlandzkojęzyczna piosenka na pogrzebach;https://youtu.be/lSo6LyEA1ks
 
-Alles-kan-een-mens-gelukkig-maken;Klasyka;Manual;Henk Westbroek and Henk Temming;Het Goede Doel & René Froger;Alles Kan Een Mens Gelukkig Maken; "TITLE.PL";1988;to utwór znany również pod tytułem 'Een eigen huis';https://youtu.be/EstXeHNJD7c
+Alles-kan-een-mens-gelukkig-maken;Klasyka;Manual;Henk Westbroek and Henk Temming;Het Goede Doel & René Froger;Alles kan een mens gelukkig maken;Wszystko może uszczęśliwić człowieka;1988;to utwór znany również pod tytułem 'Een eigen huis';https://youtu.be/EstXeHNJD7c
 
 Links-en-rechts;Do-tanca;Manual;Nick Schilder;Nick & Simon;Links en rechts;W lewo i w prawo;2007; "NOTE";https://youtu.be/miac8oRrEcI
 
