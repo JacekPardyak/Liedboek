@@ -1,0 +1,44 @@
+0;1;Wie wilt hooren een historie
+0;1;Al van eenen jongen smid
+0;1;Die verbrand had zijn memorie
+0;1;Daeglijks by het vuer verhit
+0;1;Kloppende, kloppende met zijnen hamer
+0;1;Kloppende, kloppende met geweld op zijn aembeld
+
+0;3;'k Geef den bras van alle het smeden
+0;3;Ik ga naer den franschen zwier
+0;3;'k Wil my tot de trouw begeven
+0;3;'g Hebt nooit schooner vrouw gezien
+0;3;Nimmer meer, nimmer meer met mijnen hamer
+0;3;Nimmer meer, nimmer meer met geweld op mijn aembeld
+
+0;4;'t Is de schoonste van de vrouwen
+0;4;Maer nooit was er zoo 'n serpent
+0;4;"Nooit kan zy heur bakkes hou&ecirc;n"
+0;4;Nooit is zy eens wel content
+0;4;Was ik nog, was ik nog met mijnen hamer,
+0;4;Was ik nog, was ik nog met geweld op mijn aembeld
+
+0;5;Nooit mag ik een pintje drinken
+0;5;Nooit mag ik eens vrolijk zijn
+0;5;Nooit kan ik iemand beschinken
+0;5;Met een glaesje bier of wijn
+0;5;Was ik nog, enz.
+
+0;6;Wordt er somtijds eens gewasschen
+0;6;"Dan moet ik het kind ga&ecirc; slaen"
+0;6;Dan moet ik op 't eten passen
+0;6;Zeep en styfsel halen aen
+0;6;Was ik nog, enz.
+ 
+0;7;Aen de wieg moet zijn gezongen
+0;7;Alles dient tot mijn verdriet
+0;7;Anders greist de kleine jongen
+0;7;Of ik moet zingen een lied
+0;7;Was ik nog, enz.
+
+0;8;'k Geef den bras van al het trouwen
+0;8;Wierd ik maer eens weeuwenaer
+0;8;"'k Zou my in een hoeksken hou&ecirc;n"
+0;8;En my stellen uit gevaer
+0;8;Was ik nog, enz.

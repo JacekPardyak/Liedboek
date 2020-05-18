@@ -16,7 +16,7 @@ Nacht;Je laat me niet dichtbij komen.; Nie pozwalasz mi się zbliżyć.
 Nacht;Al ben ik arm, ik ben gelukkig.; Chociaż jestem biedny, to jestem szczęśliwy. 
 Nacht;Leo (Leonardo DiCaprio) en Kate (Kate Winslet) speelden in de Titanic.; Leo (Leonardo DiCaprio) i Kate (Kate Winslet) grali w Titanic'u.
 Nacht;Kylie (Kylie Kristen Jenner) is een Amerikaans televisiepersoonlijkheid. Kylie (Kylie Kristen Jenner) to amerykańska osobowość telewizyjna.
-Nacht;In het Engels is "Kraan" "Crane".; W języku angielskim „Kraan” to „Crane”.
+Nacht;Hoe is "Kraan" in het Engels? Crane.; Jak jest po angielsku "Żuraw"? Crane.
 
 Het-is-een-nacht;Je bent trouwens eigenlijk wel geweldig.; Nawiasem mówiąc, jesteś naprawdę świetny.
 Het-is-een-nacht;Als ik niet Pools was, zou ik geen Pools kennen.; Gdybym nie był Polakiem, nie znałbym polskiego.
@@ -240,13 +240,14 @@ Afscheid-nemen-bestaat-niet;Er bestaat niet één veilige plek meer in Japan.; W
 Afscheid-nemen-bestaat-niet;Zulke aardige mensen als jou kom je maar zelden tegen.; Rzadko spotykasz tak miłych ludzi jak ty.
 Afscheid-nemen-bestaat-niet;Ik kan er naartoe, waar je ook wil.; Mogę iść gdziekolwiek chcesz.
 
-Links-en-rechts;Ze zullen je als 'n hond achterna zitten.; Będą cię ścigać jak pies.
+Links-en-rechts;Ze zullen je als 'n hond achterna zitten.; Będą cię ścigać jak psa.
 Links-en-rechts;We kennen elkaar niet.; My się nie znamy.
 Links-en-rechts;Weet je, we zien wel.; Wiesz co, zobaczymy.
 Links-en-rechts;Ik wil nog één keer alles nakijken.; Chcę wszystko jeszcze raz sprawdzić.
 Links-en-rechts;Welke kant is het strand op?; W którą stronę jest plaża?
-Links-en-rechts;Laat me uitpraat.; Pozwól mi skończyć.
-Links-en-rechts;Hebben jullie alles uitgepraat?; Skończyliście rozmawiać?
+Links-en-rechts;Oké, goed dat we dit uitgepraat hebben.; Okej, dobrze że mamy to wyjaśnione.
+Links-en-rechts;Met een bijdrage van 3 euro per neus kan iedereen overigens de actie steunen.; Każdy może wesprzeć akcję wkładem w wysokości 3 euro na głowę.
+Links-en-rechts;Wanneer wij alles hebben gedaan, dan gaan wij een biertje drinken.; Kiedy wszystko zrobimy, napijemy się piwa.
 
 Suzanne;Wij zitten in hetzelfde schuitje.; Jedziemy na tym samych wózku. (dosł. Siedzimy w tej samej łódce.)
 Suzanne;De wasmachine is kapot.; Pralka jest zepsuta.
@@ -261,3 +262,22 @@ Alles-kan-een-mens-gelukkig-maken;De Château Margaux was net iets beter dan de 
 Alles-kan-een-mens-gelukkig-maken;Ga van nu af aan voorzichtiger met je geld om.; Odtąd obchodź się ostrożniej ze swoimi pieniędzmi.
 Alles-kan-een-mens-gelukkig-maken;Het is beter als we met z'n tweeën gaan.; Będzie lepiej, jak pójdziemy we dwoje.
 Alles-kan-een-mens-gelukkig-maken;"We doorbreken nu de geluidsbarri&egrave;re."; Teraz pokonujemy barierę dźwięku.
+
+Dochters;Ze zal straks komen.; Ona przyjdzie później.
+Dochters;Ik ga op stap met Ania.; Idę z Anią się przejść.
+Dochters;In ieder geval hebben we dan even rust.; W każdym razie będziemy mieć potem chwilę spokoju.
+Dochters;Ik heb gisteren de makelaar nog gesproken.; Jeszcze wczoraj rozmawiałem z brokerem.
+
+T-smidje;Als het monster verhit wordt, stijgt de dampspanning.; Po podgrzaniu próbki wzrasta ciśnienie pary.
+T-smidje;Adam zat ook voor huiselijk geweld.; Adam siedział też za przemoc domową.
+T-smidje;Ergens de brui aan geven.; Porzucić coś.
+T-smidje;Hij gaat aan de zwier met Tomek.; Idzie z Tomkiem włóczyć się po knajpach.
+T-smidje;Ik moet zich naar huis ter rusten begeven.; Muszę udać się do domu na odpoczynek.
+T-smidje;Werd ik maar zo gekust.; Gdybym tylko był tak pocałowany. (Gdyby tylko ktoś mnie tak pocałował.)
+T-smidje;In het Vlaams betekent "schoon" mooi.; Po flamandzku „schoon” znaczy piękny.
+T-smidje;Misschien niet nu, maar eens wel.; Może nie teraz, ale kiedyś chętnie.
+T-smidje;Zijn bakkes vangt vliegen.; Dostaje strzała w ryj.
+T-smidje;Hou je bakkes.; Zamknij się.
+T-smidje;Jongeren bevrijden zich uit allerlei keurslijven.; Młodzi ludzie uwalniają się od wszelkiego rodzaju kaftanów bezpieczeństwa.
+
+ 

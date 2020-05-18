@@ -52,7 +52,7 @@ Zing-vecht-huil-bid-lach-werk-en-bewonder;Klasyka;Manual;Ramses Shaffy;Ramses Sh
 
 Belgie;Klasyka;Manual;Henk Westbroek;Het Goede Doel;België (Is er leven op Pluto...?);Belgia (Czy na Plutonie jest życie ...?);1982;to chyba jedyna piosenka, w której pojawia się Polska;https://youtu.be/jwucIydijEo
 
-Afscheid-nemen-bestaat-niet;Do-rozanca;Manual;John Ewbank and Han Kooreneef;Marco Borsato;Afscheid nemen bestaat niet;Pożegnania nie ma;2003;to najpopularniejsza niderlandzkojęzyczna piosenka na pogrzebach;https://youtu.be/lSo6LyEA1ks
+Afscheid-nemen-bestaat-niet;Do-rozanca;Manual;John Ewbank and Han Kooreneef;Marco Borsato;Afscheid nemen bestaat niet;Żegnamy się, nie istnieje;2003;to najpopularniejsza niderlandzkojęzyczna piosenka na pogrzebach;https://youtu.be/lSo6LyEA1ks
 
 Alles-kan-een-mens-gelukkig-maken;Klasyka;Manual;Henk Westbroek and Henk Temming;Het Goede Doel & René Froger;Alles kan een mens gelukkig maken;Wszystko może uszczęśliwić człowieka;1988;to utwór znany również pod tytułem 'Een eigen huis';https://youtu.be/EstXeHNJD7c
 
@@ -65,5 +65,8 @@ Zoutelande;Klasyka;Manual;Axel Bosse and Peter Slager;"BL&Oslash;F & Geike Arnae
 Suzanne;Do-tanca;Manual;Ferdi Lancee;VOF de Kunst;Suzanne;Suzanne;1983;to piosenka z największą liczbą coverów wykonanych w innych językach. Michał Wiśniewski napisał polskie słowa do jego piosenki Zuzanna, dość odległe od oryginału;https://youtu.be/jgiPEsgkhKk
 
 Dat-komt-door-jou;Klasyka;Manual;Guus Meeuwis and Leo Driessen and Lorenzo Cherubini and Franco Santarnecchi;Guus Meeuwis;Dat komt door jou;Dat komt door jou;2009; "NOTE";https://youtu.be/fl3epWazJxs
-Wereld-zonder-jou;Klasyka;Manual;John Ewbank;Marco Borsato & Trijntje Oosterhuis;Wereld zonder jou;Wereld zonder jou;1997;"NOTE";https://youtu.be/8yrLxy2SGC0
+Dochters;Klasyka;Manual;John Ewbank;Marco Borsato;Dochters;Córki;2008;mają tekst niezwykle podobny do Butterfly Kisses Boba Carlisle'a z 1997 roku;https://youtu.be/7azASBMAkOU
 
+T-smidje;Do-tanca;Manual;Trad.;"La&iuml;s";'t Smidje;Młody kowal;nieznane;"to stara flamandzka piosenka, która stała się popularna w 1998 roku w Hiszpanii i Polsce dzięki grupie La&iuml;s. Stara pisownia z 1848 roku";https://youtu.be/mJ6vmtFBlWY
+
+Testament;Klasyka;Manual;Lennaert Nijgh;Boudewijn de Groot;Testament;Testament;1967;"NOTE";https://youtu.be/26bMxDiMFQc

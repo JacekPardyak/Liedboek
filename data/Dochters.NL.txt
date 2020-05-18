@@ -1,0 +1,40 @@
+0;1;Kwart over zeven op zondagmorgen
+0;1;Hoor ik een stem die heel zachtjes aan me vraagt
+0;1;Ben je al wakker pap?
+0;1;Kom je gezellig mee naar beneden?
+0;1;Moet je straks werken of ben je vrij vandaag?
+0;1;En ga je dan even met mij op stap?
+
+1;2;Ooh wat gaat de tijd toch snel
+1;2;Gisteren nog zag ik haar voor het eerst
+1;2;Lag ze hier in m'n armen
+1;2;Wat is ze mooi en wat staat de tijd haar goed
+1;2;Ik knipper m'n ogen en zie hoe ze steeds
+1;2;Weer een beetje veranderd is
+1;2;Maar hoe groot ze ook mag zijn
+1;2;In mijn ogen blijft ze altijd klein
+
+0;3;Kwart over zeven op zondagmorgen
+0;3;Hoor ik de voordeur heel zachtjes open gaan
+0;3;En val ik gerust in slaap, ze is thuis
+0;3;Ik was haar veel liever op gaan halen
+0;3;Maar ze had me gevraagd of ik er niet wilde gaan staan
+0;3;Ze vind nu inmiddels haar weg naar huis
+
+0;4;En soms wanneer ik m'n ogen sluit
+0;4;Lopen we samen op het strand, haar handje in de mijne
+0;4;En dan zet ze de tijd even stil
+0;4;Is het weer even net als toen
+0;4;En heeft ze mij weer nodig
+0;4;Ik hou haar vast, zoals ze was, ik hou haar vast
+
+0;5;Kwart over zeven op zondagmorgen
+0;5;Hoort ze mijn stem die haar zachtjes wakker maakt
+0;5;Vandaag is je grote dag
+
+0;5;Wat is ze mooi en wat staat de tijd haar goed
+0;5;Ik knipper m'n ogen en zie hoe haar hart
+0;5;Nu voorgoed van een ander is
+0;5;Maar waar ze ook mag zijn
+0;5;In gedachte is ze hier bij mij
+0;5;In mijn ogen blijft ze altijd klein

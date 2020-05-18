@@ -1,29 +1,29 @@
-0;1;Ik kan niet zeggen dat ik iets te kort kom
-0;1;Geen idee geen benul wat gebrek aan liefde is
-0;1;Als ik geen zin heb om te koken loop ik even naar de markt
+0;1;Ik kan niet zeggen dat ik iets tekort kom
+0;1;Geen idee, geen benul wat de smaak van honger is
+0;1;Als ik geen zin heb om te koken dan loop ik even naar de markt
 0;1;Voor een moot gebakken vis
 
 0;2;En als ik morgen geen zin heb om te werken
 0;2;Dan stel ik al het werk tot overmorgen uit
 0;2;En als de kleuren van mijn huis me irriteren
-0;2;Dan vraag ik of mijn buurman het vandaag nog overspuit
+0;2;Dan vraag ik of de buurman het vandaag nog overspuit
 
 1;3;Een eigen huis, een plek onder de zon
 1;3;En altijd iemand in de buurt die van me houden kon
 1;3;Toch wou ik dat ik net iets vaker
 1;3;Iets vaker simpelweg gelukkig was oho (2×)
 
-0;4;Ik kan niet zeggen dat ik iets te kort kom
-0;4;Geen idee geen benul wat gebrek aan liefde is
+0;4;Ik kan niet zeggen dat ik iets tekort kom
+0;4;Geen idee, geen benul wat gebrek aan liefde is
 0;4;Vandaag kocht ik mijn derde videorecorder
 0;4;Van nu af aan is er dus geen programma dat ik mis
 
 0;5;Mijn vader en mijn moeder zijn nog allebei in leven
-0;5;Dankzij hun heb ik zo'n fijne jeugd gehad
+0;5;Dankzij hun heb ik een fijne jeugd gehad
 0;5;En voordat jij en ik vanavond vroeg onder de wol gaan
 0;5;Gaan we met z'n tweeën drie keer uitgebreid in bad
 
 0;7;Ja alles, alles kan een mens gelukkig maken
 0;7;Een zingende merel, de geur van de zee
 0;7;Ja alles, alles kan een mens gelukkig maken
-0;7;De zon die doorbreekt een vers kopje thee!
+0;7;De zon die doorbreekt, een vers kopje thee!
