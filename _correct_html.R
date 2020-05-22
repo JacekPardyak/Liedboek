@@ -10,3 +10,4 @@ writeLines(text, "./_book/index.html")
 gsub(pattern = "/./", replacement = "/", x = x)
 # 14, 22
 # /./
+system("pdflatex liedboek.tex -output-directory=./_book")

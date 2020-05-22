@@ -1,0 +1,18 @@
+1;1;Zeg me dat het niet zo is
+1;1;Zeg me dat het niet zo is
+1;1;Zeg me dat het niet waar is
+
+0;2;Ga je mee vanavond naar ons lievelingsrestaurant
+0;2;Een tafel voor twee ik heb gebeld, ze weten ervan
+0;2;En we drinken totdat de zon op komt
+0;2;En we vergeten de oneerlijkheid van het lot
+
+0;3;Kom we gaan, trek je jas aan, anders wordt het te laat
+0;3;Kom eens hier, ik houd je vast, ik laat je nooit meer gaan
+0;3;En ik vertel je een grap die je laat huilen van de lach
+0;3;En we vergeten de blikken van de mensen in de stad
+
+0;4;We doen net alsof het niet zo is
+0;4;Alsof het niet zo is, alsof het niet waar is
+0;4;We doen net alsof ze gewoon verder leeft
+0;4;Alsof ze gewoon verder leeft, zelfs als het niet zo is

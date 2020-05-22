@@ -1,13 +1,9 @@
 ```{r, echo=FALSE, results = "asis", message=FALSE, eval=TRUE}
 topics <- chapters$CHAPTERKEY
 for(topic in topics) {
-#  topic <- topics[2]
-  make.chapter(topic)
-      
-  cat("  \n")
-#  if (!knitr:::is_html_output()) cat("\\vfill")
-  
   if(topic != "Wstep") {
+  make.chapter(topic)
+  cat("  \n")
      titles <- songs[songs$CHAPTERKEY == topic,]$BIBTEXKEY
       for(title in titles) {
         make.song(title)

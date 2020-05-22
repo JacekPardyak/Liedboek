@@ -32,9 +32,9 @@
 0;5;Hoort ze mijn stem die haar zachtjes wakker maakt
 0;5;Vandaag is je grote dag
 
-0;5;Wat is ze mooi en wat staat de tijd haar goed
-0;5;Ik knipper m'n ogen en zie hoe haar hart
-0;5;Nu voorgoed van een ander is
-0;5;Maar waar ze ook mag zijn
-0;5;In gedachte is ze hier bij mij
-0;5;In mijn ogen blijft ze altijd klein
+0;6;Wat is ze mooi en wat staat de tijd haar goed
+0;6;Ik knipper m'n ogen en zie hoe haar hart
+0;6;Nu voorgoed van een ander is
+0;6;Maar waar ze ook mag zijn
+0;6;In gedachte is ze hier bij mij
+0;6;In mijn ogen blijft ze altijd klein

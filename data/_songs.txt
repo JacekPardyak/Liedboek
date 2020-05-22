@@ -42,7 +42,7 @@ O-o-Den-Haag;Klasyka;Manual;Harrie Jekkers;Harry Klorkestein;O, o, Den Haag;Oj, 
 
 Over-de-muur;Klasyka;Manual;Harrie Jekkers;Klein Orkest;Over de muur;Ponad murem;1984;to holenderski poprzednik polskiej "Arahji" Kultu. "Mój dom murem podzielony" to jakby nie było "Mijn huis door een muur gescheiden";https://youtu.be/rAR6XKHfXY0
 
-Papa;Klasyka;Manual;Stef Bos;Stef Bos;Papa;Tato;1991; to wyznanie skierowane do ojca Bosa u którego zdiagnozowano raka. Leczenie "Taty" się powiodło, zmarł przeżywszy jeszcze 23 lata;https://youtu.be/ptGJ8wzeGDE
+Papa;Do-rozanca;Manual;Stef Bos;Stef Bos;Papa;Tato;1991; to wyznanie skierowane do ojca Bosa u którego zdiagnozowano raka. Leczenie "Taty" się powiodło, zmarł przeżywszy jeszcze 23 lata;https://youtu.be/ptGJ8wzeGDE
 
 Pastorale;Klasyka;Manual;Lennaert Nijgh and Boudewijn de Groot;Ramses Shaffy & Liesbeth List;Pastorale;Pastorałka;1969;to psychodeliczna rozmowa ziemskiego dziecka z potężnym słońcem ;https://youtu.be/x5cntzEZo1w
 
@@ -67,6 +67,10 @@ Suzanne;Do-tanca;Manual;Ferdi Lancee;VOF de Kunst;Suzanne;Suzanne;1983;to piosen
 Dat-komt-door-jou;Klasyka;Manual;Guus Meeuwis and Leo Driessen and Lorenzo Cherubini and Franco Santarnecchi;Guus Meeuwis;Dat komt door jou;Dat komt door jou;2009; "NOTE";https://youtu.be/fl3epWazJxs
 Dochters;Klasyka;Manual;John Ewbank;Marco Borsato;Dochters;Córki;2008;mają tekst niezwykle podobny do Butterfly Kisses Boba Carlisle'a z 1997 roku;https://youtu.be/7azASBMAkOU
 
-T-smidje;Do-tanca;Manual;Trad.;"La&iuml;s";'t Smidje;Młody kowal;nieznane;"to stara flamandzka piosenka, która stała się popularna w 1998 roku w Hiszpanii i Polsce dzięki grupie La&iuml;s. Stara pisownia z 1848 roku";https://youtu.be/mJ6vmtFBlWY
+T-smidje;Do-tanca;Manual;Trad.;"La&iuml;s";'t Smidje;Młody kowal;nieznane;"to stara flamandzka piosenka, która stała się popularna w 1998 roku w Hiszpanii i Polsce dzięki grupie La&iuml;s. Pisownia z 1848 roku";https://youtu.be/mJ6vmtFBlWY
 
 Testament;Klasyka;Manual;Lennaert Nijgh;Boudewijn de Groot;Testament;Testament;1967;"NOTE";https://youtu.be/26bMxDiMFQc
+
+De-weg;Do-rozanca;Manual;Herbert Grönemeyer;Guus Meeuwis;De weg;Droga;2002;to luźny cover piosenki 'Der weg' niemieckiego piosenkarza Herberta Grönemeyera;https://youtu.be/vuGcIfMq65A
+
+Zeg-me-dat-het-niet-zo-is;Klasyka;Manual;Frank Boeijen;Frank Boeijen Groep;Zeg me dat het niet zo is;"Powiedz, że to nie jest tak";1990;stała się popularna jedynie dzięki innym wykonawcom;https://youtu.be/BKiwbpRvh84

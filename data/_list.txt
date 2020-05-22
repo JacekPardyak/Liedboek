@@ -29,7 +29,7 @@ Title, Artist, Url
 #- Midzomernacht - Blof
 #- Pa - Doe Maar
 #- Liefs uit Londen - Blof                      +
-#- Links en rechts - Nick & Simon
+#- Links en rechts - Nick & Simon               +
 #- Politiek - Bram Vermeulen
 #- Opzij, opzij, opzij - Herman van Veen
 #- 15 miljoen mensen - Jochem ...               +
@@ -75,7 +75,7 @@ Karin Bloemen · 2004
 't Kleine Café Aan De Haven
 Pierre Kartner · 1976
 
-Testament
++ Testament
 Boudewijn de Groot · 1966
 
 Op fietse
@@ -87,7 +87,7 @@ Doe Maar · 1981
 Ben Ik Te Min
 Armand · 1976
 
-Liefs uit Londen
++ Liefs uit Londen
 BLØF · 1997
 
 Kom van dat dak af
@@ -126,7 +126,7 @@ De Dijk · 1987
 Monica
 Circus Custers · 1990
 
-Dochters
++ Dochters
 Marco Borsato · 2008
 
 Iedereen Is Van De Wereld
@@ -186,7 +186,7 @@ Guus Meeuwis · 2002
 Zelfs Je Naam Is Mooi
 Henk Westbroek · 1998
 
-, Avond
++ Avond
 Boudewijn de Groot · 1996
 
 Woorden Zonder Woorden

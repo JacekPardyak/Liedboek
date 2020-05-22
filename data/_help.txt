@@ -280,4 +280,35 @@ T-smidje;Zijn bakkes vangt vliegen.; Dostaje strzała w ryj.
 T-smidje;Hou je bakkes.; Zamknij się.
 T-smidje;Jongeren bevrijden zich uit allerlei keurslijven.; Młodzi ludzie uwalniają się od wszelkiego rodzaju kaftanów bezpieczeństwa.
 
- 
+Testament;Er zit nog wel wat in.; W środku zostało coś jeszcze.
+Testament;Engelse kwaliteitsstof, en van snit...; Angielska jakość tkaniny i krój... 
+Testament;Deze vliegen zullen het niet fijn vinden.; To nie będzie się podobać tym podlotkom.
+Testament;Je hebt nooit gedeugd.; Nigdy się nie nadawałeś.
+Testament;Als de donder!; Piorunem!
+Testament;Maar ach, je was nooit echt spraakzaam.; No cóż, nigdy nie byłeś zbyt rozmowny. 
+Testament;Misschien was dit een keer teveel.; Może to było o jeden raz za dużo.
+Testament;Ik heb net mijn salaris gestort.; Właśnie przelałem moją pensję.
+Testament;Als hij vernederd of belazerd wordt, slaat hij dicht.; Zamknie się jak zostanie poniżony i oszukany.
+Testament;Mijn moeder was een rodeo queen, en ze placht stieren te rijden.; Moja mam była królową rodeo i kiedyś ujeżdżała byki.
+Testament;Nou, de blijde dag brak aan.; Cóż, nadszedł ten szczęśliwy dzień.
+Testament;Twee voorbeelden tonen dat overduidelijk aan.; Dwa przykłady wyraźnie to pokazują.
+Testament;Ik praat tegen je!; Mówię do ciebie!
+Testament;Zeg iets!; Powiedz coś!
+Testament;Mag ik u even spreken?; Czy mogę z pan-ią/-em chwilę porozmawiać? 
+Testament;Ik heb de eer u te berichten dat...; Mam zaszczyt zawiadomić Pan-ią/-a, że...
+Testament;Een dwaze vraag in deze omstandigheden.; Głupie pytanie w tych okolicznościach.
+Testament;Het spijt me.; Przepraszam.
+Testament;We verdienden het en ik blijf hier.; Zasłużyliśmy na to i tu zostanę.
+Testament;Ik weet niet of u er iets aan heeft.; Nie wiem, czy to się Pan-i/-u do czegoś przyda.
+
+De-weg;Wat mijn collega zegt, is simpelweg gelogen.; To, co mówi mój kolega jest po prostu kłamstwem.
+De-weg;Sommige oppositieleiders riskeren zelfs de doodstraf.; Niektórzy przywódcy opozycji ryzykują nawet karą śmierci.
+De-weg;Tomek is degene die alles voor elkaar kreeg.; Tomek jest taki, że wszystko załatwi.
+De-weg;Hou moed!; Odwagi!
+De-weg;Adam had vast niet gewild dat je hem beweent.; Adam na pewno nie chciałby żebyś za nim płakała.
+De-weg;Ik loop doelloos door de stad.; Idę bez celu przez miasto.
+De-weg;Je bent dronken.; Jesteś pijany.
+De-weg;Een groot deel van het skelet is in de modder verzonken.; Duża część szkieletu jest zatopiona w błocie.
+
+Zeg-me-dat-het-niet-zo-is;Ik kan allerlei verraad en oneerlijkheid vergeven.; Mogę wybaczyć wszelkiego rodzaju zdradę i nieuczciwość.
+Zeg-me-dat-het-niet-zo-is;Laten we doen alsof we buitenaardse wezens zijn.; Udawajmy, że jesteśmy kosmitami.
