@@ -25,6 +25,20 @@ files <- files[vec]
 for (file in files) {
   file.in <- file
   file.out <- gsub(".svg", ".png", file)
+  command <- paste('inkscape  -e', file.out, " -w 60 -h 60", file.in, sep = " ")
+  system(command)
+  file.out <- gsub(".svg", ".pdf", file)
+  command <- paste('inkscape  -A', file.out, file.in, sep = " ")
+  system(command)
+}
+
+# ----------------------------------------------------------------------------------------------------------
+
+files <- list.files("./images/youtube/", pattern = ".svg", full.names = T)
+
+for (file in files) {
+  file.in <- file
+  file.out <- gsub(".svg", ".png", file)
   command <- paste('inkscape  -e', file.out, file.in, sep = " ")
   system(command)
   file.out <- gsub(".svg", ".pdf", file)
@@ -32,10 +46,12 @@ for (file in files) {
   system(command)
 }
 
+
 #-----------------------------------------------------------------------------------------------------------
 # make favicon.ico
 file.in <- c("./images/favicon/favicon.svg")
 file.out <- gsub(".svg", ".png", file.in)
+file.out <- c("favicon.png")
 command <- paste('inkscape  -e', file.out, file.in, sep = " ")
 system(command)
 
@@ -53,15 +69,18 @@ file.out <- gsub(".png", ".ico", file.in)
 command <- paste('magick convert', file.keep, file.out, sep = " ")
 system(command)
 
-files <- list.files("./images/favicon/", pattern = ".png", full.names = T)
-for (file in files) {
-  file.remove(file)
+for (i in c(1:4)) {
+  number <- i * basis
+  file.out <- gsub(".png", paste(".", number, ".png", sep = ""), file.in)
+  file.remove(file.out)
 }
 
 #-----------------------------------------------------------------------------------------------------------
 # make cover page
 file.in <- c("./images/cover/cover.svg")
-file.out <- gsub(".svg", ".jpg", file.in)
+file.out <- gsub(".svg", ".png", file.in)
+file.out <- c("cover.png")
+
 command <- paste('inkscape  -e', file.out, file.in, sep = " ")
 system(command)
 file.out <- gsub(".svg", ".pdf", file.in)
