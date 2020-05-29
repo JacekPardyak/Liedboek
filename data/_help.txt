@@ -312,3 +312,17 @@ De-weg;Een groot deel van het skelet is in de modder verzonken.; Duża część 
 
 Zeg-me-dat-het-niet-zo-is;Ik kan allerlei verraad en oneerlijkheid vergeven.; Mogę wybaczyć wszelkiego rodzaju zdradę i nieuczciwość.
 Zeg-me-dat-het-niet-zo-is;Laten we doen alsof we buitenaardse wezens zijn.; Udawajmy, że jesteśmy kosmitami.
+
+Als-ze-er-niet-is;Je zou dit onderhand moeten weten.; Powinieneś już to wiedzieć wcześniej. 
+Als-ze-er-niet-is;Die drugs kocht ik pas later.; Te narkotyki kupiłem dopiero później.
+Als-ze-er-niet-is;Hoe heb jij het gehad, Ewa?; Jak ci poszło Ewa?
+Als-ze-er-niet-is;Ik weet niet hoe het was.; Nie wiem, jak to było.
+Als-ze-er-niet-is;Als ik op dreef ben blijf ik door ratelen.; Gdy zacznę, nic mnie nie zatrzyma.
+
+Ben-ik-te-min;Ik heb hier nog niet gedaan.; Mam tu jeszcze coś do zrobienia.
+Ben-ik-te-min;Stomme stad, wat is dit nou weer?; Co to do diabła znowu ma być?
+Ben-ik-te-min;Ik weet dat ik je verdriet doe.; Wiem, że sprawiam ci ból.
+Ben-ik-te-min;Het is niet zo heel erg belangrijk.; To nie jest aż tak bardzo ważne.
+Ben-ik-te-min;Concentreer je maar op je werk.; Po prostu skup się na pracy.
+Ben-ik-te-min;Wat in de sodemieter was dat?; Co to było do cholery?
+Ben-ik-te-min;Het ergste van dit alles is dat ze niets om je geeft.; Najgorsze z tego wszystkiego jest to, że ona nie dba o ciebie.

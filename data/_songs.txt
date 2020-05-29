@@ -48,7 +48,7 @@ Pastorale;Klasyka;Manual;Lennaert Nijgh and Boudewijn de Groot;Ramses Shaffy & L
 
 Per-spoor;Klasyka;Manual;Guus Meeuwis;Guus Meeuwis & Vagant;Per spoor (Kedeng kedeng);Koleją (Bang bang);1996;to zapis z podróży pociągiem do dziewczyny.;https://youtu.be/lSxh-UK7Ays
 
-Zing-vecht-huil-bid-lach-werk-en-bewonder;Klasyka;Manual;Ramses Shaffy;Ramses Shaffy;Zing, Vecht, Huil, Bid, Lach, Werk en Bewonder;Śpiewaj, Walcz, Płacz, Módl Się, Śmiej Się, Pracuj i Podziwiaj;1971; "NOTE";https://youtu.be/xg07TjHOlUM
+Zing-vecht-huil-bid-lach-werk-en-bewonder;Klasyka;Manual;Ramses Shaffy;Ramses Shaffy;Zing, Vecht, Huil, Bid, Lach, Werk en Bewonder;Śpiewaj, Walcz, Płacz, Módl Się, Śmiej Się, Pracuj i Podziwiaj;1971;napisał i wykonał syn polskiej hrabiny Alexandry de Wysocka ;https://youtu.be/xg07TjHOlUM
 
 Belgie;Klasyka;Manual;Henk Westbroek;Het Goede Doel;België (Is er leven op Pluto...?);Belgia (Czy na Plutonie jest życie ...?);1982;to chyba jedyna piosenka, w której pojawia się Polska;https://youtu.be/jwucIydijEo
 
@@ -62,7 +62,7 @@ Het-regent-zonnestralen;Klasyka;Manual;Thomas Acda and Paul de Munnik;Acda & De 
 
 Zoutelande;Klasyka;Manual;Axel Bosse and Peter Slager;"BL&Oslash;F & Geike Arnaert";Zoutelande;Zoutelande;2017;to niderlandzkojęzyczny cover piosenki 'Frankfurt Oder' niemieckiej pary Axel Bosse & Anna Loos;https://youtu.be/N0OLEgc-Glk
 
-Suzanne;Do-tanca;Manual;Ferdi Lancee;VOF de Kunst;Suzanne;Suzanne;1983;to piosenka z największą liczbą coverów wykonanych w innych językach. Michał Wiśniewski napisał polskie słowa do jego piosenki Zuzanna, dość odległe od oryginału;https://youtu.be/jgiPEsgkhKk
+Suzanne;Do-tanca;Manual;Ferdi Lancee;VOF de Kunst;Suzanne;Suzanne;1983;to piosenka z największą liczbą coverów wykonanych w innych językach. Michał Wiśniewski napisał swoje polskie słowa do jego piosenki Zuzanna, jakby dość odległe od oryginału;https://youtu.be/jgiPEsgkhKk
 
 Dat-komt-door-jou;Klasyka;Manual;Guus Meeuwis and Leo Driessen and Lorenzo Cherubini and Franco Santarnecchi;Guus Meeuwis;Dat komt door jou;Dat komt door jou;2009; "NOTE";https://youtu.be/fl3epWazJxs
 Dochters;Klasyka;Manual;John Ewbank;Marco Borsato;Dochters;Córki;2008;mają tekst niezwykle podobny do Butterfly Kisses Boba Carlisle'a z 1997 roku;https://youtu.be/7azASBMAkOU
@@ -73,4 +73,12 @@ Testament;Klasyka;Manual;Lennaert Nijgh;Boudewijn de Groot;Testament;Testament;1
 
 De-weg;Do-rozanca;Manual;Herbert Grönemeyer;Guus Meeuwis;De weg;Droga;2002;to luźny cover piosenki 'Der weg' niemieckiego piosenkarza Herberta Grönemeyera;https://youtu.be/vuGcIfMq65A
 
-Zeg-me-dat-het-niet-zo-is;Klasyka;Manual;Frank Boeijen;Frank Boeijen Groep;Zeg me dat het niet zo is;"Powiedz, że to nie jest tak";1990;stała się popularna jedynie dzięki innym wykonawcom;https://youtu.be/BKiwbpRvh84
+Zeg-me-dat-het-niet-zo-is;Klasyka;Manual;Frank Boeijen;Frank Boeijen Groep;Zeg me dat het niet zo is;Powiedz, że to nie jest tak;1990;stała się popularna jedynie dzięki innym wykonawcom;https://youtu.be/BKiwbpRvh84
+
+Als-ze-er-niet-is;Klasyka;Manual;Huub van der Lubbe and Hans van der Lubbe;De Dijk;Als ze er niet is;Kiedy jej nie ma;1994; ...;https://youtu.be/vn_pUxADmoY
+
+#November;Klasyka;Manual;Jack Poels;Rowwen Hèze;November;Listopad;2000;jest oparty na starej irlandzkiej pieśni ludowej: On Raglan Road. Tekst napisano w dialekcie Horsters, jednym z używanych w prowincji Limburg;https://youtu.be/TFqv6O8onkE
+
+Ben-ik-te-min;Klasyka;Manual;Herman van Loenhout;Armand;Ben ik te min;Nie jestem godny;1966; "NOTE";https://youtu.be/1PA5S1LyXQI
+
+Zij-gelooft-in-mij;Klasyka;Manual;André Hazes and Steve Gibb;André Hazes;Zij gelooft in mij;Ona wierzy we mnie;1981;to cover piosenki She believes wykonanej przez Kenny Rogersa;https://youtu.be/VAc9opfAEYQ

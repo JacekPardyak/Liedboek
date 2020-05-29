@@ -1,0 +1,31 @@
+0;1;Wil je blijven, oké
+0;1;Het heeft toch geen enkele zin
+0;1;Als je me maar niet ziet als de jongen met de rozen
+0;1;Want dan stort die hele droomwereld in
+0;1;Jij was, zoals we dat noemden "het materialistische type"
+0;1;Maar daar heb je nu nog weinig meer van
+0;1;Jij bent nu net zo idealistisch als ik
+0;1;Maar hoe wil je 't in godsnaam anders dan
+
+1;2;Ben ik te min
+1;2;Ben ik te min omdat je ouders meer poen hebben dan de mijne
+1;2;Ben ik te min
+1;2;Ben ik te min omdat je pa in een grotere kar rijdt dan de mijne
+
+0;3;En toch wil je blijven maar je pa die wil het niet
+0;3;Ik denk dat je beter kunt gaan
+0;3;En je moeder die doe je ook al veel verdriet
+0;3;En als je thuiskomt zal ze zeggen 'wat doe je me aan'
+0;3;Jouw moeder die ik moest aanhoren met haar achterlijk gezeik
+0;3;Over de studie van je broer
+0;3;En je pa die zo'n succesvol zakenman was
+0;3;Met andere woorden "wat ben je een boer"
+
+0;4;Maar kijk uit
+0;4;Je bent het niet gewend om te vreten van de straat
+0;4;Als je lichamelijk maar niet zo erg belangrijk vind
+0;4;Want dat is het in feite niet waar het om gaat
+0;4;En als je 't aankunt goed, kom dan gerust weer
+0;4;En anders dan sodemieter je maar op
+0;4;Want het is echt niet dat ik niets om je geeft
+0;4;Maar zo duw je je hoofd in een strop

@@ -8,8 +8,8 @@
 0;2;Dan was morgen
 0;2;Morgen waarschijnlijk weer zo’n dag
 
-1;3;En ik kan het niet 
-1;3;Ik kan er niet omheen 
+1;3;O ik kan het niet 
+1;3;Ik kan het niet omheen 
 1;3;Ik kan het niet 
 1;3;Ik kan het niet alleen
 

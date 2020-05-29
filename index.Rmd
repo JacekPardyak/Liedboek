@@ -28,7 +28,8 @@ invisible(Sys.setlocale("LC_ALL","Polish"))
 #songs <- read.csv("./data/_songs.txt", sep = ";", encoding = "UTF-8", stringsAsFactors = F)
 songs <- readr::read_delim(file = "./data/_songs.txt",
                          locale = readr::locale("nl"),
-                          delim = ";" )
+                          delim = ";" ,
+                         comment = "#")
 
 chapters <- readr::read_delim(file = "./data/_chapters.txt",
                          locale = readr::locale("nl"),
